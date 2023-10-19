@@ -74,7 +74,7 @@ const Chat = () => {
             <ConversationHeader.Content userName="bot" info="Active now" />
           </ConversationHeader>
 
-          <MessageList typingIndicator={<TypingIndicator content="bot is typing" />}>
+          <MessageList typingIndicator={isDisabled ? <TypingIndicator content="bot is thinking" /> : null}>
             {messages.map((message, index) => (
               <Message key={index} model={message}>
                 <Avatar src={message.sender === 'bot' ? botIco : userIco} name={message.sender} />
