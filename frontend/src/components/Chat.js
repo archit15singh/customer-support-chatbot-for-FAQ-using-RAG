@@ -35,7 +35,6 @@ const Chat = () => {
                     position: "single"
                 }}>
                     <Avatar src={botIco} name={"bot"} />
-                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
 
             <MessageSeparator content="Saturday, 30 November 2019" />
@@ -46,7 +45,6 @@ const Chat = () => {
                     position: "single"
                 }}>
                     <Avatar src={botIco} name={"bot"} />
-                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
                 
 
@@ -57,7 +55,6 @@ const Chat = () => {
                     position: "single"
                 }}>
                     <Avatar src={userIco} name={"user"} />
-                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
 
 
@@ -74,7 +71,6 @@ const Chat = () => {
                     position: "last"
                 }}>
                     <Avatar src={botIco} name={"bot"} />
-                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
 
 
@@ -91,7 +87,6 @@ const Chat = () => {
                     position: "last"
                 }}>
                     <Avatar src={userIco} name={"user"} />
-                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
                 
                 <MessageSeparator content="Saturday, 31 November 2019" />
@@ -102,7 +97,6 @@ const Chat = () => {
                     direction: "incoming",
                     position: "last"
                 }}>
-                    <Message.Footer sentTime="15 mins ago" />
                     <Avatar src={botIco} name={"user"} />
                 </Message>
         
