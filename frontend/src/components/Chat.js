@@ -62,24 +62,12 @@ const Chat = () => {
                     message: "Hello world",
                     sender: "bot",
                     direction: "incoming",
-                    position: "normal"
-                }} avatarSpacer />
-                <Message model={{
-                    message: "Hello world",
-                    sender: "bot",
-                    direction: "incoming",
                     position: "last"
                 }}>
                     <Avatar src={botIco} name={"bot"} />
                 </Message>
 
 
-                <Message model={{
-                    message: "Hello world",
-                    sender: localSender,
-                    direction: "outgoing",
-                    position: "normal"
-                }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
                     sender: localSender,
