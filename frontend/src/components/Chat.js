@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';
 import {
   MainContainer,
@@ -16,8 +16,11 @@ import userIco from '../assets/astronaut.png'
 const Chat = () => {
   const localSender = 'astronaut';
   
+  const [inputValue, setInputValue] = useState('');
+  
   const handleSend = () => {
     console.log("Sending");
+    setInputValue('');
   }
 
   return (
@@ -94,7 +97,9 @@ const Chat = () => {
         <MessageInput 
         onSend={handleSend}
         attachButton={false} 
-        placeholder="Type message here" 
+        placeholder="Type message here"
+        value={inputValue}
+        onChange={(newValue) => setInputValue(newValue)}
         autoFocus />        
       
       </ChatContainer>
