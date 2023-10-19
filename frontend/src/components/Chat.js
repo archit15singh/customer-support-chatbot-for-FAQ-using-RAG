@@ -8,8 +8,7 @@ import {
   MessageInput,
   ConversationHeader,
   Avatar,
-  TypingIndicator,
-  MessageSeparator
+  TypingIndicator
 } from '@chatscope/chat-ui-kit-react';
 import botIco from '../assets/bot.png'
 import userIco from '../assets/astronaut.png'
@@ -17,6 +16,10 @@ import userIco from '../assets/astronaut.png'
 const Chat = () => {
   const localSender = 'astronaut';
   
+  const handleSend = () => {
+    console.log("Sending");
+  }
+
   return (
     <div style={{position: "relative", height: "80vh"}}>
     <MainContainer>
@@ -37,7 +40,6 @@ const Chat = () => {
                     <Avatar src={botIco} name={"bot"} />
                 </Message>
 
-            <MessageSeparator content="Saturday, 30 November 2019" />
                 <Message model={{
                     message: "Hello world",
                     sender: "bot",
@@ -77,7 +79,6 @@ const Chat = () => {
                     <Avatar src={userIco} name={"user"} />
                 </Message>
                 
-                <MessageSeparator content="Saturday, 31 November 2019" />
                 
                 <Message model={{
                     message: "Hello world",
@@ -90,7 +91,11 @@ const Chat = () => {
         
         </MessageList>
         
-        <MessageInput attachButton={false} placeholder="Type message here" autoFocus />        
+        <MessageInput 
+        onSend={handleSend}
+        attachButton={false} 
+        placeholder="Type message here" 
+        autoFocus />        
       
       </ChatContainer>
     </MainContainer>
