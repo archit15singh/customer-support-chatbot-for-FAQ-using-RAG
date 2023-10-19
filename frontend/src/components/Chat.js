@@ -102,7 +102,7 @@ const Chat = () => {
         
         </MessageList>
         
-        <MessageInput placeholder="Type message here" />        
+        <MessageInput attachButton={false} placeholder="Type message here" autoFocus />        
       
       </ChatContainer>
     </MainContainer>

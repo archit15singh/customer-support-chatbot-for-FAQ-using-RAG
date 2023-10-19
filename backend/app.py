@@ -1,8 +1,11 @@
+import time
+
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
 def generate_response(user_message):
+    time.sleep(5)
     response = f"You said: {user_message}"
     return response
 
