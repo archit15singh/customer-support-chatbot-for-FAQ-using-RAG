@@ -17,7 +17,7 @@ const Chat = () => {
   const localSender = 'archit';
   
   return (
-    <div style={{position: "relative", height: "500px"}}>
+    <div style={{position: "relative", height: "70vh"}}>
     <MainContainer>
       <ChatContainer>
         
