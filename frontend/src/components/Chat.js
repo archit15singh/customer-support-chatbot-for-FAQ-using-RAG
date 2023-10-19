@@ -12,55 +12,58 @@ import {
 } from '@chatscope/chat-ui-kit-react';
 import botIco from '../assets/bot.png';
 import userIco from '../assets/astronaut.png';
+import axios from 'axios';
 
 const Chat = () => {
   const localSender = 'astronaut';
+  const botReceiver = 'bot';
 
   const [inputValue, setInputValue] = useState('');
+  const [isDisabled, setIsDisabled] = useState(false);
 
   const handleSend = () => {
-    console.log('Sending');
-    setInputValue('');
+    setIsDisabled(true);
+
+    const newUserMessage = {
+      message: inputValue,
+      sender: localSender,
+      direction: 'outgoing',
+      position: 'single',
+    };
+    setMessages((prevMessages) => [...prevMessages, newUserMessage]);
+
+    axios
+      .post('http://localhost:5000/chat', { user_message: inputValue })
+      .then((response) => {
+        const newBotMessage = {
+          message: response.data.response,
+          sender: botReceiver,
+          direction: 'incoming',
+          position: 'single',
+        };
+
+        setMessages((prevMessages) => [...prevMessages, newBotMessage]);
+        setInputValue('');
+        setIsDisabled(false);
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+        setIsDisabled(false);
+      })
+      .finally(() => {
+        setIsDisabled(false);
+      });
+
   };
 
-  const messages = [
+  const [messages, setMessages] = useState([
     {
-      message: 'start from here?',
-      sender: 'bot',
+      message: 'hello, how can i help you?',
+      sender: botReceiver,
       direction: 'incoming',
       position: 'single',
-    },
-    {
-      message: 'Hello world',
-      sender: 'bot',
-      direction: 'incoming',
-      position: 'single',
-    },
-    {
-      message: 'Hello world',
-      sender: localSender,
-      direction: 'outgoing',
-      position: 'single',
-    },
-    {
-      message: 'Hello world',
-      sender: 'bot',
-      direction: 'incoming',
-      position: 'last',
-    },
-    {
-      message: 'Hello world',
-      sender: localSender,
-      direction: 'outgoing',
-      position: 'last',
-    },
-    {
-      message: 'Hello world',
-      sender: 'bot',
-      direction: 'incoming',
-      position: 'last',
-    },
-  ];
+    }
+  ]);
 
   return (
     <div style={{ position: 'relative', height: '80vh' }}>
@@ -86,6 +89,7 @@ const Chat = () => {
             value={inputValue}
             onChange={(newValue) => setInputValue(newValue)}
             autoFocus
+            disabled={isDisabled}
           />
         </ChatContainer>
       </MainContainer>
