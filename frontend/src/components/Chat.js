@@ -12,9 +12,10 @@ import {
   MessageSeparator
 } from '@chatscope/chat-ui-kit-react';
 import botIco from '../assets/bot.png'
+import userIco from '../assets/astronaut.png'
 
 const Chat = () => {
-  const localSender = 'archit';
+  const localSender = 'astronaut';
   
   return (
     <div style={{position: "relative", height: "70vh"}}>
@@ -23,7 +24,7 @@ const Chat = () => {
         
         <ConversationHeader>
           <Avatar src={botIco} name="bot" />
-          <ConversationHeader.Content userName="bot" info="Active 10 mins ago" />
+          <ConversationHeader.Content userName="bot" info="Active now" />
         </ConversationHeader>
         
         <MessageList typingIndicator={<TypingIndicator content="bot is typing" />}>
@@ -38,27 +39,18 @@ const Chat = () => {
                     <Avatar src={botIco} name={"bot"} />
                 </Message>
                 
+
                 <Message model={{
                     message: "Hello world",
                     sentTime: "15 mins ago",
                     sender: localSender,
                     direction: "outgoing",
                     position: "single"
-                }} />
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    sender: "bot",
-                    direction: "incoming",
-                    position: "first"
-                }} avatarSpacer />
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    sender: "bot",
-                    direction: "incoming",
-                    position: "normal"
-                }} avatarSpacer />
+                }}>
+                    <Avatar src={userIco} name={"bot"} />
+                </Message>
+
+
                 <Message model={{
                     message: "Hello world",
                     sentTime: "15 mins ago",
@@ -75,56 +67,24 @@ const Chat = () => {
                 }}>
                     <Avatar src={botIco} name={"bot"} />
                 </Message>
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    direction: "outgoing",
-                    position: "first"
-                }} />
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    direction: "outgoing",
-                    position: "normal"
-                }} />
+
+
                 <Message model={{
                     message: "Hello world",
                     sentTime: "15 mins ago",
                     direction: "outgoing",
                     position: "normal"
-                }} />
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    direction: "outgoing",
-                    position: "last"
-                }} />
-                
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    sender: "bot",
-                    direction: "incoming",
-                    position: "first"
                 }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
                     sentTime: "15 mins ago",
-                    sender: "bot",
-                    direction: "incoming",
+                    direction: "outgoing",
                     position: "last"
                 }}>
-                    <Avatar src={botIco} name={"bot"} />
+                    <Avatar src={userIco} name={"bot"} />
                 </Message>
                 
                 <MessageSeparator content="Saturday, 31 November 2019" />
-                <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
-                    sender: "bot",
-                    direction: "incoming",
-                    position: "first"
-                }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
                     sentTime: "15 mins ago",
