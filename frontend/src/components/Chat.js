@@ -18,7 +18,7 @@ const Chat = () => {
   const localSender = 'astronaut';
   
   return (
-    <div style={{position: "relative", height: "70vh"}}>
+    <div style={{position: "relative", height: "80vh"}}>
     <MainContainer>
       <ChatContainer>
         
@@ -28,10 +28,18 @@ const Chat = () => {
         </ConversationHeader>
         
         <MessageList typingIndicator={<TypingIndicator content="bot is typing" />}>
+                <Message model={{
+                    message: "start from here?",
+                    sender: "bot",
+                    direction: "incoming",
+                    position: "single"
+                }}>
+                    <Avatar src={botIco} name={"bot"} />
+                </Message>
+
             <MessageSeparator content="Saturday, 30 November 2019" />
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "single"
@@ -42,25 +50,22 @@ const Chat = () => {
 
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: localSender,
                     direction: "outgoing",
                     position: "single"
                 }}>
-                    <Avatar src={userIco} name={"bot"} />
+                    <Avatar src={userIco} name={"user"} />
                 </Message>
 
 
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "normal"
                 }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "last"
@@ -71,28 +76,28 @@ const Chat = () => {
 
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
+                    sender: localSender,
                     direction: "outgoing",
                     position: "normal"
                 }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
+                    sender: localSender,
                     direction: "outgoing",
                     position: "last"
                 }}>
-                    <Avatar src={userIco} name={"bot"} />
+                    <Avatar src={userIco} name={"user"} />
                 </Message>
                 
                 <MessageSeparator content="Saturday, 31 November 2019" />
+                
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "last"
                 }}>
-                    <Avatar src={botIco} name={"bot"} />
+                    <Avatar src={botIco} name={"user"} />
                 </Message>
         
         </MessageList>
