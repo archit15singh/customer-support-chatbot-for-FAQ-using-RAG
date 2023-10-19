@@ -28,71 +28,82 @@ const Chat = () => {
         </ConversationHeader>
         
         <MessageList typingIndicator={<TypingIndicator content="bot is typing" />}>
-            <MessageSeparator content="Saturday, 30 November 2019" />
                 <Message model={{
-                    message: "Hello world",
-                    sentTime: "15 mins ago",
+                    message: "start from here?",
                     sender: "bot",
                     direction: "incoming",
                     position: "single"
                 }}>
                     <Avatar src={botIco} name={"bot"} />
+                    <Message.Footer sentTime="15 mins ago" />
+                </Message>
+
+            <MessageSeparator content="Saturday, 30 November 2019" />
+                <Message model={{
+                    message: "Hello world",
+                    sender: "bot",
+                    direction: "incoming",
+                    position: "single"
+                }}>
+                    <Avatar src={botIco} name={"bot"} />
+                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
                 
 
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: localSender,
                     direction: "outgoing",
                     position: "single"
                 }}>
-                    <Avatar src={userIco} name={"bot"} />
+                    <Avatar src={userIco} name={"user"} />
+                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
 
 
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "normal"
                 }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "last"
                 }}>
                     <Avatar src={botIco} name={"bot"} />
+                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
 
 
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
+                    sender: localSender,
                     direction: "outgoing",
                     position: "normal"
                 }} avatarSpacer />
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
+                    sender: localSender,
                     direction: "outgoing",
                     position: "last"
                 }}>
-                    <Avatar src={userIco} name={"bot"} />
+                    <Avatar src={userIco} name={"user"} />
+                    <Message.Footer sentTime="15 mins ago" />
                 </Message>
                 
                 <MessageSeparator content="Saturday, 31 November 2019" />
+                
                 <Message model={{
                     message: "Hello world",
-                    sentTime: "15 mins ago",
                     sender: "bot",
                     direction: "incoming",
                     position: "last"
                 }}>
-                    <Avatar src={botIco} name={"bot"} />
+                    <Message.Footer sentTime="15 mins ago" />
+                    <Avatar src={botIco} name={"user"} />
                 </Message>
         
         </MessageList>
