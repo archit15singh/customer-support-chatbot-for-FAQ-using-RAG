@@ -15,11 +15,20 @@ import userIco from '../assets/astronaut.png';
 import axios from 'axios';
 
 const Chat = () => {
-  const localSender = 'astronaut';
+  const localSender = 'user';
   const botReceiver = 'bot';
 
   const [inputValue, setInputValue] = useState('');
   const [isDisabled, setIsDisabled] = useState(false);
+
+  const [messages, setMessages] = useState([
+    {
+      message: 'hello world, how can i help you?',
+      sender: botReceiver,
+      direction: 'incoming',
+      position: 'single',
+    }
+  ]);
 
   const handleSend = () => {
     setIsDisabled(true);
@@ -33,7 +42,7 @@ const Chat = () => {
     setMessages((prevMessages) => [...prevMessages, newUserMessage]);
 
     axios
-      .post('http://localhost:5000/chat', { user_message: inputValue })
+      .post('http://localhost:5000/chat', { user_message: inputValue, conversation_history: messages})
       .then((response) => {
         const newBotMessage = {
           message: response.data.response,
@@ -55,15 +64,6 @@ const Chat = () => {
       });
 
   };
-
-  const [messages, setMessages] = useState([
-    {
-      message: 'hello world, how can i help you?',
-      sender: botReceiver,
-      direction: 'incoming',
-      position: 'single',
-    }
-  ]);
 
   return (
     <div style={{ position: 'relative', height: '80vh' }}>
