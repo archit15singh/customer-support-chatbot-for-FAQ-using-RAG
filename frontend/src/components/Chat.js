@@ -58,7 +58,7 @@ const Chat = () => {
 
   const [messages, setMessages] = useState([
     {
-      message: 'hello, how can i help you?',
+      message: 'hello world, how can i help you?',
       sender: botReceiver,
       direction: 'incoming',
       position: 'single',
@@ -71,7 +71,7 @@ const Chat = () => {
         <ChatContainer>
           <ConversationHeader>
             <Avatar src={botIco} name="bot" />
-            <ConversationHeader.Content userName="bot" info="Active now" />
+            <ConversationHeader.Content userName="Twitter Bot" info="Active now" />
           </ConversationHeader>
 
           <MessageList typingIndicator={isDisabled ? <TypingIndicator content="bot is thinking" /> : null}>
