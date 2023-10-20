@@ -1,5 +1,7 @@
 # customer-support-chatbot-mistral-7b-with-memory
 
+Demo: https://www.loom.com/share/491ce88daed946ac9e9badf66438121a?sid=8eddd247-604b-45b3-abf6-bbbc7e975662
+
 Conversational chatbot using mistral-7b model to support any customer support use case with memory.
 The bot remembers the entire conversation and can be used to summarise, distill etc history and ask subsequent questions on it.
  
