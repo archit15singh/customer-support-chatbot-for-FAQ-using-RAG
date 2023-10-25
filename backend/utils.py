@@ -3,7 +3,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.llms import Ollama
 import os
-
+import time
 
 def initialize_qa_system():
     model = os.environ.get("MODEL", "mistral-openorca")
@@ -34,18 +34,23 @@ def extract_related_context(docs):
     return related_context
 
 def run(qa, query):
+    s = time.time()
     res = qa(query)
+    e = time.time()
+    print(f"took {e-s} seconds to complete RAG based QA")
     answer, docs = res['result'], res['source_documents']
 
+    s = time.time()
     related_context = extract_related_context(docs)
     related_questions = generate_related_questions(qa, query, related_context)
+    e = time.time()
+    print(f"took {e-s} seconds to generate related_questions")
     
     return answer, related_questions
 
 def generate_rag_response(query):
+    s = time.time()
     qa = initialize_qa_system()
+    e = time.time()
+    print(f"took {e-s} seconds to complete initialize_qa_system")
     return run(qa, query)
-
-def generate_response(query):
-    qa = initialize_qa_system()
-    return qa(query)['result']
