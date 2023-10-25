@@ -1,5 +1,3 @@
-Certainly, here's the consistent formatting for your content:
-
 # Customer Support Chatbot for X (Twitter)
 
 "Customer Support Chatbot for X (Twitter)" is a solution for enhanced customer support on X (Twitter). Powered by the [Mistral-7B model](https://mistral.ai/news/announcing-mistral-7b/), it excels in providing exceptional customer support assistance.
