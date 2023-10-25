@@ -23,13 +23,18 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.docstore.document import Document
 import os
+import shutil
+
 
 PERSIST_DIRECTORY = os.environ.get('PERSIST_DIRECTORY', 'db')
+
+if os.path.exists(PERSIST_DIRECTORY):
+    shutil.rmtree(PERSIST_DIRECTORY)
 
 persist_directory = os.environ.get('PERSIST_DIRECTORY', 'db')
 source_directory = os.environ.get('SOURCE_DIRECTORY', 'raw_txt')
 embeddings_model_name = os.environ.get('EMBEDDINGS_MODEL_NAME', 'all-MiniLM-L6-v2')
-chunk_size = 500
+chunk_size = 1000
 chunk_overlap = 50
 
 class MyElmLoader(UnstructuredEmailLoader):
@@ -78,9 +83,6 @@ def load_single_document(file_path: str) -> List[Document]:
     raise ValueError(f"Unsupported file extension '{ext}'")
 
 def load_documents(source_dir: str, ignored_files: List[str] = []) -> List[Document]:
-    """
-    Loads all documents from the source documents directory, ignoring specified files
-    """
     all_files = []
     for ext in LOADER_MAPPING:
         all_files.extend(
@@ -98,9 +100,6 @@ def load_documents(source_dir: str, ignored_files: List[str] = []) -> List[Docum
     return results
 
 def process_documents(ignored_files: List[str] = []) -> List[Document]:
-    """
-    Load documents and split in chunks
-    """
     print(f"Loading documents from {source_directory}")
     documents = load_documents(source_directory, ignored_files)
     if not documents:
@@ -113,9 +112,6 @@ def process_documents(ignored_files: List[str] = []) -> List[Document]:
     return texts
 
 def does_vectorstore_exist(persist_directory: str) -> bool:
-    """
-    Checks if vectorstore exists
-    """
     if os.path.exists(os.path.join(persist_directory, 'index')):
         if os.path.exists(os.path.join(persist_directory, 'chroma-collections.parquet')) and os.path.exists(os.path.join(persist_directory, 'chroma-embeddings.parquet')):
             list_index_files = glob.glob(os.path.join(persist_directory, 'index/*.bin'))
