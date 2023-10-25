@@ -1,0 +1,108 @@
+Post location FAQs | X Help
+Skip to main content                                  Help Center
+Post location FAQs                                Below are some answers to
+common questions regarding posting with your location.Learn about how to   post
+with your location.What location information is attached to my posts?      
+Enabling precise location allows you to selectively add location information to
+your posts.This feature is off by default and you will need to opt in to use it.
+ This allows X to collect, store, and use your precise location, such as GPS
+information.Once you've  enabled precise location , you will be able to attach a
+location (such as a city or neighborhood) of your choice to your post.Simply tap
+the location marker while composing your post, and select the location you wish
+to tag.Note:  Once you post with a location, your next post will automatically
+include a general location label.Learn how to  turn location off  at any
+time.Third-party applications or websites may let you post with location,
+including your precise location.We ask these developers to clearly explain what
+information is being shared when you use their products to post with location. 
+    What controls do I have when I attach location information to my posts?
+   Even after you enable posting with your location, you have additional control
+over which posts (and what type of location information) is shared.With this in
+mind:   post location is  off by default , and you will need to  opt in  to the
+service.You can turn post location on or off at any time.   You can  delete your
+past location data from displaying in your posts  in a single place (see this
+article  for step-by-step instructions).Be cautious and careful about the amount
+of information you share online.There may be some updates where you want to
+share your location ("The parade is starting now" or "A truck just spilled
+delicious candy all over the roadway!"), and some updates where you want to keep
+your location private.Just like you might not want to post your home address,
+please be cautious when posting from locations that you don't want others to
+see.Remember that when you're opted into post location, suggested locations may
+be offered to you, but you can still choose  not  to share your location for
+individual posts (see this  article  for instructions).Please familiarize
+yourself with our general location settings and the settings of any applications
+and devices you post with so that you are always aware of the information you
+share.Remember, once you post something online, itâs out there for others to
+see.     What location information is displayed?         All geolocation
+information begins as a location (latitude and longitude), sent from your
+browser or device.X won't show any location information unless  you've  opted in
+to the feature , and have allowed your device or browser to transmit your
+coordinates to us.If you have chosen to attach location information to your
+posts, your selected location label is displayed underneath the text of the
+post.On x.com, you can select a location label such as the name of a
+neighborhood or city.When you use the in-app camera on X for iOS and Android to
+attach a photo or video to your post  and toggle on the option to tag your
+precise location, that post will include both the location label of your choice
+and your device's precise location (latitude and longitude), which can be found
+via API.Your precise location may be more specific than the location label you
+select.  This is helpful when sharing on-the-ground moments.Note:   The option
+to share your precise location from the in-app camera is currently available
+only on newer versions of X for iOS (6.26 or later) and on newer versions of X
+for Android (version 5.55 or later).   Application developers are required to be
+up-front and obvious about whether your exact coordinates, or just the place,
+will be included in your post.When you post from a third-party application or
+mobile device, it should be clear which type of data will be included in your
+post.Note:  In some areas, you have the option to label your post with a
+specific business, landmark, or point of interest.These places are sourced from
+Foursquare.If you see an issue with a place, please report it via
+Foursquareâs Help Center.If you believe that a specific post is abusive,
+please report it to X.Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

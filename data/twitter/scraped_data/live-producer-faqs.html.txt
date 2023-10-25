@@ -1,0 +1,154 @@
+Media Studio LiveCut in Producer
+Skip to main content                                  Help Center
+Media Studio LiveCut in Producer                                LiveCut is Media
+Studio's video editing tool that allows you to create video clip highlights from
+your broadcasts and share them to X in real-time.Designed to require no
+technical editing expertise, LiveCut's easy-to-use video production tools can
+help get your content in front of wider audiences faster.Clip from broadcasts
+live or ended, public or private, or created via Periscope, X Camera or API.To
+use LiveCut, go to Producer in Media Studio and hover over or click on any
+broadcast in the list, and then click  Edit in LiveCut  to get started.How to
+create clips in LiveCut How to create clips from broadcasts using LiveCut FAQs
+Errors   Posting from LiveCut How to post clips from a broadcast using LiveCut
+FAQs                                             Creating clips using LiveCut
+How to create clips from a broadcast using LiveCut                    Click on
+any broadcast in your broadcast list to open the Broadcast Details window.Click
+on the   Edit in LiveCut   button located underneath the preview player.Use the
+ Set start point   and   Set end point   buttons to begin creating your
+clip.Change the duration of the clip by using the left and right clipper
+bars.Use the   function   buttons to fine-tune the exact frame and length of
+your clip.You can also use keyboard shortcuts (see FAQs).+1 frame +1 second -1
+frame -1 second Play from start point Play last two seconds   Click the   Save
+ clip button when done.See your created clips in the Clips list, where you can
+continue to fine tune your clip editing, add metadata, and post.Creating clips
+using LiveCut - FAQs         What is the video quality of the clips?        If
+your original broadcast resolution is lower than 1280x720, your clips will adopt
+your original resolution size.If your broadcast resolution is 1280x720 or
+higher, all clips will be limited to a resolution size of 1280x720.     Are
+captions included in LiveCut clips?     We allow pass-through of both EIA-608
+and 708 captions from the broadcast.These will not be visible while editing in
+LiveCut, but will be included in any clips created from a broadcast with these
+embedded captions.Once a clip is posted, it will be available in the Library tab
+of Media Studio.Within your Library you can also add a.srt subtitle file to the
+posted video.          Will any of the broadcast settings be applied to clips
+created from that broadcast?     Clips created in LiveCut will automatically
+have the same category and geo-restrictions settings, if used.     Can multiple
+users create clips within LiveCut at the same time?     Yes, many users can work
+within LiveCut together to clip, edit, and post video clips.Users working
+together in the same broadcast should occasionally refresh their browser to
+ensure they see the most up-to-date list of created clips.     Why canât I
+clip from a broadcast?     This could be for one of three reasons:   Ensure that
+the broadcast has video content.You cannot clip from broadcasts that have not
+yet happened, or did not have video on the source when live.Ensure that âMake
+broadcast replay unavailableâ is unchecked in broadcast details.Either clip
+while the broadcast is live or at any time before the replay is made
+unavailable, or create a second âPrivateâ broadcast using a different source
+which can be used for clipping.Long broadcasts may cause issues within LiveCut;
+it is recommended that you not clip from broadcasts longer than 12 hours in
+length.     Are the clips made in the LiveCut frame accurate?     The LiveCut
+editor is not frame-accurate, and it is not unexpected to have your selected
+start or end points displaced by a few frames.          Why are my broadcasts
+and clips appearing pixelated in LiveCut, but my posts are not?       This is
+usually due to certain GOP settings on the sending encoder.We recommend using
+âClosed GOPsâ.On some encoders this may be named âForced IDRâ.        
+How can I make a GIF in LiveCut?       It is not possible to make a GIF in
+LiveCut, though X automatically loops posted videos that are under 1 minute in
+length.     How do I delete a clip that Iâve created in LiveCut?     A clip
+that has not been posted can easily be deleted via the Clips list within
+LiveCut.A clip that has been posted should be deleted in your Library in Media
+Studio.Deleting a posted clip from the Clips list in LiveCut will not delete the
+video that is live on X in your post.     Are there keyboard shortcuts I can use
+for clipping in LiveCut?     Yes, a list of keyboard shortcuts can be found
+within LiveCut by clicking the information link at the bottom left corner of the
+LiveCut window.These are the keyboard shortcuts:   PLAY/PAUSE video = SPACE BAR
+Set START point (in) = I   Set END point (out) = O   Focus controls on START
+point (in) = S   Focus controls on END point (out) = E   PLAY from start of clip
+= P   PLAY last two seconds of clip = L   Go BACK one frame =    Go BACK one
+second = SHIFT   Go FORWARD one frame =    Go FORWARD one second = SHIFT   OPEN
+keyboard shortcuts menu = ?           Creating clips using LiveCut - Common
+errors and warnings        Error: âUpload failedâ   This occasionally occurs
+when attempting to create a clip.Occasional clip failures are not unexpected for
+LiveCut.Reasons for this may be due to volume of clips being created within your
+account, reduced internet connectivity in your area, times of heavy traffic, or
+other transient issues.     Sometimes attempting to re-create the media
+altogether, or modifying it slightly, allows the clip to be created
+successfully.To modify a failed clip:     Click on it in the Clips list within
+LiveCut Click 'Edit media' and then edit the start or end time of your clip by a
+few frames Click 'Save' and then see if the clip gets created successfully    
+          Posting from LiveCut                         How to Post clips from a
+broadcast using LiveCut                    Click on any broadcast in your
+broadcast list to open the   Broadcast Details   window.Click on the   Edit in
+LiveCut   button located underneath the preview player.Click into one of your
+created clips within the   Clips   list.Click on the   post   button underneath
+the preview player.Within the post compose window, enter your post text (up to
+280 characters).Click the   post   button to immediately post your new
+post.Posting from LiveCut - FAQs        Why can I not post out my clip?
+Clips must finish processing before they can be posted.There is a processing
+wheel in the upper right corner of the clip thumbnail that fills in as the clip
+is being processed and disappears once processing is complete.     How long
+should I expect a clip to process before I can post it?     Clips can take up to
+half as long as the clip duration to process, after which they will be available
+to post.For example, a clip that is a minute long may take up to 30 seconds to
+complete processing.     Can I edit a clip once Iâve created or posted it?
+You are able to make edits to a video clip at any point after creating it in
+LiveCut.However once you have posted the clip, any new edits to the start or end
+point will result in a new copy of the clip added to your Clips list.The
+original posted clip will not be updated with your changes, and the new copy of
+the clip will not have saved any of the original clipâs metadata.          Can
+I edit a clipâs metadata in LiveCut after Iâve posted it?     Modifications
+to geo-restrictions and subtitles settings will be applied to all posts in which
+the media is shared on X, even retroactively.However, title, description,
+category, call-to-action, and embedding settings cannot be changed for an
+existing post -- any changes made to these settings will be reflected in any new
+posts created with that media.Share this article
+Post             Related Media Studio help   Overview   Library   Analytics
+Producer   LiveCut   Monetize
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

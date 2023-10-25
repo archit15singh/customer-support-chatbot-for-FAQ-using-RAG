@@ -1,0 +1,261 @@
+About advanced PostDeck features
+Skip to main content                                  Help Center
+About advanced X Pro features                                Get the best out of
+X with X Proâs advanced features â ideal for consuming and analyzing a lot
+of information at once.Customize your experience with post scheduling,
+collections, search, filtering, and more.Reordering columns     The column of
+icons listed on the left navigation bar, including  Home           ,  Activity
+,  Notifications         , and  mentions         , represent your  X Pro column
+order.To change the order, click an icon and drag it to your desired
+placement.Scheduling Posts                    X Pro  allows you to schedule
+posts in advance.If you manage multiple accounts through X Pro, you have the
+option to schedule posts for each of them.For those who use  X Pro in a
+corporate environment, note that all scheduled posts for accounts connected to
+your X Pro are visible to anyone with access.To schedule a post:     Sign in to
+your X Pro account and click the  post.   Confirm that the X account you'd like
+to post from is selected.   Compose your post.Include an image or video with the
+post by clicking  Add images or video.Click  Schedule post  and select the date
+and time youâd like the post posted.Click  Schedule post at [date/time].Tip:
+View and edit your scheduled posts by adding a  Scheduled  column.Read about
+adding columns  to your X Pro.Note:  X Pro does not support scheduled Direct
+Messages.             Collections     With collections, you can organize posts
+according to topics, events, interests, conversations, and more, all in real-
+time.Add your collections as columns, and post the URL to share it with others.
+   To create a collection on X Pro:     From the navigation bar, click on the
+plus  icon          to select  Add column.You can also use the keyboard shortcut
+A, to add a new column to your dashboard.Select  Collections  from the menu
+options.To start a new timeline select  Create collection.Click on the  Account
+drop-down menu to choose which account youâd like the collection to belong
+to.Type in a title for your collection in the  Name  field, and add a
+Description  (optional).Click  Save.Tip:  You can change the title and
+description of your collection at any time.To update your title, simply click
+into the title field and edit.To update your description, click the  pencil
+icon          to edit, then click  Save.To add or remove posts from your
+collection:   Find a post you would like to add to your collection and select
+the  more  icon .From the drop-down menu, select  Add to collection.You can also
+hover your cursor over your selected posts, then click the  drag  icon  
+to add posts to your collection.Click the checkbox next to the collection(s)
+youâd like to add the post to, then click  Done.Newly added posts will appear
+at the top of the collection column.To reorder posts in your collection, click
+the  drag  icon          and move the selected post up or down in your
+collection.You can also copy a post from one collection to another by holding
+down the drag icon and moving the desired post to another collection column.To
+remove a post, simply click on the  X  icon on a post within in a collection. 
+To share your collection:   Click the  filter  icon          at the top of your
+collection to access the columnâs options menu.Click the  share  
+ icon, then choose between:  Embed collection ,  View on x.com , or  post about
+this collection.Note:  Only public posts can be added to collections, which are
+public and viewable by all users through the collection's URL.Search
+Typeahead   When you begin to type characters into the search box,  X Pro will
+run a real-time search that attempts to autocomplete your search term, surfacing
+potentially relevant search topics and accounts.Different search topics will be
+shown on the top half of the drop-down menu, whereas user accounts will be shown
+on the bottom half.If you select one of the suggested search terms, you will be
+given the option to browse users related to that search topic or posts related
+to that search term.            Sentiment   It's easy to uncover sentiment
+surrounding a topic; simply search for a topic followed by a happy or sad
+emoticon.For example, you can create a search column with the keyword "San
+Francisco :)" to see posts regarding San Francisco in a positive manner.  
+Column filters   X Proâs column filters are a powerful way to customize
+searches by keyword, date and time, and to stay on top of new posts as columns
+quickly update.Click the  filter  icon          at the top of any column to
+access the options menu:   Content:  posts matching keywords, media type, dates
+and time, language, or including or excluding Reposts Location:  posts geotagged
+in a specified locations Users:  posts from a specific account, members of a
+List, or verified accounts Engagement:  posts with a minimum number of Reposts,
+likes, or replies Alerts:  post alerts through sound or desktop notifications
+    Wildcard   The asterisk is also a powerful filtering tool in a  X Pro search
+column.You can run searches using the keywords such as âSan Francisco is *.â
+This will yield posts containing text such as, â San Francisco is pretty,â
+âSan Francisco is small,â etc.     Search history   X Pro  makes it easy for
+you to re-run searches that you have previously completed.Click on the  search
+icon          located in the navigation bar and your previous searches will be
+displayed in a drop-down menu.You can always clear your previous searches by
+clicking on  Clear history  at the bottom on the drop-down menu.     Advanced
+search   After you run a search, you can customize your results even further by
+adding advanced search queries.     Examples:   To search for posts mentioning
+"#SanFrancisco" that link to news stories, type the following in the search box:
+#SanFrancisco filter:news To exclude a search term, use a negative filter type
+("-filter:type") in your search query.   To search for mentions of #space from
+verified accounts, excluding Reposts, type the following in the search box:
+#space filter:verified -filter:nativereposts To search for mentions of either
+âredâ or âblackâ, with mentions of either âcoldâ or âhotâ, with
+at least twenty Reposts, but excluding mentions of â#thedressâ, and linking
+to news sources, type the following in the search box: (red OR black) AND (cold
+OR hot) min_reposts:20 filter:news -#thedress        View more examples outlined
+below:                            Class           Operator           Finds
+Postsâ¦                Class           Post content               Operator
+love hate   love AND hate   (love hate)               Finds Postsâ¦
+Containing both "love" and "hate"                    Class
+Operator           love OR hate               Finds Postsâ¦           At least
+one of either "love" or "hate"                    Class
+Operator           -love               Finds Postsâ¦           Excluding "love"
+Class                       Operator           #tgif               Finds
+Postsâ¦           A hashtag                    Class
+Operator           $twtr               Finds Postsâ¦           A cashtag,
+useful for following stock information                    Class
+Operator           "love hate"               Finds Postsâ¦           The
+complete phrase "love hate"                    Class
+Operator           filter:news               Finds Postsâ¦           Containing
+link to a news story.Combine with a list operator to narrow the user set down
+further.Class                       Operator           filter:safe
+Finds Postsâ¦           Excluding NSFW content.Class           Users
+Operator           from:user               Finds Postsâ¦           Sent by a
+particular @username e.g."#space from:NASA"                    Class
+Operator           to:user               Finds Postsâ¦           Replying to a
+particular @username                    Class                       Operator
+"+@user"               Finds Postsâ¦           Mentioning a particular
+@username e.g."+@NASA"                    Class                       Operator
+list:user/list-name               Finds Postsâ¦           From members of this
+List e.g.list:NASA/space-posts                    Class
+Operator           filter:verified               Finds Postsâ¦           From
+verified users                    Class           Post info
+Operator           near:city               Finds Postsâ¦           Geotagged in
+this place                    Class                       Operator
+within:radius               Finds Postsâ¦           Within specific radius of
+the "near" operator, to apply a limit.Can use km or mi.e.g."fire near:san-
+francisco within:10km"                    Class                       Operator
+since:yyyy-mm-dd               Finds Postsâ¦           On or after a specified
+date                    Class                       Operator
+until:yyyy-mm-dd               Finds Postsâ¦           On or before a specified
+date.Combine with the "since" operator for dates between.Class
+Operator           filter:nativerePosts               Finds Postsâ¦
+Reposts from users who have hit the repost button.Class
+Operator           filter:rePosts               Finds Postsâ¦           Old
+style reposts ("RT") + quoted posts.Class                       Operator
+filter:replies               Finds Postsâ¦           Post is a reply to another
+post.Class                       Operator           min_rePosts:5
+Finds Postsâ¦           A minimum number of RePosts                    Class
+Operator           min_faves:10               Finds Postsâ¦           A minimum
+number of Likes                    Class                       Operator
+min_replies:100               Finds Postsâ¦           A minimum number of
+replies                    Class                       Operator
+source:client_name               Finds Postsâ¦           Sent from a specified
+client e.g.source:postdeck (common clients are: postdeck, X_for_iphone,
+X_for_android, web)                    Class           Media
+Operator           filter:media               Finds Postsâ¦           All media
+types.Class                       Operator           filter:twimg
+Finds Postsâ¦           Native X images (pic.X.com links)
+Class                       Operator           filter:images               Finds
+Postsâ¦           All images.Class                       Operator
+filter:video               Finds Postsâ¦           All video types, including
+native X video and external sources such as Youtube.Class
+Operator           filter:periscope               Finds Postsâ¦
+Periscopes                    Class                       Operator
+filter:native_video               Finds Postsâ¦           All X-owned video
+types (native video, vine, periscope)                    Class
+Operator           filter:consumer_video               Finds Postsâ¦
+X native video only                    Class                       Operator
+filter:pro_video               Finds Postsâ¦           X pro video (Amplify)
+only                           List management     X Pro allows you to manage
+your Lists easily in one centralized place for all your accounts.You can create
+Lists in  X Pro filtered by by your interests or by particular accounts.Any List
+that you have set up or followed previously can also be added as separate
+columns in X Pro.     To create a List on X Pro:   From the navigation bar,
+click on the  plus  icon          to select  Add column , then click on   Lists
+.Click the  Create List  button.Select the X account you would like to create
+the List for.Name the List and give it a description then select if you would
+like the List to be publicly visible or not (other people can follow your public
+Lists).Click  Save.Add suggested accounts or search for users to add members to
+your List, then click  Done.     To edit a List on X Pro:   Click on  Lists  
+from the  plus  icon          in the navigation bar.Select the List you would
+like to edit.Click  Edit.Add or remove List members or click  Edit Details  to
+change the List name, description, or account.You can also click  Delete
+List.When you're finished making changes, click  Done.            To designate a
+List to a column:   Click on the  plus  icon          to select  Add
+column.Click on the  Lists  option from the menu.Select which List you would
+like to make into a column.Click  Add Column.     To use a particular List in
+search:   Add a search column, then click the  filter  icon          to open the
+column filter options.Click the        icon to open the  User  filter.   Select
+By members of List  and type the account name followed by the List name.You can
+only search across your own Lists, or othersâ public Lists.     Embedded posts
+X Pro makes it easy to create an embedded post directly from the app.Hover over
+the post that you wish to embed.Click on the  more  icon .Select  Embed this
+post , add copy the code that is displayed.     Mute keywords   X Pro  allows
+you to mute posts across the entire application by text source.To access and
+edit your keyword mutes:   Click on the  gear  icon            in navigation
+menu and select  Settings.Click the  Mute  tab.Select which type of mute you
+would like to utilize then enter the text of your choice in the given
+field.Click  Mute , then click  Done.     Mute accounts   X Pro  lets you mute
+accounts across all your columns.Account mutes are tied to the account you used
+to mute.To mute an account from a profile:     Click on a username to open their
+profile.Click the  profile  icon          next to the  follow  button.Select
+Mute @account  from the dropdown.     To mute an account from a post:   Click
+the  more  icon          from any post.Select  Mute @account  from the dropdown
+menu.             Note:   Muting an account from X Pro will reflect that mute
+across x.com, X for iOS and Android, X for Mac, and X for Windows.Accounts that
+you've muted on X will also be muted on X Pro.Any account mutes previously
+created from the  X Pro settings window will continue to work across X Pro, but
+not across x.com or other X apps.If you have more than one account in your X
+Pro, muting from a column owned by your secondary account will do so on behalf
+of that account.Read about  advanced muting options  on X for more
+information.Posts from a specific account   You can designate a column to
+display a specific accountâs posts.Just add a post column and search for the
+account you would like featured in the search box.     Image search via Google
+From an image within a post, you can perform an image search using Googleâs
+search engine.     To search for an image via Google:   Hover your mouse over
+the image within a post.   Click the image.In the expanded image view, click the
+search  icon          found in the top right corner of the image.A Google image
+search results page will open up in a new web browser.Keyboard shortcuts   The
+following shortcuts work from anywhere within X Pro:   A:  add a column S:
+search N:  new post CTRL/CMD+return:  send new post ESC:  close pop-up/cancel
+search X:  expand/collapse navigation menu   ?:  show full keyboard shortcut
+list ;:  show command palette          Navigate through posts using the
+following shortcuts:   1-9:  navigate through columns 1 through 9 0:  jump to
+last column on the right Left arrow key:  move selection left Right arrow key:
+move selection right Up arrow key:  move selection up Down arrow key:  move
+selection down        When you have selected a post you can perform the
+following actions using shortcuts:   Return/Enter:  opens selected post
+Backspace/ Delete:  takes you back to the main column R:  directly reply to post
+from a column T:  directly repost a post from a column F:  like the post D:
+Direct Message the post author P:  show profile for post author
+Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

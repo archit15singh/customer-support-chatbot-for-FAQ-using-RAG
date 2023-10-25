@@ -1,0 +1,431 @@
+Legacy Verification policy
+Skip to main content                                  Help Center
+Legacy verification policy                                      Starting April
+1, 2023, weâll begin winding down our legacy verification program.This page
+documents the criteria previously used to receive a blue verified badge.You can
+learn more about our current process for receiving a blue checkmark   here.Quick
+links                    Requirements for Verification   How to apply for
+Verification   Categories for Verification   Ineligible accounts   FAQ & Loss of
+Verified Status                                                     
+Requirements for Verification                          The blue Verified badge 
+on X lets people know that an account of public interest is authentic.To receive
+the blue badge, your account must be  authentic ,   notable , and
+active.Authentic                                       To encourage and maintain
+trust between users on the platform, you will need to confirm your identity with
+X in order to be Verified.Depending on the category, you will be asked to choose
+one of the following three methods of verifying your identity:
+Official website: Provide the link to an official website that references you
+(or your organization) and your X account.For individuals, the organization that
+owns the website must be Verified on X.ID verification: Provide a photo of a
+valid official government-issued identification document, such as your
+Driverâs License or Passport.This requirement applies to individuals, not
+companies, brands, or organizations.Official email address: Provide an official
+email address with a domain relevant to the notability category you choose.For
+individuals, the organization the domain is associated with must be Verified on
+X.                              Notable
+Your account must represent or otherwise be associated with a prominently
+recognized individual or brand, in line with the notability criteria described
+below.In addition to confirming the identity of the controller of the account, X
+will Verify the following types of accounts based on the criteria described.In
+all categories, X may independently confirm qualifying affiliation through
+business partnerships or direct outreach.For each category we may request the
+following type of information to confirm notability:           News Coverage:
+Provide news articles that are about or reference yourself or your organization
+multiple times in the article.These articles must be from Verified news
+organizations and cannot be a blog or self-published content.Some categories may
+require you to submit articles that reference or link to your or your
+organizationâs X handle in addition to referring to you or your
+organization.Google Trends: Provide a link to a profile on Google Trends that
+depicts search history and is linked to the category in which you are
+applying.Wikipedia: Provide a link to a stable Wikipedia article about you or
+your organization that meets the  encyclopediaâs notability standards.Other
+industry specific references: Depending on the category, we may ask for more
+industry specific references such as a link to an IMDB page for
+entertainment.Follower or Mention Count: If your account is detected to be in
+the top.05% follower or mention count for your geographic location, it may count
+towards notability evidence for certain categories.Active
+Your account must be active with a record of adherence to the  X Rules.This
+means:           Complete:  Your account must have a profile name, and a profile
+image;   Active use:  Your account must be public at the time of application and
+you must have logged into that account  in the last six months ; Security:  Your
+account must have a confirmed email address or phone number; and X Rules:  Your
+account must not have had a 12-hour or 7-day lockout for violating the X Rules
+in the past 12 months (excluding successful appeals).* 
+                         How to apply for Verification
+How to apply for Verification                                       Step 1
+Navigate to your profile icon and open the main menu.  
+Step 2                Select  Settings and privacy.Step 3                Select
+Your account.Step 4                Select  Account information.You may need to
+enter in your password to continue.                        Step 5
+Under  Verified , select  Verification request.   Then scroll down and select
+Apply now.                                                Step 1
+Navigate to your profile icon and open the main menu.  
+Step 2                Select  Settings and privacy.Step 3                Select
+Your account.Step 4                Select  Account information.You may need to
+enter in your password to continue.                        Step 5
+Under  Verified , select  Verification request.   Then scroll down and select
+Apply now.                                                Step 1
+Navigate to  more           icon in the main menu.                        Step 2
+Select  Settings and Support.Step 3                Select              Settings
+and Privacy.                        Step 4                Select  Your
+account.Step 5                Select  Account information.Enter in your password
+to continue.                        Step 6                Under  Verified ,
+select  Request Verification.   Then  Start request. 
+                         Categories for Verification
+The specific requirements for authenticity, notability and activity are outlined
+by category and subcategory below:                       Government
+Government Office Accounts     Accounts of current government agencies,
+departments/ministries, and institutions.Prerequisites:             Account
+includes a relevant link to an official government URL on their profile Account
+must satisfy the criteria outlined in the above category denoting âactiveâ
+accounts                       You may also be required to provide the following
+information to determine your notability and authenticity:
+Links to at least 5 relevant articles that reference the applicant multiple
+times as a government office or public service     Verify an email address with
+an official government domain Official websites or news articles published by
+already Verified organizations that reference the organizationâs X handle or
+registered email address can help authenticate the applicant's account
+Individuals in Government     Accounts of federal or state level government
+officials, such as, heads of state, elected officials, appointed ministers,
+ambassadors, and official spokespeople.Prerequisites:
+Account references their government position in their bio Is their official
+account for their office, not a personal or campaign account     Account links
+official government URL on their profile Are currently serving in government
+office mentioned in their bio Account must satisfy the criteria outlined in the
+above category denoting âactiveâ accounts                       You may also
+be required to provide the following information to determine your notability
+and authenticity:                       Public reference to your name and X
+handle on official site of a Verified government entity; URL must link to
+specific page of reference Links to at least 5 news articles that reference you
+in your government position Verify an email address with an official government
+domain A photo of your valid government-issued ID  
+Candidates for Office     Accounts of official candidates for state- or
+national-level public office in upcoming elections.Candidates will not qualify
+unless registered with the appropriate election authority.Prerequisites:
+Account references that they are a candidate and what office they are running
+for Account links to URL of campaign website Individual is officially registered
+with the appropriate election authority in a state or national level public
+election that has not yet occurred Account must satisfy the criteria outlined in
+the above category denoting âactiveâ accounts                       You may
+also be required to provide the following information to determine your
+notability and authenticity:                       A link to your official
+campaign website, which also references your X handle Links to 5 news articles,
+published in the previous 6 months before applying, that reference you as a
+candidate for office A photo of your valid government-issued ID Official
+websites or news articles published by already Verified organizations that
+reference your X handle or registered email address can help authenticate the
+your account                                           News organizations,
+individuals in news & journalists                                       News
+organizations     Accounts of current government agencies,
+departments/ministries, and institutions.Prerequisites:             Your account
+links to official website in bio Your account must satisfy the criteria outlined
+in the above category denoting âactiveâ accounts                       You
+may also be required to provide the following information to determine your
+notability and authenticity:                       A link to an official website
+that references your organization and your X account The account demonstrates
+sufficient platform presence in the top.05% of active accounts located in the
+same geographic region The account demonstrates a public presence by providing
+Google Trends evidence, link to a stable Wikipedia article that meets the
+encyclopediaâs notability standards, or listing on a qualifying stock exchange
+Links to 3 articles referencing the applicant as a news organization published
+by a Verified organization within the last 6 months Official websites or news
+articles published by already Verified organizations that reference the
+applicantâs X handle or registered email address can help authenticate the
+applicant's account                       Individuals in news       Accounts of
+individuals employed by Verified news organizations in a public-facing news
+reporting role including reporters, news anchors, and editors.Prerequisites:
+Your account must refer directly to the name and official URL of the qualifying
+organization in your X bio.(Either @mention or include URL to your employerâs
+official site) Your employer already has a Verified account Your account must
+satisfy the criteria outlined in the above category denoting âactiveâ
+accounts                       You may also be required to provide the following
+information to determine your notability and authenticity:
+Evidence that you and your X handle is listed on official company website Links
+to 3 articles crediting you as an author published by your employer published
+within the last 6 months A photo of your valid government-issued ID Official
+websites or news articles published by already Verified organizations that
+reference the applicantâs X handle or registered email address can help
+authenticate your account                       Freelance Journalists
+Individuals who are not employed by, but consistently publish in Verified news
+publications.Prerequisite:             Your account must satisfy the criteria
+outlined in the above category denoting  active accounts
+You may also be required to provide the following information to determine your
+notability and authenticity:                       Links to 3 articles crediting
+you as the author from an already Verified news organization within the past 6
+months.Opinion pieces will not be accepted.A photo of your valid government-
+issued ID Official websites or news articles published by already Verified
+organizations that reference the applicantâs X handle or registered email
+address can help authenticate your account                             
+Companies, brands & organizations
+Organizations   Accounts representing prominent organizations including
+companies, brands, non-profit organizations.Secondary affiliated accounts of
+Verified organizations may also qualify.Prerequisites:             Account links
+to their official company website in their profile Account must satisfy the
+criteria outlined in the above category denoting  active accounts
+You may also be required to provide the following information to determine your
+notability and authenticity:                            A link to a website that
+demonstrates your organizationâs presence in a public stock exchange A link to
+a stable Wikipedia article about your organization that meets the
+encyclopediaâs notability standards Links to 3 or more news articles about
+your organization published by an already Verified news organization within the
+6 months prior to applying Demonstrate your account has a follower count in the
+top.05% of active accounts located in the same geographic region
+Leaders & Executives     Leaders and other prominent executives of Verified
+companies, brands and non-profit organizations.Prerequisite:             Account
+must satisfy the criteria outlined in the above category denoting  active
+accounts                       You may also be required to provide the following
+information to determine your notability and authenticity:    
+A link to your organization website that references individual and X account A
+link to a stable Wikipedia article about you that meet the encyclopediaâs
+notability standards Links to 3 or more news articles referencing you in a
+leadership position published by a Verified news organization within the 6
+months prior to applying A photo of your valid government-issued ID
+              Entertainment                                       Entertainment
+or Production Company   Accounts of major entertainment companies, such as film
+studios, TV networks, and music entities may be Verified.Official accounts of
+productions associated with these entities, such as films, events/festivals, or
+TV shows, may be Verified as long as they are affiliated with a Verified
+entertainment organization.Prerequisites:             Profile links to official
+website Account must satisfy the criteria outlined in the above category
+denoting  active accounts                       You may also be required to
+provide the following information to determine your notability and authenticity:
+                        Demonstrate sufficient platform presence in the top.05%
+of active accounts located in the same geographic region Demonstrate a public
+presence by providing Google Trends evidence, link to a stable Wikipedia article
+that meet the encyclopediaâs notability standards, or listing on a qualifying
+stock exchange Links to 3 or more news articles about the organization published
+by a Verified news organization within the 6 months prior to applying A link to
+the organizationâs official website Official websites or news articles
+published by already Verified organizations that reference the applicantâs X
+handle or registered email address can help authenticate the applicant's account
+Individual in entertainment     Individual accounts of artists, performers,
+directors, and others in similar public-facing roles associated with such
+entities or their productions.Prerequisites:             Profile links to
+official website of Verified entertainment entity referencing applicant provided
+as notability evidence Account must satisfy the criteria outlined in the above
+category denoting  active accounts                       You may also be
+required to provide the following information to determine your notability and
+authenticity:                            A link to the applicant's IMDB page
+containing 50+ production credits Links to 3 articles featuring applicant from
+Verified news publishers within the last 6 months A link to a website that
+specifically reference applicantâs X account and is the website of an official
+site of an already Verified organization A photo of a valid government-issued ID
+Official websites or news articles published by already Verified organizations
+that reference the applicantâs X handle or registered email address can help
+authenticate the applicant's account                              
+Sports & gaming                                       Professional sport
+organizations, teams & leagues   Accounts of professional sports leagues, clubs,
+teams and global competitions such as Olympics and Paralympics.Prerequisites:
+Account links to their official company website in their profile Account must
+satisfy the criteria outlined in the above category denoting  active accounts
+You may also be required to provide the following information to determine your
+notability and authenticity:                            Demonstrate sufficient
+platform presence in the top.05% of active accounts located in the same
+geographic region A link to an already Verified official sports organization,
+team, or league website that references the applicant Demonstrate a public
+presence by providing Google Trends evidence, link to a stable Wikipedia article
+that meets the encyclopediaâs notability standards, or listing on a qualifying
+stock exchange Links to 3 or more news articles about the organization published
+by Verified news organization within the 6 months prior to applying Official
+websites or news articles published by already Verified organizations that
+reference the applicantâs X handle or registered email address can help
+authenticate the applicant's account                       Individuals in
+professional sports     Individual accounts of athletes, coaches, team members,
+and others in similar management or public-facing roles associated with such
+entities.     Note:  We will not Verify amateur athletes who compete at the
+collegiate level (or lower) nor in official minor leagues unless they meet the
+criteria for Verification under the  influential individuals
+category.Prerequisite:             Account must satisfy the criteria outlined in
+the above category denoting  active accounts                       You may also
+be required to provide the following information to determine your notability
+and authenticity:                            A link to a website that
+specifically references applicant and is the official site of an already
+Verified organization Links to 3 or more articles featuring the applicant as a
+professional individual in sports published by Verified news organizations
+within 6 months prior to applying A photo of a valid government-issued ID
+Official websites or news articles published by already Verified organizations
+that reference the applicantâs X handle or registered email address can help
+authenticate the applicant's account                       Individuals in gaming
+Individual accounts of esport athletes that are affiliated with Verified gaming
+teams or leagues.Prerequisites:             Accountâs follower count is in the
+top.05% in their region Are affiliated with a Verified gaming team or league and
+reference it in their bio Account must satisfy the criteria outlined in the
+above category denoting  active accounts                       You may also be
+required to provide the following information to determine your notability and
+authenticity:                            A link to official team or league
+website referencing applicant as professional esports athlete or coach for
+Verified esports team Links to 3 or more articles about or referencing the
+individual published within the 6 months prior to applying in news outlets such
+as  Launcher ,  Gamesbeat ,  Dexerto ,  Kotaku ,  Polygon , or  IGN A photo of a
+valid government-issued ID Official websites or news articles published by
+already Verified organizations that reference the applicantâs X handle or
+registered email address can help authenticate the applicant's account
+              Activists & organizers                                     
+Outside the professional categories defined above, people who are using X
+effectively to bring awareness, share information, and galvanize community
+members around a cause, to bring about socioeconomic, political, or cultural
+change, or to otherwise foster community, may be Verified.Prerequisites:
+Account is reflecting an individual, not an organization Accountâs follower
+count is in the top.05% in their region Account must satisfy the criteria
+outlined in the above category denoting  active accounts
+You may also be required to provide the following information to determine your
+notability and authenticity:                            An official website
+associated with advocacy work that references the account holder's name or
+indicates they hold a leadership position at the advocacy group.Links to 3 or
+more articles about the individual and their advocacy work published in a
+Verified news sources within the last 6 months Official websites or news
+articles published by already Verified organizations that reference the
+applicantâs X handle or registered email address can help authenticate the
+applicant's account                       *In response to current events, we may
+Verify accounts that do not fully meet the criteria above due to their expertise
+or public role in matters of high public interest, as well as their
+susceptibility to impersonation.For example:                       Medical
+professionals during epidemics or other public health crises; Activists and
+local political leaders in times of protest or in connection with a significant
+cultural event; Public safety and journalist accounts reporting on natural
+disasters; or Organizers, proponents, or founders of campaigns in support of
+civil or human rights                                           Content creators
+& influential individuals                                       Established
+digital content creators who consistently publish original content (regardless
+of platform) for at least 6 months prior to applying and meet the follower or
+mention criteria listed below for other influential individuals.Prerequisites:
+Account is reflecting an individual, not an organization Account meets criteria
+for significant platform presence (top.05% of mentions or follower count) in
+their geographic region Account must satisfy the criteria outlined in the above
+category denoting  active accounts                       You may also be
+required to provide the following information to determine your notability and
+authenticity:                            A profile on Google Trends with
+evidence of recent search activity A stable Wikipedia article about you that
+meets the encyclopediaâs notability standards for people Links to 3 or more
+featured references within the 6 months prior to applying in news outlets that
+meet the News criteria above; including specialty publications related to your
+profession or expertise A link to a content page outside of X that shows your
+published content over the last 6 months Official websites or news articles
+published by already Verified organizations that reference the applicantâs X
+handle or registered email address can help authenticate the applicant's
+account.                
+                         Ineligible accounts                          Certain
+accounts are ineligible for the blue badge, regardless of satisfying the
+requirements ( authentic ,  notable , and  active ), including: 
+Parody, newsfeed, commentary, and unofficial fan accounts ; Pets and fictional
+characters, unless directly affiliated with a Verified Company, Brand, or
+Organization, or with a Verified entertainment production Accounts engaged in
+severe violations of our  Platform manipulation and spam policy , such as the
+buying and selling of followers and engagement Accounts of individuals or groups
+associated with  coordinated harmful activity , or  hateful content  as defined
+in Xâs Ads Policies, or that have been found to have committed gross human
+rights violations by an international court/tribunal, or a fact-finding mission
+or commission of inquiry authorized by an international organization, may be
+ineligible for Verification â even if their activity on X doesnât violate
+the X Rules Accounts that routinely post content that harasses, shames, or
+insults any individual or groupâespecially on the basis of race, ethnicity,
+national origin, sexual orientation, gender identity, religious affiliation,
+age, disability, medical/genetic condition, status as a veteran, status as a
+refugee, or status as an immigrantâor content that promotes the supremacy or
+interests of members of any group in a manner likely to be perceived as
+demeaning on the basis of these categories; and Accounts promoting sale of the
+Verification badge itself or offering unauthorized assistance with the
+application process**                                                    FAQ &
+Loss of Verified Status                                  FAQ       Loss of
+Verified status                                                  FAQ
+Loss of Verified status                                  What does Verification
+mean?     The blue Verified badge on Twitter lets people know that an account of
+public interest is authentic.               Who can be Verified on Twitter?
+To be Verified, your account must be notable and active.The types of notable
+accounts we currently Verify are:   Government News organizations, individuals
+in news & journalists Companies, brands & organizations Entertainment Sports &
+gaming Activists & organizers Content creators & influential individuals
+Can anyone get Twitter Verified?     Anyone can apply for Verification.Please
+read the  requirements  to understand if your account qualifies before you
+apply.Learn  how to apply for verification.               How can I get Verified
+on Twitter?     First, make sure you meet the  requirements   and   categories
+ for Verification.If your account satisfies the criteria, follow the steps on  
+how to apply for verification.               How do I know if I am Verified?
+Look for the blue Verified badge on your Twitter profile.All Verified accounts
+have the badge next to their display name.How do I know if someone else is
+Verified?     Verified accounts on Twitter will have a blue check next to their
+display name throughout the app.Can a Verified badge be automatically removed
+from an account?     Yes, as part of our   policy , Verified badges may be
+automatically removed from inactive and incomplete accounts.A complete Twitter
+account is defined as one with all of the following elements:   either a
+verified email address or phone number a profile image a display name
+Can I request to remove my Verified badge?     Itâs not currently possible to
+request that Twitter remove your Verified badge.Can I request to remove another
+accountâs Verified badge?     Itâs not currently possible to request that
+Twitter remove an accountâs Verified badge.Why might Twitter remove the
+Verified badge from an account?     Please see the next tab on  Loss of Verified
+status.In accordance with the  X Terms of Service , X may remove the Verified
+status of an account at any time without notice.     Sometimes, changes made to
+an account by the owner may result in loss of Verified status.User-made changes
+include, but are not limited to:                         If you change your
+username (@handle) if you change your display name If your account becomes
+inactive or incomplete If you are no longer in the position you initially were
+Verified for â such as an elected government official who leaves office â
+and you do not otherwise meet our criteria for Verification If changes to your
+account are misleading or substantially alter the persona present on your
+account If changes to your account result in failure to meet the eligibility
+requirements for Verification outlined above If changes to your account cause
+you to fall under any of the categories in the "Ineligible Accounts" section
+X may also remove the blue badge from accounts that are found to be in severe or
+repeated violation of the X Rules.Any violation of the X Terms of Service or X
+Rules, manipulation of X processes, or circumvention of enforcement actions may
+result in loss of the badge or in certain instances, suspension.This includes: 
+Impersonation  or intentionally misleading people on X by changing your display
+name, bio, banner image, and/or profile image.Severe violations that result in
+immediate account suspension.Repeat policy violations in posts, including but
+not limited to:   Hateful conduct Abusive behavior Glorification of violence
+Civic integrity    Private information Platform manipulation and spam
+Removal of the badge based on repeated violations will be assessed on a case-by-
+case basis and is not automatic.       X reserves the right to assess the
+qualifications of any Verified account under the currently published version of
+the Verification Policy.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

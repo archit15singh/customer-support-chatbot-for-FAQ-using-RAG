@@ -1,0 +1,110 @@
+How to setup X Blue features
+Skip to main content                                  Help Center
+About Top Articles                                               What is Top
+Articles?                          Top Articles is a  X Premium feature  that is
+a shortcut to the most-shared articles in your network.This feature
+automatically lists the most-shared articles from people you followâand people
+they follow, tooâso you can easily find the type of content you want to read.
+   Tap or click on an article from the list to navigate to it.You can also tap
+or click the profiles of the people who shared the article to join the
+conversations itâs creating.Find Top Articles in your Profile menu
+Use the filter button   to set the time frame, and view your Top Articles from
+the last 1, 2, 4, 8 or 24 hours.The default for this feature is 24 hours.Find
+even more relevant content when you click the People they follow tab where
+youâll see the most-shared articles from people you follow, plus the people
+they follow.Note: If you see a message that No articles have been shared in your
+network, try following more accounts.Additionally, some publishers may not be
+included in Top Articles.FAQs                          How does Top Articles
+work?   What is the difference between the âPeople you followâ and âPeople
+they followâ tabs?   How is the Top Articles list under the 'People they
+follow' tab ordered?   Will I have to see content from accounts I blocked or
+muted if I use the 'People they follow' tab?   Will I see content I may not want
+to see?                                                           How does Top
+Articles work?     Top Articles lets you see what articles your network is
+sharing.Depending on whether you select the People you follow or the People they
+follow tab, youâll see a list of the top articles posted, reposted, or quote
+posted the most number of times by the people you follow, or by the people you
+follow plus the people they follow.Top Articles are listed from most to least
+shared.You can tap or click on the article to navigate to the website where the
+article was posted.You can also tap or click on the profiles of people who
+shared the article to see a non-chronological list of the posts, reposts and
+quoate posts where those articles appeared.What is the difference between the
+âPeople you followâ and âPeople they followâ tabs?     When you tap or
+click on the People you follow tab, youâll see a list of the Top Articles
+posted, reposted or quote posted the most number of times by the people you
+follow.Tapping or clicking on the People they follow tab expands your results to
+include the Top Articles shared by people you follow, plus who they
+follow.Switch between the two tabs in your Top Articles to find the content you
+want to read.How is the Top Articles list under the 'People they follow' tab
+ordered?     The Top Articles listed under the People they follow tab are
+generated from the most-shared articles from people you follow, plus the people
+they follow on X.We select which X accounts to include in determining the list
+of articles under People they follow by looking at various engagement metrics
+around the ways people interact with each other on X.Greater interactions
+between people you follow and people they follow suggests a stronger
+relationship between you and people you don't follow, resulting in a higher
+ranking of the articles shown on the People they follow tab.For example, letâs
+say you follow someone and regularly reply to their posts.If the person you
+follow regularly reposts content from a person you donât follow, we would use
+that information to determine how interested you might be in the articles posted
+by the person you donât follow and reposted by the person you do follow.For
+each person you follow we select the top 100 people they follow based on these
+metrics, up to a maximum of 10,000 total.After that, we look at the most posted,
+reposted or quote reposted articles by those 10,000 people.Will I have to see
+content from accounts I blocked or muted if I use the 'People they follow' tab?
+No, any accounts you have blocked or muted will not be used in determining which
+articles or conversations you see in your People they follow list.Will I see
+content I may not want to see?     Because People they follow includes posts by
+accounts you follow, plus by the people they follow, you may see articles or
+posts from accounts you donât follow and content that you have not chosen to
+see.You can avoid this by not tapping on the People they follow tab option.Share
+this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

@@ -1,0 +1,300 @@
+How to setup X Premium features
+Skip to main content                                  Help Center
+X Premium how to                                X Premium is a new subscription
+that offers exclusive access to app customizations and new features so you get
+more creative power over your content and your experience using X.Youâll need
+a X Premium subscription to access the premium features and settings listed
+below.How to                          How to sign up for Premium   How to check
+your subscription status   Where to find your Premium Feature settings   How to
+edit a post   How to customize the post Undo period   How to customize which
+types of posts the Undo post feature applies to   How to Undo a post from the
+notification immediately after composing   How to set an NFT as your profile
+picture   How to customize your X App icon   How to customize your X App Color
+theme   How to create a longer post   How to edit a longer post   How to turn
+Reader Mode on/off from a post   How to create a Bookmark Folder from your Home
+timeline   How to create a Bookmark Folder from your Profile menu   How to
+Add/Remove a post youâve Bookmarked to an existing Folders from the Profile
+How to Add/Remove a post youâve Bookmarked to a new Folder   How to find the
+Spaces tab                                   Note:  If youâd like to access
+these premium features, and youâre located in a region where Premium is
+available, sign up from your   navigation   within your X iOS or Android app or
+X website using the instructions below.   Learn more about X Premium.Managing
+your X Premium subscription                            How to sign up for
+Premium                    Open the Profile menu           on your app or the
+side navigation on x.com Select Premium Select the Subscribe button If you
+havenât already, youâll be prompted to verify your  phone number Then,
+follow the in-app purchase instructions for iOS or Android and confirm your
+subscription payment on web   Congrats! Youâre now a X  Premium Member! Your
+account will be reviewed, and if approved, you will receive a blue checkmark. 
+                   How to check your subscription status
+Navigate to  the  Profile  menu          on your app or          on x.com Select
+ Premium.You will see an Active status badge with a check to indicate youâre
+enrolled in X Premium.Customizing your Subscription features     After you sign
+up for X Premium, youâll be able to manage your subscription and customize
+your Premium features from the membership page located in Settings.      
+                   Where to find your X Premium Feature settings
+Navigate to the Profile  menu          on your app or          x.com Select  
+Premium.Your X Premium subscription page displays with the  Active  badge in the
+top right.Under  Early access to select new features , select the feature
+youâd like to customize:     Undo post Edit post Color theme App icon Custom
+navigation Profile customization                      Edit posts     This highly
+requested feature gives you the opportunity to make changes to published
+posts.Use it to make updates, tag someone, or reorder the media you
+attached.Edit posts currently only applies to original posts and Quotes.Once an
+author has replied to their own post, the original post is no longer
+editable.How to edit a post                    Youâll have the opportunity to
+make up to five edits in a 1 hour window.You can only edit a post from the same
+device you sent your original post.Compose and send a post, you will be notified
+that you have 1 hour to edit your post Select the          icon in the top right
+corner of your post and choose  Edit post Make any necessary edits to the body
+of your post Click the  Update  button to send your edited post
+Using Undo post   Undo post is available in the X for iOS and Android app and X
+website and is turned on by default when you subscribe to Premium.You can turn
+the feature on or off from your X Premium settings.When turned off, you wonât
+see the Undo post prompt, and your post sends right away.When turned on, your
+post is completely private during the post   Undo period.Your followers wonât
+see the post until the Undo post timer expires or you tap   Send now.How to
+customize the post Undo period                    From the Profile menu 
+tap  Premium.Tap   Early access to select new features.Tap  Undo post.Tap  post
+Undo period.Choose between  5 seconds ,  10 seconds ,  20 seconds ,   30 seconds
+or  60 seconds.How to customize which types of posts the Undo posts feature
+applies to                    Navigate to the Profile menu         on your app
+or         x.com Select Premium.Under  Early access to select new features ,
+select  Undo post.Use the toggle to turn on/off the type of posts you want to
+undo.Original posts Replies Polls Threads Quotes                 
+How to Undo a post from the notification immediately after composing
+Before you post, check your Undo post setting (itâs on by default if you
+havenât turned it off).Compose and Send your post.Tap  View post  in the
+Sending post  notification that appears immediately after you send your
+post.Youâll see your post displayed with a timer in the bottom left counting
+down your  post Undo period.Tap Undo   Youâll go to Composer where you can
+revise your post.   If you tapped Undo, revise your post in the post Composer
+and tap  post.Once the Undo post timer expires, your post posts to your
+timeline, and is visible to your followers.     Note: If youâd like to undo
+your post after the notification disappears, but before your Undo post period
+expires, you can also access the Undo post option from your Home timeline
+(scroll to the top) or tap the home button 3 times.How to set an NFT as your
+profile picture     We're adding NFTs as one of several ways to customize your
+profile so you can show off the NFTs you own in a hex-shaped profile picture on
+your account.You can learn more about NFTs  here.How to set an NFT as your
+profile picture                                1.Sign in to the X app on
+iOS.2.Go to your profile.     3.Tap  Edit profile,   then tap on the  profile
+picture icon  and select   Choose   NFT.     4.Select your crypto wallet from a
+list of supported wallets.5.X will generate a verification request message to
+your wallet   address, where youâll be asked to confirm you hold the private
+keys of your public crypto address, by signing an attestation.6.You have the
+option to connect to your wallet by either scanning the QR code on the screen
+with your crypto wallet app or with your walletâs extension.     7.Once
+youâve connected your wallet,  select the NFT   in your wallet that you'd like
+to set as your profile picture.     8.Tap  Done.Youâre all set!        Note: A
+couple things to keep in mind:       Signing requests should only come from a
+x.com domain X will never ask you to send funds when connecting your crypto
+wallet If you need to search for a specific NFT, you can search with the NFTâs
+Token ID or Contract address.                                    Customizing
+your X app icon     This feature lets you pick how your X app icon displays on
+your phone.Choose from several colorful options.                
+How to customize your X app icon                    From the Profile menu 
+tap  Premium.Tap  Early access to select new features.Tap  App Icon.Tap a color
+for your X app icon.A   green check   will appear below the color you have
+chosen.Tap the   back arrow            to return to your X Premium settings
+page.Customizing your X app color theme     This feature lets you choose the
+theme colors for your X app.                              How to customize your
+X app color theme                    From the Profile menu          tap
+ Premium.Tap  Early access to select new features.Tap  Color theme.Tap a color
+for your X app Home page.A  green check  will appear below the color you have
+chosen.Tap the  back arrow             to return to your Premium settings
+page.Longer posts   Want to post more than 280 characters? Longer posts allow
+you to post up to 25,000 characters.You can also compose longer posts in a Quote
+or reply, and add rich text (bold and italics).Standard functionality like
+posting media, creating polls, and using hashtags still apply.Longer posts
+cannot yet be scheduled.                                How to create a longer
+post                             Longer posts are created the exact same way you
+would a regular post                         Step 1                Select the
+compose icon                              Step 2                You can include
+photos, a GIF , or a  video  (and up to 4 total media items, e.g.2 photos, 1
+GIF, and 1 video) in your post                      Step 3
+Compose your message.When you reach 280 characters, the word count will switch
+from tracking your progress around the perimeter of the circle icon to filling
+it                      Step 4                Once youâve finished writing,
+select post                                    Longer posts are created the
+exact same way you would a regular post                         Step 1
+Select the compose icon                              Step 2                You
+can include  photos, a GIF , or a  video  (and up to 4 total media items, e.g.2
+photos, 1 GIF, and 1 video) in your post                      Step 3
+Compose your message.When you reach 280 characters, the word count will switch
+from tracking your progress around the perimeter of the circle icon to filling
+it                      Step 4                Once youâve finished writing,
+select post                      Step 5                A notification will
+appear in the status bar on your device and will go away once the post
+successfully sends                                    Longer posts are created
+the exact same way you would a regular posts                         Step 1
+Type your  post into the compose box at the top of your Home timeline, or select
+the  post button in the navigation bar                      Step 2
+When you reach 280 characters, the word count will switch from tracking your
+progress around the perimeter of the circle icon to filling it
+Step 3                You can include up to 4 photos, a GIF, or a video in your
+ post                      Step 4                Select the  post button to post
+it to your profile                                            How to edit a
+longer post                    Compose and send a longer post, you will be
+notified that you have 1 hour to edit your post Select the          icon in the
+top right corner of your post and choose âEdit postâ Make any necessary
+edits to the body of your post Click the âUpdate: button to send your edited
+post                              Customizing your Reader Mode Feature  
+Reader Mode makes threads on X easier to read by turning them into readable text
+so you can read all the latest content seamlessly.                      How to
+turn Reader Mode on/off                    Go to the top right of the post
+details.Tap the  Reader Mode  icon   to turn this feature on.Tap the  Reader
+Mode  icon  to turn the feature off.Creating and Managing Bookmark Folders
+Bookmark Folders help you organize your saved posts.There are several ways to
+create a Bookmark Folder, but they all require you to   Bookmark a post
+ first.As a Premium member, when you create a new Bookmarks youâll see a
+notification with the option to   Add to Folder   right away.Premium allows you
+an unlimited number of bookmarks and Bookmark folders which are always private.
+                                     How to create a Bookmark folder from your
+Home timeline                                       Step 1                From a
+post, open the post details and long press the  Bookmark icon
+Step 2                You will be presented with an option to  Add to Folder
+Step 3                Tap the         icon to create and name your folder
+Step 4                Every Bookmark will also be saved to the   All Bookmarks
+ folder                                              Step 1                From
+a post, tap the   share icon             and select   Add post to Bookmarks
+Step 2                Tap the blue   Add to Folder   button
+Step 3                Tap the         icon to create and name your folder
+Step 4                Every Bookmark will also be saved to the  All Bookmarks
+folder                                              Step 1                From a
+post, tap the   share icon             and select   Add  post to Bookmarks
+Step 2                Tap the blue   Add to Folder   button
+Step 3                Tap the         icon to create and name your folder
+Step 4                Every Bookmark will also be saved to the  All Bookmarks
+folder                                            How to create a Bookmark
+Folder from your Profile menu                    Tap  Bookmarks.Tap the  New
+Folder   icon on the bottom of the Bookmarks page.Enter a name  for your
+Folder.Tap  Create.How to Add/Remove a post youâve Bookmarked to an existing
+Folder from your Profile                                       Step 1
+From the Profile menu          Tap  Bookmarks                      Step 2
+Tap  All Bookmarks                      Step 3                Open the  post
+details and long press the  Bookmark icon        at the bottom of the  post you
+want to add to a Folder                      Step 4                Tap the name
+of the Folders where youâd like to see your Bookmark                      Step
+5                A notification will appear to let you know your Bookmark was
+saved to the Folders                      Step 6                To remove a
+saved Bookmark from a Bookmark Folder follow the steps 1-3.Long pressing the
+Bookmark icon        again removes it from the folder               Note:
+Removing a Bookmark from a folder doesnât delete it from your account.If
+youâd like to permanently delete a Bookmark, simply tap the  Bookmark icon
+from the  post details.You can also tap the          more icon at the top of
+your Bookmarks timeline to remove all of your Bookmarks at once.Step 1
+From the Profile menu          Tap   Bookmarks                      Step 2
+Tap   All Bookmarks                      Step 3                Tap the   Share
+ post icon             at the bottom of the  post you want to add to your
+Folders                      Step 4                Choose   Add to Folder  
+ from the row of options for sharing a post.You may need to swipe to see the
+full list of Share post options                      Step 5                Tap
+the name of the   Folders   where youâd like to see your Bookmark
+Step 6                A notification will appear to let you know your Bookmark
+was saved to the Folders                      Step 7                To remove a
+saved Bookmark from a Bookmark Folder follow the steps 1-4.Tapping the   Add to
+Folders   icon again removes it from the folder               Note: Removing a
+Bookmark from a folder doesnât delete it from your account.If youâd like to
+permanently delete a Bookmark, tap the share icon from the  post within your
+Bookmarks timeline and select   Delete Bookmark.You can also tap the more icon
+at the top of your Bookmarks timeline to remove all of your bookmarks at
+once.Step 1                From the Profile menu          Tap   Bookmarks
+Step 2                Tap   All Bookmarks                      Step 3
+Tap the   Share post icon             at the bottom of the post you want to add
+to your Folders                      Step 4                Choose   Add to
+Folder     from the row of options for sharing a post.You may need to swipe to
+see the full list of Share post options                      Step 5
+Tap the name of the   Folders   where youâd like to see your Bookmark
+Step 6                A notification will appear to let you know your Bookmark
+was saved to the Folders                      Step 7                To remove a
+saved Bookmark from a Bookmark Folder follow the steps 1-4.Tapping the   Add to
+Folders   icon again removes it from the folder                         
+How to Add/Remove a post youâve Bookmarked to a new Folder
+Step 1                From the Profile menu          Tap  Bookmarks
+Step 2                Tap  All Bookmarks                      Step 3
+Open the post details and long press the  Bookmark icon        at the bottom of
+the post you want to add to a Folder                      Step 4
+Tap the          icon to create and name the folder where youâd like to see
+your Bookmark                      Step 5                A notification will
+appear to let you know your Bookmark was saved to the Folder
+Step 6                To remove a saved Bookmark from a Bookmark Folder follow
+the steps 1-3.Long pressing the  Bookmark icon        again removes it from the
+folder                                              Step 1                From
+the Profile menu          Tap   Bookmarks                      Step 2
+Tap   All Bookmarks                      Step 3                Tap the   Share
+post icon             at the bottom of the post you want to add to your Folders
+Step 4                Choose   Add to Folder     from the row of options for
+sharing a post.You may need to swipe to see the full list of Share post options
+Step 5                Tap the          icon to create and name the folder where
+youâd like to see your Bookmark                      Step 6                A
+notification will appear to let you know your Bookmark was saved to the Folders
+Step 7                To remove a saved Bookmark from a Bookmark Folder follow
+the steps 1-4.Tapping the   Add to Folders   icon again removes it from the
+folder                                              Step 1                From
+the Profile menu          Tap   Bookmarks                      Step 2
+Tap   All Bookmarks                      Step 3                Tap the   Share
+post icon             at the bottom of the post you want to add to your Folders
+Step 4                Choose   Add to Folder     from the row of options for
+sharing a post.You may need to swipe to see the full list of Share post options
+Step 5                Tap the          icon to create and name the folder where
+youâd like to see your Bookmark                      Step 6                A
+notification will appear to let you know your Bookmark was saved to the Folders
+Step 7                To remove a saved Bookmark from a Bookmark Folder follow
+the steps 1-4.Tapping the   Add to Folders   icon again removes it from the
+folder                                      How to find the Spaces tab     The
+spaces tab will be located at the bottom of your timeline between the explore 
+and notifications          icon.You can find podcasts, themed audio stations,
+recorded Spaces, and live Spaces within the Spaces tab.To learn about everything
+available in the Spaces tab,  read more here.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies
