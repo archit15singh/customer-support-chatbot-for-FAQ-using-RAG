@@ -1,0 +1,115 @@
+Understanding when content is withheld based on country
+Skip to main content                                  Help Center
+About country withheld content
+Why might content be withheld?         If you have encountered a post or an
+account that has been marked as withheld, you may be wondering what that means
+and why that may have happened.With hundreds of millions of posts posted every
+day around the world, our goal is to respect user expression, while also taking
+into consideration applicable local laws.Many countries, including the United
+States, have laws that may apply to posts and/or X account content.In our
+continuing effort to make our services available to people everywhere, if we
+receive a valid and properly scoped request from an authorized entity, it may be
+necessary to withhold access to certain content in a particular country from
+time to time.  Such withholdings will be limited to the specific jurisdiction
+that has issued the valid legal demand or where the content has been found to
+violate local law(s).Transparency is vital to protecting freedom of expression,
+so we have a notice policy for withheld content.Upon receipt of requests to
+withhold content, we will promptly notify affected users and clearly indicate
+within the product unless we are prohibited from doing so (e.g., if we receive a
+court order under seal).We strongly believe that the open and free exchange of
+information has a positive global impact, and that the   posts must continue to
+flow.     How do you know if content has been withheld and why?         Withheld
+posts:                                   If you see the above message, it means
+X was compelled to withhold the original post in response to a valid legal
+demand, such as a court order.If you see the above message, it means X withheld
+content based on local law(s) in response to a report filed through specific  
+support intake channels.Withheld accounts:     
+If you see the above message, it means X was compelled to withhold the entire
+account specified (e.g., @username) in response to a valid legal demand, such as
+a court order.If you see the above message, it means X withheld the entire
+account based on local law(s) in response to a report filed through specific  
+support intake channels.     How do you know where I am?           We use
+information that we may receive about your location to  determine your country.
+   How  can I submit a legal request to have content withheld?         If you
+are a law enforcement agent, government official, or other third-party intending
+to submit a valid legal request and would like to have potentially illegal
+content or accounts removed from X, we ask that you first review the   X Rules
+ and, if applicable, submit a request to have the content reviewed for possible
+violations of Xâs   Terms of Service , here:  
+https://help.twitter.com/forms.If you have already submitted a request and have
+received a response from X indicating that the content in question does not
+currently violate Xâs Terms of Service, you can submit a request for content
+to be withheld through our legal request submission site:  
+https://legalrequests.twitter.com.You will then receive an automated response
+confirming that your request has been received by our support system.We will
+send another email once weâve had a chance to evaluate your request.NOTE: As
+previously stated, we will promptly notify affected users upon receipt of
+requests to withhold content unless we are prohibited from doing so (e.g., if we
+receive a court order under seal).This notification will include a copy of your
+takedown request.     How do I know if my content has been withheld? What can I
+do about it?         Unless prohibited, X will attempt to notify affected users
+of any third-party requests to withhold their content via the email address
+associated with the affected X account(s) and/or through a notification within
+the X app.This will typically include identification of the specific content
+that has been reported or withheld and the origin of the request.If you believe
+your content was withheld in error, you may appeal by responding directly to the
+email we sent notifying you of the withholding (if based on a legal demand) or
+by contacting us through our  Help Center  (if withheld based on local
+law).Additionally, posts and/or accounts that are withheld include a clear
+visual indicator.Here are a couple examples from the affected account holderâs
+point of view:                                                              It
+is up to the affected user to decide whether to challenge the underlying
+request.Separately, the user may decide to leave the content online,   remove
+one or more posts , or   deactivate their X account.More information for
+affected users is available in our  legal request FAQs.For more general
+information, please see X's   Terms of Service   and   Rules.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

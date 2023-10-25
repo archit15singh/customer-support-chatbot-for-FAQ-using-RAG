@@ -1,0 +1,187 @@
+Media Studio Monetization
+Skip to main content                                  Help Center
+Media Studio Monetization                                X offers two video
+monetization programs,  Amplify Pre-roll , and  Amplify Sponsorships.Amplify
+Pre-roll         The Amplify Pre-roll program is an opt-in advertising program
+to serve pre-roll against your premium video content shared on X.The program was
+created to make it easy for publishers to monetize video content on X, and also
+turnkey for advertisers to align with brand-safe content.Those partners that are
+accepted into the program and develop a sponsorship package will have access to
+monetization functionality in Media Studio.Find more information about this
+program  here.     Amplify Sponsorships         The Amplify Sponsorships program
+allows you to align your premium video content via a one-to-one sponsorship with
+an advertiser (or many).Sponsorships are the best way to drive meaningful reach
+and revenue for your brand and deliver premium alignment for advertisers who
+want to reach your audience.Those partners that are accepted into the program
+and develop a sponsorship package will have additional monetization
+functionality in Media Studio.Find more information about this program
+here.Monetizing with Amplify Pre-roll How-to FAQs   Monetizing with Amplify
+Sponsorships How-to FAQs                       Monetizing with Amplify Pre-roll
+    To learn more about the Amplify Pre-roll program, reach out to your X
+account manager.How to monetize videos                    Click on a video
+within your Media Studio library.Click on the  Settings  tab.Click the  Monetize
+this video  button.Select a relevant content category in the  How would you
+describe your video?  section.If you do not want certain categories of
+advertising to appear in front of your video, you can select them in the
+Exclude tags  section.Avoid selecting too many tags; this can restrict the
+advertising that could be matched to your video.If you do not want certain
+advertisers associated with your video, you can manually enter these usernames
+in the  Exclude advertiser @handles  section.How to set default monetization
+settings                    Click on the   Monetization   button within the top
+navigation bar.Click on   Settings   within the dropdown that appears.Enable the
+  Monetize all new videos with Amplify Pre-roll   if you would like all newly-
+uploaded videos monetized automatically.Select a relevant content category in
+the   Tag your content   section.If you do not want certain categories of
+advertising to appear in front of your video, you can select them in the  
+Exclude advertiser categories   section.Avoid selecting too many tags; this can
+restrict the advertising that could be matched to your video.If you do not want
+certain advertisers associated with your video, you can manually enter these
+usernames in the   Exclude advertiser @handles  section.Click   Save.All new
+media set to monetize will have these associated settings.How to view estimated
+earnings per video                    Click on a video within your Media Studio
+library.Click the   More analytics   button.Select a date range using the filter
+at the top right (which defaults to a 7 day view).Scroll down to the   Estimated
+Earnings   section to see the amount earned during that particular date
+range.How to view publisher payout information (total earnings)
+Click on the  Monetization  button within the top navigation bar.Click on
+ Earnings  within the dropdown that appears.All payout information should be
+listed, and is available for export.Monetizing with Amplify Pre-roll - FAQs    
+How will I know if Iâve been accepted into the program?   Publishers will be
+notified by their account manager of their acceptance and will see a new
+âMonetizationâ tab in Media Studio.The program's Terms of Use will be
+displayed the next time the publisher logs into studio.X.com.These terms are
+non-negotiable.     How and when do I get paid?   X will pay publishers sixty
+(60) days after the last day of the calendar month in which earnings occur.For
+example, June earnings will be paid at the end of August.Payments are sent
+automatically and an email notification is sent to the contact name in the
+payment details.     Will you send me an invoice?   Invoices are not sent, but
+publishers receive an email when payments are issued.These emails include the
+publisher account ID, the earnings amount, and the invoice date.The earnings can
+also be found under the âMonetizationâ tab in Media Studio once they are
+processed.     How will I know my earnings information ahead of the payment
+window?   You may see âestimated earningsâ by clicking into each individual
+video in Media Studio.All estimated earnings displayed on a two-day delay.All
+figures are estimates, and there can be differences between the estimates and
+the final payment amounts.Please see the partner terms for additional details. 
+Why do I have to enter in payment information for each handle? What if I want to
+get paid as an organization?   Each handle needs to be set up as its own
+payee.In Media Studio, you can assign an admin to the account, who can then use
+their own credentials to access that handle.     Why haven't I been paid yet?
+There is a $100 USD (or your marketâs equivalent) earnings threshold for
+processing payments.Once a publisher hits this threshold, the payments will be
+sent.     Who do I contact for payment questions?   If you have any questions
+regarding the status of any of your open payments, please contact us at the
+email address found  here.     Do I have to opt-in every video?   No, it is your
+choice as to what videos are opted into the program.This selection can be made
+on a video-by-video basis, or set as defaults in the account âSettingsâ area
+under âMonetization.â        Can I upload and monetize videos from my phone?
+Yes, mobile videos can be uploaded and opted into the Amplify Pre-roll program
+via the X app on iOS and Android.     Can I exclude or block specific brands and
+categories from being paired with my videos?   Yes, you have the ability to
+block at both the individual handle level and the advertiser category
+level.Advertisers have the same ability to block publishers by handle or
+category.     Do I have to use Media Studio or the X apps to opt-in video into
+the program? Can I use a third party?   Yes, but it does depend on the
+service.Please reach out to your account representative to confirm that they
+have integrated with our API.Monetizing with Amplify Sponsorships        To
+learn more about the Amplify Sponsorship program, reach out to your X account
+manager.How to monetize Posts with video                    From your Library,
+click the   post   button underneath the video thumbnail Within the post compose
+window, enter your post text (up to 280 characters) Click the   Monetize this
+video   checkbox You can update the following types of metadata (optional):
+Title Description Call-to-Action URL   Select the correct package from the  
+Monetization program   dropdown.You can update additional monetization metadata
+(optional): Exclude advertiser @handles   - unless prompted by your X account
+manager, ignore this field   Click the   post   button to immediately publish
+your new monetized post.How to monetize Posts with live video broadcasts
+From Producer, click on the   Broadcast   tab.Click on an existing
+broadcast.Click the   post   button underneath the preview player to view the
+post composer.Click the   Monetize this video   checkbox.Select the correct
+package from the   Monetization program   dropdown You can update additional
+monetization metadata (optional): Exclude advertiser @handles   - unless
+prompted by your X account manager, ignore this field   Click the   post
+ button to immediately publish your new monetized post.Monetizing with Amplify
+Sponsorships - FAQs        Why canât I see âMonetize this videoâ checkbox
+or dropdown to select a sponsorship package?   You must click the blue post
+button to see the âMonetize this videoâ checkbox -- the checkbox will not
+appear for Sponsorships when clicking into the media directly.If youâre still
+unable to see the checkbox or the package, reach out to your account manager for
+assistance.     Why donât I see the Monetization tab within the Studio
+navigation bar?   The Monetization tab in the Studio navigation bar only appears
+when a user is allowlisted for the Amplify Pre-roll program.     What does the
+âExclude advertiser @handlesâ field do?   This field allows you to specify
+an advertiser handle within the package that will be unable to promote your
+post.If you have not been informed by your account manager to use this field,
+this should be ignored and using it could cause issues for your Sponsorship. 
+Where can I find analytics for my Sponsorship?   The only analytics viewable are
+the promoted views on each video that was posted into a Sponsorship.These
+promoted views can be seen via Media Studio or the Video Analytics Dashboard
+   Can I manage all of the posts inside of my Sponsorship?   No, you only have
+control over what new posts you add to a Sponsorship.There is no way to remove a
+post from a Sponsorship other than deleting the post        Can I see earnings
+for my Sponsorship?   No, there is no way to look at earnings per video for
+Sponsorships.Reach out to your account manager for assistance.     Can I
+monetize the same media via both Amplify Pre-roll and Amplify Sponsorship
+programs?   No, doing so will cause issues and may result in your video not
+being properly monetized.     Can I share a video for Amplify Sponsorships
+without posting?   â¨No, currently a new post needs to get created each time
+you want to place a video into a package.     I forgot to select the package
+when posting.Can I associate a post to a package manually?   â¨No, you must
+select the program upon posting.If this is not done, it is recommended that you
+delete the post and then create a new one associated to the correct package. 
+I accidentally posted into the wrong package.Can I manually remove that post
+from the package?   No, you must delete a post if it was incorrectly created. 
+Can one video be used across multiple Sponsorship packages?   Yes, it is
+possible to use one video across multiple packages, but it requires creating
+multiple posts â each one linked to a different package.Related Media Studio
+help         Overview   Library   Analytics   Producer   LiveCut   Monetize
+Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

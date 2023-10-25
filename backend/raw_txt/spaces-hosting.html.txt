@@ -1,0 +1,160 @@
+How to host a Space
+Skip to main content                                  Help Center
+How to host a Space                        Create a Space for live audio
+conversations on X.You choose the topic, people to speak, and vibe.Itâs about
+connecting people through the power of the human voice.Being a host is a unique
+opportunity because every Space is differentâand youâre shaping it by
+moderating the public conversation.Listen up, stay tuned and let us know what
+you think  @XSpaces  as we continue to grow with your feedback in mind.Your
+Space and who can see it Who can start a Space? How to start a Space Give your
+Space a name Make the most with your co-host Promoting your Space Scheduling a
+Space Sharing posts in Spaces Using Twemojis Recording a Space Guest management
+Reporting someone in a Space                        Your Space and who can see
+it           Since all Spaces are public, your presence and activity in a Space
+is also public.However, accounts with protected posts cannot create a Space.As
+the host, you will be visible to everyone in the Space as well as to others,
+including people who follow you, people who peek into the Space without
+entering, and developers accessing information about the Space using the X
+API.Who can start a Space?           People on X for iOS and Android can start a
+Space.                     How to start a Space         Long press on the post
+compose           on your Home timeline and then tap the new Spaces icon
+(multiple circles forming a diamond shape) on the far left.Or, tap on your
+profile image at the top of your timeline..When creating a new Space, you will
+see options to  Name your Space  and  Start your Space.To schedule a Space, tap
+Schedule for later.Choose the date and time youâd like your Space to go
+live.Once the Space has started, the host can send requests to listeners to
+become speakers by tapping on the  people  icon          and adding speakers or
+tapping on a personâs profile picture within a Space and adding them as a
+speaker.Your Space will automatically serve live captions.Listeners will have
+the option to view automated live captions (with a few seconds of delay).The
+Space is live until you end it, or if the Space is found to violate the  X Rules
+, X may also end it.                     Give your Space a name         Once
+your Space starts, you can add context by giving it a descriptive name.Other
+people will be able to see the name, so you can help set the mood by choosing
+something that speaks to your topic.                     Make the most with your
+co-host   Whether your plan is to tag team or if you simply want more support in
+running and moderating your Space, choose a co-host from your participants,
+listeners or speakers alike.Up to 2 people can become co-hosts in a Space in
+addition to the 11 speakers (including the host) at one time.If the co-host
+leaves the Space, they may lose their co-host status.A co-host can also remove
+their own co-host status to become a listener again.Hosts can transfer primary
+admin rights to another co-host.If the original host drops from the Space, the
+first co-host added will become the primary admin.Co-hosts can:   Invite others
+to become speakers Manage speaker requests Remove participants from the Space
+(see  Reporting someone in a Space ) Edit Space name (see  Give your Space a
+name ) Manage pinned posts (see  Sharing posts in Spaces ) Mute all speakers or
+an individual (see  Reporting someone in a Space )   Co-hosts canât:   Add or
+remove other co-hosts End the Space                   Promoting your Space     
+Reach more of your audience by posting out the link to your Space once it
+starts.Tap on the  share  icon            to  Share via a post.You can also  pin
+your post announcement to your profile  for even more visibility.           
+Scheduling a Space         Scheduling your Space and posting it out to the
+community can stir interest and let people know to save the date.It also lets
+others Repost your Space details through a timeline card.Make sure your guests
+show up by scheduling a Space in advance and signing up for reminders.Hosts can
+schedule one Space at a time up to 14 days in advance.Hosts can still create
+impromptu Spaces in the meantime, but can only have max one upcoming scheduled
+Space.To schedule a Space, open up Spaces and tap  Schedule for later.Pick the
+date and time youâd like to schedule your Space to go live.Guests can sign up
+for reminder notifications from a scheduled Space card in a post.When the host
+starts the scheduled Space, the interested guests get notified via push and in-
+app notifications.                     Sharing posts in Spaces       As a host,
+co-host, or speaker, you can find any post on your timeline and tap the share
+button, then tap  Share to Space.Once a post is added, everyone inside of the
+Space at that time will be able to see it.Anyone who joins the Space after a
+post has been added will see the post as well.Keep the momentum going and use
+posts as a way to facilitate the conversation.Hosts and speakers can pin a post
+to the top of the Space to provide more context on the topic theyâll be
+discussing.Maintain the flow by having curated posts queued up and ready to
+share.Use X Bookmarks to keep all of your favorite posts in one place.Learn more
+about  using the Bookmarks feature.Sharing posts is a way to address the
+audience initially before the voice chat starts.It will give people a way to
+respond and react.                     Recording a Space        For people who
+canât attend your live Space, just record it and let them play it back
+whenever they want.When creating a Space, toggle on  Record Space.While
+recording, a recording symbol will appear at the top to indicate that the Space
+is being recorded by the host.Once the Space ends, you will see how many people
+attended the Space along with a link to share out via a post.Under
+Notifications, you can also  View details  to post the recording.Under host
+settings, you will have the option to choose where to start your replay with
+Edit start time.This allows you to cut out any dead air time that may occur at
+the beginning of a Space.If you choose to record your Space, once the live Space
+ends, your recording will be immediately and publicly available for anyone to
+listen to whenever they want.You can always delete a recording to make it no
+longer publicly available, via the  more          icon on the recording
+itself.Your recording will remain available after the live Space has ended.* As
+with live Spaces, X will retain audio copies of all Spaces   for a limited time
+to review for spam and abuse.Co-hosts and speakers who enter a Space that is
+being recorded will see a recording symbol (REC).Listeners will also see the
+recording symbol, but they will not be visible in the recording.Recordings will
+show the host, co-host(s), and speakers from the Space.     *Note: Hosts on iOS
+9.15+ and Android 9.46+ will be able to record Spaces that last indefinitely.For
+hosts on older app versions, recording will only be available for 30 days. 
+          Using Twemojis       Spaces currently has five Twemojis that anyone
+can use to express their feelings.From, âIs this your first time in Spaces?â
+to âShow of hands for anyone who found that hilarious!â Twemojis let people
+in a Space respond, agree, laugh and more, in real time.Whether itâs
+excitement or acknowledgement, Twemojis are helpful toward encouraging more
+interaction and participation with your audience.                     Guest
+management       Tap          to sort people by speakers and listeners and see
+the people in your Space.You can encourage people to do the same and get to know
+each other by tapping on profile photos.                     Reporting someone
+in a Space         As a host or co-host, you can remove, mute,  report , and
+block  others in a Space.If you block a participant, you will also block that
+personâs account on X, and they cannot join a Space youâre hosting.To remove
+someone, tap on a profile picture within the Space, and tap  Block and
+remove.The host can also mute or remove the microphone from speakers.To mute a
+speaker in a live space, tap on the accountâs profile photo, which will pull
+up an option menu.Tap  Mute their mic  and you will receive an in-app
+notification that will let you know the individual has been muted.Share this
+article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

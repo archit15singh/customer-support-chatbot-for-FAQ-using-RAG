@@ -1,0 +1,144 @@
+Help with X for iPhone or iPad
+Skip to main content                                  Help Center
+Help with X for iPhone or iPad                                        Download X
+for iPhone                                    For the best experience using the
+X for iOS app, consider upgrading your iOS device to the latest operating system
+(OS).If your device is still using iOS 13.7 or lower, your X app may not update
+to more recent versions.             If youâre having issues with the X app on
+your iPhone, iPad or iPod Touch device, these troubleshooting tips should
+help.Installing X for iOS app                          Check your device's
+available space   What to do if device space isnât an issue
+X for iOS app isn't working                          Restart your device   Check
+your network connection   Remove your account from the app   Remove and re-add
+your account from settings   Uninstall/reinstall the X App on your Apple device
+Messages and other issues                          Unauthorized or Invalid
+username and password   Third-party keyboards
+Installing X for iOS app                                Download X for iPhone
+Check your devices available space       What to do if device space isn't the
+issue                                                  Check your devices
+available space                           What to do if device space isn't the
+issue                                  Check your deviceâs available space
+If youâre having trouble installing the latest X for iOS app, check to see how
+much space is available on your phone.Go to your device's  Settings.Tap
+General.Under  Usage , you can see how much memory is available on your
+device.If your device has less than 130 MB available, you may need to uninstall
+other apps to clear space.Once you have more space available, try downloading
+the app again.What to do if device space isnât an issue     If you have enough
+space available and youâre still having trouble installing the app:
+Cancel the download in the iTunes App Store, then restart the download.If
+restarting the download doesnât work, try powering off your device and then
+restarting it.If restarting your device doesnât work, try uninstalling the X
+app from your device.After itâs uninstalled, restart your device and then re-
+install the X app from the App Store.If youâre still having trouble, check
+iTunes Support for tips to troubleshoot download issues.X for iOS app isn't
+working                                Restart your device       Check your
+network connection       Remove your account from the app       Remove and re-
+add your account from settings       Uninstall / reinstall the X app on your
+Apple device                                                   Restart your
+device                           Check your network connection
+Remove your account from the app                           Remove and re-add
+your account from settings                           Uninstall / reinstall the X
+app on your Apple device                                   If youâre having
+trouble with the X for iOS app, first restart your device     Sometimes turning
+your device off and then on again can clear up any issues.If youâve tried that
+and it didnât work, below is a list of other troubleshooting techniques. 
+Check your network connections     If your device seems to be connected to the
+internet, but your app isnât working, check your network connections.       If
+youâre connected to a VPN, try turning it off.If turning off the VPN fixes
+your connectivity issue, youâll need to contact your VPN provider for
+help.Remove your account from the app and log back in:     Try removing and then
+re-adding your account to the app.If youâve enabled  login verification  on
+your account, be sure to store a backup code before removing your account from
+the app.       Removing your account will clear any Post drafts you havenât
+sent, so we suggest  saving your Post  as a draft.                       Remove
+and re-add your account from settings:      Logging out of your account will
+clear your drafts.Before completing the steps below,  save any Post drafts
+youâd like to keep.To remove:   Make sure you are logged in to the correct
+profile.From the profile menu tap  Settings and privacy.Tap on  Your account.Tap
+on  Account   information   Tap  Log out.Note: this will not deactivate your
+account, rather this will only remove the account from the app, effectively
+signing it out of the app.To re-add your account to the app:       Open the X
+app.Select   Sign in.Enter your username, phone or email and password.Select  
+Done.If you've forgotten your account's password or are having trouble logging
+back in,   reset your password   from your device.Uninstall and reinstall the
+app:     If the above troubleshooting steps didn't resolve your issue, you can
+try deleting and reinstalling the app on your device.If youâve enabled login
+verification on your account, be sure to store a  backup code  before
+uninstalling the app.Logging out of your account will clear your drafts.     To
+uninstall the app:   Please Note:  Before completing the steps below,  save any
+post drafts  youâd like to keep.     From your home screen, press and hold
+your finger on the X app icon.The icon will begin to wobble and an x will appear
+in the top left corner of the icon.Tap the  X.You will be asked to confirm your
+decision to delete the app.Tap  Delete.The app will disappear from the screen
+and has been deleted from your device.     To reinstall the app:   Go to
+https://x.com/download.Enter your phone number (the number associated with your
+account).You will receive a text message with a link to the App store.Tap the
+link and download the X app.       
+Messages and other issues                                Unauthorized or Invalid
+username and password       Third-party keyboards
+Unauthorized or Invalid username and password                           Third-
+party keyboards                                  Unauthorized or Invalid
+username and password      When signing in, some people may see messages like
+Unauthorized  or  Invalid username and password.Sometimes this happens because
+of incorrect time zone settings.Setting your time zone to update automatically
+can guard against messages like this.How to check that your time zone settings
+are set to update automatically:                           Tap the  Settings
+icon on your device.Tap  General.Select  Date & Time.Make sure the option to
+Set Automatically  is enabled.Some people see these messages due to having
+outdated versions of the X app.Double check the App store on your device to make
+sure you have updated the app recently.Third-party keyboards     Some people
+experience issues with third party keyboards on iOS devices.For the best X
+experience, make sure youâre using the keyboard that came with your iPhone or
+iPad.                              Download X for iPhone
+Related Articles                              How to log out of the X app on an
+iOS device     How to reset your password on iPhone or iPad
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

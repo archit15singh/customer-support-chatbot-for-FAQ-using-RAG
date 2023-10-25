@@ -1,0 +1,154 @@
+X's policy on the distribution of hacked materials
+Skip to main content                                  Help Center
+Distribution of hacked materials policy
+Overview         October 2020   The use of hacks and hacking to exfiltrate
+information from private computer systems can be used to manipulate the public
+conversation, and makes all of us less secure online.We do not condone attempts
+to compromise or infiltrate computer systems.As such, we donât permit the use
+of our services to directly distribute content obtained through hacking by the
+people or groups associated with a hack.In addition, we may label posts
+containing or linking to hacked materials to help people understand the
+authenticity or source of these materials and provide additional context.Note:
+ Other portions of the   Rules  may apply to material obtained through hacking,
+or to the actions of individuals associated with a hack.For example:     Our
+private information policy  covers the sharing of private information without
+consent, regardless of how the private information was obtained.Our  private
+information policy  also covers threats, bounties, or encouragement to expose
+someoneâs private information, including through hacking.Our  non-consensual
+nudity policy  covers the sharing of intimate photos or videos of someone that
+were produced or distributed without consent.     What is in violation of this
+policy?         We define a hack as an intrusion or access of a computer,
+network, or electronic device that was unauthorized or exceeded authorized
+access.Behaviors associated with the production of materials which would count
+as a hack under this policy include:   Unauthorized access or interception, or
+access that exceeds authorization (for example, from an insider), to a computer,
+network or electronic device, including breaches or intrusions   Disclosing
+materials accessed legitimately outside of approved systems or networks
+Disclosing materials where there is evidence that they were obtained through
+malware or social engineering   We use a range of evidence to establish that a
+hack has taken place, including reports from the victims of the hack, claims of
+responsibility by a hacker or hacking group, information provided by third
+parties (including law enforcement), our own systems and data where available
+and relevant, and other credible publicly-available information.We define hacked
+materials as the information obtained through a hack.Information need not be
+personally-identifiable private information in order to qualify as hacked
+materials under this policy.     The distribution of materials includes:
+sharing hacked content on X (e.g., in the text of a post, or in an image); and
+sharing posts which include links to hacked content hosted on other websites. 
+Direct distribution of real or synthesized hacked materials   Under this policy,
+we do not allow the people or groups directly associated with a hack to use X to
+distribute hacked materials.     The people or groups directly associated with a
+hack include:   the hackers or hacking groups themselves the representatives
+(official or self-identified) of or proxies acting in direct coordination with
+the hackers or hacking groups the employers or funders of the hackers     
+Indirect distribution of real or synthesized hacked materials     Under this
+policy, we may label or apply warning messages to posts containing or linking to
+real or synthesized hacked materials where these posts do not constitute direct
+distribution (as defined above).          What is not a violation of this
+policy?         We recognize that source materials obtained through leaks can
+serve as the basis for important reporting by news agencies meant to hold our
+institutions and leaders to account.As such, we defer to their editorial
+judgement in publishing these materials, and believe our responsibility is to
+provide additional context that is useful in providing clarity to the
+conversation that happens on X.     In most cases, discussions of or reporting
+about hacking or hacked materials constitutes indirect distribution (unless the
+people or groups directly associated with a hack are responsible for the
+production of the discussions or reporting).In these cases, a violation of this
+policy would result in a label or warning message, not removal of the post(s)
+from X.Additionally, this policy only addresses instances in which the materials
+themselves are being distributed â not discussions of or reporting about
+hacking which refer to but do not embed or link to the materials
+themselves.Posts referring to a hack or discussing hacked materials would not be
+considered a violation of this policy unless materials associated with the hack
+are directly distributed in the text of a post, in an image shared on X, or in
+links to hacked content hosted on other websites.          Who can report
+violations of this policy?         Anyone can report the distribution of
+materials obtained through hacking, whether they have an X account or not.In
+some cases, we may need to hear directly from the owner of the information being
+shared (or an authorized representative, such as a lawyer) before taking
+enforcement action.          How can I report violations of this policy?     
+In-app   You can report this content for review in-app as follows:   Select
+Report Post  from the          icon.Select  Itâs abusive or harmful.Select
+Includes private information.Select the type of information that youâre
+reporting.   Select the relevant option depending on who owns the information
+you are reporting.Select up to 5 Posts to report for review.Submit your report.
+   Desktop   You can report this content for review via desktop as follows:
+Select  Report Post  from the          icon.Select  Itâs abusive or
+harmful.Select  Includes private information.Select the type of information that
+youâre reporting.   Select the relevant option depending on who owns the
+information you are reporting.Select up to 5 Posts to report for review.Submit
+your report.You can also report this content for review via our  private
+information report form  by selecting the type of private information that you
+want to report.What happens if you violate this policy?         Accounts engaged
+in the direct distribution of hacked materials which are found to be directly
+operated by hackers, hacking groups, or people acting for or on behalf of such
+hackers will be permanently suspended.     In cases where accounts engaged in
+the direct distribution of hacked materials are operated by proxies for hackers
+or hacking groups, but are not directly controlled by such hackers, we may
+require the deletion of specific posts that directly distribute hacked
+materials, or permanently suspend accounts for repeated violations.     If you
+believe that your account was locked or suspended in error, you can  submit an
+appeal.We will also block links to websites operated by the hackers, hacking
+groups, or people acting for or on behalf of such hackers which directly
+distribute hacked materials.     We may provide additional context on posts
+which indirectly distribute hacked materials (as defined above) where they
+appear on X.This means we may:   Apply a label and/or warning message to the
+content Show a warning to people before they share or like the content.Where we
+have evidence that a hack, or the distribution of hacked materials, was
+conducted or facilitated by a state-backed actor, or that the materials in
+question may be manipulated, we may also reduce the visibility of the content on
+X and/or prevent it from being recommended.Typically, we will take these actions
+on all posts engaging in indirect distribution of hacked materials, regardless
+of the author of the post.     Additional resources         Learn more about our
+range of enforcement options  and our approach to  policy development and
+enforcement.Learn more about  private information  and our  election integrity
+efforts.Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies
