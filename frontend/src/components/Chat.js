@@ -42,7 +42,7 @@ const Chat = () => {
     setMessages((prevMessages) => [...prevMessages, newUserMessage]);
 
     axios
-      .post('http://localhost:5000/chat', { user_message: inputValue, conversation_history: messages})
+      .post('http://localhost:5000/chat', { user_message: inputValue})
       .then((response) => {
         const newBotMessage = {
           message: response.data.response,
