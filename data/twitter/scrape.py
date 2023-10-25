@@ -23,10 +23,10 @@ def get_text_from_url(url):
 
 def save_text_to_file(text, filename):
     try:
-        if not os.path.exists("scraped_data"):
-            os.makedirs("scraped_data")
+        if not os.path.exists("raw_txt"):
+            os.makedirs("raw_txt")
 
-        with open(os.path.join("scraped_data", filename), 'w', encoding='utf-8') as file:
+        with open(os.path.join("raw_txt", filename), 'w', encoding='utf-8') as file:
             prettified_text = textwrap.fill(html.unescape(text), width=80)
             file.write(prettified_text)
         print(f"Text saved to {filename}")
