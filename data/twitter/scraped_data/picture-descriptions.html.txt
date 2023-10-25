@@ -1,0 +1,177 @@
+How to make images accessible for people
+Skip to main content                                  Help Center
+How to make images accessible for people                                When you
+post photos using the X app for iOS or Android, or on X.com, you have the option
+to compose a description of the images so the content is accessible to more
+people, including those who are blind or low-vision.Good image descriptions are
+concise and descriptive, helping people understand whatâs happening in an
+image.This article includes instructions for composing image descriptions using:
+How to set image descriptions                             How to add image
+descriptions in posts from X for iOS                         Step 1
+Start by tapping the  Post compose  icon          and attach your photo(s).Note
+: For detailed instructions about adding photos to your posts, read this
+article.Step 2                On the image, tap the  +Alt button   to insert
+descriptive text.Step 3                Type your description of the image and
+tap  Done.Tap the description again to edit it prior to posting the post.(The
+limit is 1000 characters.)                      Step 4                You can
+add a description to each image in a post.Note : Image descriptions cannot be
+added to videos.How to add image descriptions in posts from X for Android
+Step 1                Start by tapping the  Post  icon          and attach your
+photo(s).Note : For detailed instructions about adding photos to your posts,
+read this  article.Step 2                On the image, tap the  +Alt button   to
+insert descriptive text.Step 3                Type your description of the image
+and tap  Done.Tap the description again to edit it prior to posting the
+post.(The limit is 1000 characters.)                      Step 4
+You can add a description to each image in a post.Note : Image descriptions
+cannot be added to videos.How to add image descriptions in posts from x.com
+Step 1                Click on the  Post compose  button, or press the ânâ
+key to use the keyboard shortcut.Step 2                Attach your photo(s).Note
+: For detailed instructions about adding photos to your posts, read this
+article.Step 3                To insert descriptive text, click  Add
+description.Step 4                Type your description of the image and click
+the   Done  button.To edit the description, re-open the  Add description
+ dialog prior to posting the post.(The limit is 1000 characters.)
+Step 5                You can add a description to each image in a post.Note :
+Image descriptions cannot be added to videos.VoiceOver on X for iOS
+How to add image descriptions in posts using VoiceOver
+Step 1                Find the  Compose post   button at the top right of the
+screen using touch exploration.Step 2                Double-tap the  Compose
+post  button.Step 3                Find the  Photo library  button using either
+touch exploration or the right/left flick gesture.Step 4                Double-
+tap the  Photo library  button to add an image.Step 5                Use touch
+exploration or the right/left flick gesture to find the image to add.Step 6
+Double-tap an image to add it and return to the composer.Step 7
+In the composer, find the image using touch exploration or the right/left flick
+gesture.Step 8                While focused on the image, swipe up or down until
+you hear " Add description to photo " and then double-tap to add a description
+for the image.Step 9                Type your description of the image.(The
+limit is 1000 characters.)                      Step 10                Find the
+Done   button in the top right of the screen using touch exploration or the
+right/left flick gesture.Step 11                Double-tap the  Done   button to
+add the description and return to the composer.How to edit image descriptions in
+posts using VoiceOver                         Step 1                You can edit
+your image description prior to posting the post.In the composer, find the image
+using touch exploration or the right/left flick gesture.Step 2
+While focused on the image, swipe up or down until you hear " Edit description
+for photo " and then double-tap to add a description to the image.Step 3
+Change the description of the image.(The limit is 1000 characters.)
+Step 4                Find the  Done   button in the top right of the screen
+using touch exploration or the right/left flick gesture.Step 5
+Double-tap the  Done   button to add the description and return to the
+composer.How to add image descriptions in posts using TalkBack
+Step 1                Find the  Write  button at the bottom left of the screen
+using touch exploration.Step 2                Double-tap the  Write  button.Step
+3                Find the  Photos  button using either touch exploration or the
+right/left flick gesture.Step 4                Double-tap the  Photos  button to
+add a photo.Step 5                Use touch exploration or the right/left flick
+gesture to find the photo to add.Step 6                Double-tap a photo to add
+it and return to the composer.Step 7                In the composer, find the
+Add description  button using touch exploration or the right/left flick
+gesture.Step 8                Double-tap the  Add description  button.Step 9
+Type your description of the image.(The limit is 1000 characters.)
+Step 10                Find the  Done   button in the top right of the screen
+using touch exploration or the right/left flick gesture.Step 11
+Double-tap the  Done   button to add the description and return to the
+composer.( Note:  after adding the description, the label of the  Add
+description  button will be changed to match the description.)
+How to edit image descriptions in posts using TalkBack
+Step 1                You can edit your image description prior to posting the
+post.Find the button labeled with the current description using touch
+exploration or the right/left flick gesture.Step 2                Double-tap the
+button.Step 3                Change the description of the image.(The limit is
+1000 characters.)                      Step 4                Find the  Done
+ button in the top right of the screen using touch exploration or the right/left
+flick gesture.Step 5                Double-tap the  Done   button to add the
+description and return to the composer.( Note:  after adding the description,
+the label of the  Add description  button will be changed to match the
+description.)                                        Using VoiceOver for Mac
+with X.com        How to add image descriptions in posts from X.com       Open
+the  post composer  using the keyboard shortcut (press the ânâ key).Use the
+âtabâ key to navigate to the  Add photos or video  button and press
+âenterâ.Use the file system dialog to choose the image to add.In the
+composer, find the image you've added using the âtabâ key.The image will be
+labeled according to the order in which it was added (e.g."Image 1").To insert
+descriptive text, open the thumbnail preview dialog by pressing the âenterâ
+key while focused on the image.Type your description of the image.(The limit is
+1000 characters.) Find the  Done   button by pressing the âtabâ key and
+press âenterâ, or just press âenterâ while holding down the
+âcommandâ key.To edit the description, re-open the thumbnail preview dialog
+prior to posting the post.     Using the JAWS for Windows screen reader with
+X.com        How to add image descriptions in posts from X.com       Press the
+âinsertâ and â3â keys together to temporarily bypass JAWS' virtual
+navigation.Open the  post composer  using the keyboard shortcut (press the
+ânâ key).Use the âtabâ key to navigate to the  Add photos or video
+button and press âenterâ.Use the file system dialog to choose the image to
+add.In the composer, find the image you've added using the âtabâ key.The
+image will be labeled according to the order in which it was added (e.g."Image
+1").To insert descriptive text, open the thumbnail preview dialog by pressing
+the âenterâ key while focused on the image.Type your description of the
+image.(The limit is 1000 characters.) Find the  Done   button by pressing the
+âtabâ key and press âenterâ, or just press âenterâ while holding
+down the âcontrolâ key.To edit the description, re-open the thumbnail
+preview dialog prior to posting the post.     Using the NVDA screen reader for
+Windows with X.com        How to add image descriptions in posts from X.com
+Press âinsertâ and Space keys together to enter forms mode.Open the  post
+composer  using the keyboard shortcut (press the n key).Use the âtabâ key to
+navigate to the  Add photos or video  button and press âenterâ.Use the file
+system dialog to choose the image to add.In the composer, find the image you've
+added using the âtabâ key.The image will be labeled according to the order
+in which it was added (e.g."Image 1").To insert descriptive text, open the
+thumbnail preview dialog by pressing the âenterâ key while focused on the
+image.Type your description of the image.(The limit is 1000 characters.) Find
+the  Done   button by pressing the âtabâ key and press âenterâ, or just
+press âenterâ while holding down the âcontrolâ key.To edit the
+description, re-open the thumbnail preview dialog prior to posting the post. 
+Note:  Once posted, the description applied to the image won't be visible but
+visually impaired people will have access to the description via their assistive
+technology (e.g.,  screen readers  and  braille displays ).Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

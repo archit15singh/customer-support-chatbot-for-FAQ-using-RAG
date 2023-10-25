@@ -1,0 +1,204 @@
+Media Studio Analytics
+Skip to main content                                  Help Center
+Media Studio Analytics                                                        We
+built an analytics dashboard within Media Studio because we understand how
+important it is to track the performance of your video publishing on X.Follow
+the instructions below to track the performance of your account, your overall
+video activity, and your individual video posts.For broadcasts, please find the
+analytics sections within  Media Studio Producer help.     Video analytics in
+Media Studio   How to view analytics for a particular video FAQs        Video
+analytics on the Video Analytics Dashboard   How to view high-level analytics
+for your account FAQs        Insights: Audience   How to view Timing is
+everything FAQs Errors        Insights: Conversations   How to view Conversation
+insights FAQs Errors                        Video analytics in Media Studio
+How to view analytics for a particular video                    Click on a video
+within your Media Studio library.The metrics  Video Views ,  Completion Rate ,
+and  Average Watch Time  will be shown in the opened window.For more advanced
+analytics, click the  More Analytics button.Select a date range using the filter
+at the top right (which defaults to a 7 day view).The window will now show the
+following metrics: Total Views Organic Views Promoted Views Video Completion
+Rate Average Watch Time Country of viewership Platform of viewership (iOS,
+Android, Web, etc.)     Tip: Metrics are aggregated by video, not by post.If you
+have posted the same video multiple times, we add up all metrics across those
+posts within this view).Video analytics in Media Studio - FAQs     What metric
+is used for the View count?   The main X video view metric is triggered when a
+user watches a video for at least 2 seconds and sees at least 50% of the video
+player in-view.This applies to View metrics for both uploaded videos and live
+broadcasts.     I am seeing promoted views on my video.Where are they coming
+from?   Promoted views can come from one of two places:       the account is
+part of the Amplify Pre-roll program and is getting promoted views after setting
+video(s) to âmonetizeâ   the accountâs posts are getting promoted as part
+of an ad campaign          If there are promoted views that you do not
+understand, please reach out to your X account manager.If you do not have an
+account manager, you can file a support ticket here:
+https://help.x.com/forms.How far back can I view video analytics in Media
+Studio?   The data in Media Studio goes back to 2017.     What analytics are
+tracked?     Accounts with access to Media Studio will be able to access the
+Video Analytics Dashboard via the Analytics tab of Media Studio.   Some examples
+of the analytics tracked include:     Video starts   Retention rates (25%, 50%,
+75%, 100%)   Completion rates (25%, 50%, 75%, 100%)   Total minutes viewed  
+Call-to-action clicks        Can I export the analytics?     Yes, you can export
+analytics from both the Video Analytics Dashboard (VAD) and Media Studio.  
+Can I export video-level analytics from my library?     Yes.Click on a video in
+your library to open the media detail window.Then click the  More analytics
+button to view  advanced  analytics.Then click the Export button that appears
+within that media detail window.                     Video analytics on the
+Video Analytics Dashboard                    How to view high-level analytics
+for your account                    Click the  Analytics  dropdown within the
+top navigation bar.Click  Video Analytics , which will open a new browser
+window.Use the date filter at the top-right of the page to specify the desired
+time range.Changing dates within this filter affects all data shown on the
+dashboard and exports.View various types of analytics: Top-level graph  â
+shows data from all videos that have earned views during the set time range (not
+just those videos posted during that time).Right-side graphs  â shows data
+from all videos that have earned views during the set time range (not just those
+videos posted during that time).Content list  â shows data from all videos
+that have been posted for the first time during the set time range.Export the
+information via the  Export data  button next to the date filter.Tip:  use the
+downloaded.CSV file to calculate additional metrics as desired.Video analytics
+on the Video Analytics Dashboard - FAQs     Can I view broadcast analytics on
+the Video Analytics Dashboard?   No, this dashboard only includes analytics for
+uploaded videos, and does not include live broadcasts.For live broadcast
+analytics, click into each individual broadcast via the Producer tab in Media
+Studio.     What are the differences between video analytics found in Media
+Studio and on the Video Analytics Dashboard?   Individual video analytics will
+be identical across Media Studio and the Video Analytics Dashboard.However there
+are differences in the availability of the metrics that can be found in each
+tool:   Media Studio UI:   Organic views   Promoted views   Average watchtime
+(ms)   Estimated earnings   Organic playback starts   Organic playback 25
+Organic playback 50   Organic playback 75   Organic playback completes
+Promoted playback starts   Promoted playback 25   Promoted playback 50
+Promoted playback 75   Promoted playback completes   Total completion rate
+Country demographics   Platform distribution (device)   List of top posts    
+Media Studio.csv export:   Organic views   Promoted views   Organic avg
+watchtime (ms)   Promoted avg watchtime (ms)   Average watchtime (ms)
+Estimated earnings   Organic playback starts   Organic playback 25   Organic
+playback 50   Organic playback 75   Organic playback completes   Organic
+completion rate   Promoted playback starts   Promoted playback 25   Promoted
+playback 50   Promoted playback 75   Promoted playback completes   Promoted
+completion rate   Total completion rate          Video Analytics Dashboard UI:
+Organic views   Promoted views   Estimated earnings   Organic playback starts
+Organic playback 25   Organic playback 50   Organic playback 75   Organic
+playback completes   Organic completion rate   Promoted playback starts
+Promoted playback 25   Promoted playback 50   Promoted playback 75   Promoted
+playback completes   Promoted completion rate   Total completion rate   Minutes
+viewed   Call-to-action clicks   List of top posts          Video Analytics
+Dashboard export:   Organic viewsPromoted views   Estimated earnings   Organic
+playback starts   Organic playback 25   Organic playback 50   Organic playback
+75   Organic playback completes   Organic completion rate   Promoted playback
+starts   Promoted playback 25   Promoted playback 50   Promoted playback 75
+Promoted playback completes   Promoted completion rate   Total completion rate
+Minutes viewed   Call-to-action clicks   List of top posts                  
+Insights: Audience                    How to view Timing is everything
+Click on the  Insights  button within the top navigation bar.Click on  Audience
+within the dropdown that appears.Study the graph to understand when your
+audience is online and watching videos on X (not necessarily your videos).post
+or schedule posts during the days and times that have the highest
+engagement.Insights: Audience - FAQs     What is âTiming is everythingâ?
+âTiming is everythingâ is an Insights feature that displays historical data
+of when your audience is on X watching and engaging with video, providing you
+with the best time(s) to post video in order to maximize engagement,
+conversation, and viewership.     What kind of data is used to populate the
+graph?     The graph displays historical data showing when your audience is on X
+watching video.     Why are you sharing this data with me?   In doing this,
+weâre providing you with the best time(s) to post video in order to maximize
+engagement, conversation, and viewership.     What timezone is the data
+displayed?     The data will be displayed in your local timezone, however you
+can change the timezone via the dropdown.     Should I only post during the
+highest engaged hours?     No, we encourage you to continue posting throughout
+the day in order to maximize your reach with your audience, but consider posting
+some of those posts during your highest engaged hours.     Why can I only see
+data going back a certain amount of time?     We only have data for this feature
+available from approximately November 2019 forward.Insights: Audience - Common
+errors and warnings       Error: âFailed to fetch insights data, please try
+againâ   This is likely just a temporary issue; try reloading the page after
+some time.     Error: âData cannot be generated for accounts with fewer than
+1,000 followersâ   We only allow users with over one thousand followers to see
+the âTiming is everythingâ insights page.     This message may also be
+displayed for the first 24 hours after a handle is granted access to Media
+Studio.After at least a week, this error message should no longer appear. 
+          Insights: Conversations                    How to view Conversation
+insights                    Click on the  Insights  button within the top
+navigation bar.Click on  Conversations  within the dropdown that appears.See the
+conversation trends in the graph, customizing the breakdown by hourly, minutely,
+or daily.You can also choose a particular date, or range of dates, via the date
+filter.The  posts  and  See who is talking about you  charts automatically
+update for any changes to the date filter.Insights: Conversations - FAQs
+What is âConversationâ insights?     Understand what people are saying about
+you on X with Conversation insights in Media Studio.Using content listening
+algorithms created by X, Conversation insights goes beyond highlighting just
+mentions and hashtags to show the posts and insights you might ordinarily miss.
+   What does âConversation analysisâ show?     Analyze the number of posts
+created about you, as well as the unique authors creating those posts.Set the
+time range to daily, hourly, or by the minute to get more detail.You can also
+drag across the graph to zoom in on a specific date range.     What does
+âpostsâ show?     View a timeline of conversations around you.Sort by Latest
+or Top posts; filter to see only posts from verified users, specific languages,
+or certain formats; set thresholds to filter the timeline to only view posts
+with high engagement or from accounts with a minimum number of followers.Use
+this knowledge to get inspired to create content that resonates with people who
+are talking about you.     What does âSee who is talking about youâ show?
+Discover the people who are talking the most about you.This information is
+broken out into two sections â the most influential people (by follower
+count), and the people who talk about you most often (by number of posts).Easily
+follow these users to keep the conversation going.     Insights: Conversations -
+Common errors and warnings       Error: âFailed to fetch insights data, please
+try againâ     This is likely just a temporary issue; try reloading the page
+after some time.     Error: âData cannot be generated for accounts with fewer
+than 1,000 followersâ     We only allow users with over one thousand followers
+to see the âConversationâ page.     This message may also be displayed for
+the first 24 hours after a handle is granted access to Media Studio.After at
+least a week, this error message should no longer appear.             Related
+Media Studio help   Overview   Library   Analytics   Producer   LiveCut
+Monetize                                  Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

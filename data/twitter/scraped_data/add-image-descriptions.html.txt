@@ -1,0 +1,110 @@
+How to add image descriptions | X Help
+Skip to main content                                  Help Center
+How to add image descriptions                                Image descriptions,
+also called alternative text, are an easy way to make X accessible to people
+with disabilities.  Like posts, image descriptions must follow the  X
+Rules.Describing whatâs in your images benefits people who are blind, have low
+vision, use assistive technology, live in low-bandwidth areas, or want more
+context.Without descriptions, your readers wonât know what your images
+contain, or why they're important.This missing information prevents people from
+engaging with your post.You can add image descriptions in four steps.Add image
+descriptions                                     1.  After uploading an image to
+a post, select the  +ALT  button on the image.(âALTâ is the abbreviation for
+alternative text, which is the technical name for image description.)
+    2.  Enter a description of the image in the text box.The description for
+this image is: âA small white mug with a tiny loop handle, with a shot of deep
+brown espresso and a light brown crema on top.The mug sits on a small white
+saucer on a medium brown wooden table.â In the corner of the text box is the
+character count.Weâve used 178 characters of the 1,000 characters available. 
+3.  Select  Done.An ALT badge will appear in the corner of the image.The +
+symbol no longer appears on the badge now that the description has been added. 
+4.  Select  post.The ALT badge appears on the image of the posted post.When
+someone selects the ALT badge, the image description appears on screen from the
+bottom up.     1.  After uploading an image to a post, select the  +ALT  button
+on the image.(âALTâ is the abbreviation for alternative text, which is the
+technical name for image description.)
+    2.  Enter a description of the image in the text box.The description for
+this image is: âA small white mug with a tiny loop handle, with a shot of deep
+brown espresso and a light brown crema on top.The mug sits on a small white
+saucer on a medium brown wooden table.â In the corner of the screen is the
+character count.Weâve used 178 characters of the 1,000 characters available. 
+3.  Select  Done.An ALT badge will appear in the corner of the image.The +
+symbol no longer appears on the badge now that the description has been added. 
+4.  Select  post.When someone selects the ALT badge, the image description
+appears on screen.     1.After uploading an image to a post, select  Add
+description  underneath the image.     2.Enter a description of the image in the
+text box.The description for this image is: "A small white mug with a tiny loop
+handle, with a shot of deep brown espresso and a light brown crema on top.The
+mug sits on a small white saucer on a medium brown wooden table." In the corner
+of the text box is the character count.Weâve used 178 characters of the 1,000
+characters available.     3.  Select  Save.An ALT badge will appear in the
+corner of the image.(âALTâ is the abbreviation for alternative text, which
+is the technical name for image description.)
+    4.  Select  post.When someone selects the ALT badge, the image description
+appears on screen.Add multiple images                                     If you
+add more than one image to your post on iOS, the images will appear in a
+horizontal scroll.Select the  +ALT  badge on each image to add the image
+descriptions.     After you've added your image descriptions, you'll see the ALT
+badge appear on the images that have a description.People who view your post
+will be able to select the ALT badge on each image to read the image
+descriptions.     If you add more than one image to your post on Android, the
+images will appear in a horizontal scroll.Select the  +ALT  badge on each image
+to add the image descriptions.     After you've added your image descriptions,
+you'll see the ALT badge appear on the images that have a description.People who
+view your post will be able to select the ALT badge on each image to read the
+image descriptions.     If you add more than one image to your post, you'll see
+arrows at the top of the dialog that allow you to navigate to each image to add
+the descriptions.     Select  Save.After youâve added your image descriptions,
+you'll see the ALT badge appear on the images that have a description.A note
+below the images that says "2 image descriptions" also confirms how many image
+descriptions have been added.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

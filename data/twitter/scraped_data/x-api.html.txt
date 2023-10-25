@@ -1,0 +1,123 @@
+About Xâs APIs
+Skip to main content                                  Help Center
+About Xâs APIs                                                        X is
+whatâs happening in the world and what people are talking about right now.You
+can access X via the web or your mobile device.To share information on X as
+widely as possible, we also provide companies, developers, and users with
+programmatic access to X data through our APIs  (application programming
+interfaces).This article explains what Xâs APIs are, what information is made
+available through them, and some of the protections X has in place for their
+use.     At a high level, APIs are the way computer programs âtalkâ to each
+other so that they can request and deliver information.This is done by allowing
+a software application to call what's known as an  endpoint : an address that
+corresponds with a specific type of information we provide (endpoints are
+generally unique like phone numbers).X allows access to parts of our service via
+APIs to allow people to build software that integrates with X, like a solution
+that helps a company respond to customer feedback on X.X data is unique from
+data shared by most other social platforms because it reflects information that
+users choose to share publicly.Our API platform provides broad access to public
+X data that users have chosen to share with the world.We also support APIs that
+allow users to manage their own non-public X information (e.g., Direct Messages)
+and provide this information to developers whom they have authorized to do so. 
+    Accessing X Data         When someone wants to access our APIs, they are
+required to register an  application.By default, applications can only access
+public information on X.Certain endpoints, such as those responsible for sending
+or receiving Direct Messages, require additional permissions from you before
+they can access your information.These permissions are not granted by default ;
+you choose on a per-application basis whether to provide this access, and can
+control all the applications  authorized on your account.The X APIs include a
+wide range of endpoints, which fall into five primary groups:       Accounts and
+users   We allow developers to programmatically manage an accountâs profile
+and settings, mute or block users, manage users and followers, request
+information about an authorized accountâs activity, and more.These endpoints
+can help citizen services like the  Commonwealth of Virginiaâs Department of
+Emergency Management  which provides information to residents about emergency
+responses and emergency alerts.     posts and replies   We make public posts and
+replies available to developers, and allow developers to post posts via our
+API.Developers can access posts by searching for specific keywords, or
+requesting a sample of posts from specific accounts.     These endpoints are
+used by NGOs like the UN to identify, understand and counter misinformation
+around public health initiatives.For example, in  Indonesia, there were
+persistent rumors  that vaccinations either contained pork product or caused
+infertility.Understanding how the rumors started and were spread allowed the UN
+to get a team on the ground to help dispel these myths, which caused particular
+concern in this Muslim-majority nation.Similarly, we help researchers listen for
+early symptomatic indications of disease outbreaks and monitor their spread.A
+team at  Northeastern University recently developed a new flu-tracking technique
+using X data that forecasts outbreaks up to six weeks in advance â much
+earlier than many other models, without sacrificing accuracy.          Direct
+Messages   Our Direct Message endpoints provide access to the DM conversations
+of users who have explicitly granted permission to a specific application.We do
+not sell Direct Messages.Our DM APIs provide limited access to developers to
+create personalized experiences on X, like  Wendy's March Madness bracket
+builder.For accounts they own or manage, businesses can create these human- or
+chatbot-powered conversational experiences to communicate directly with
+customers for customer service, marketing, and brand engagement experiences. 
+    Ads   We provide a suite of APIs to let developers, like  Sprinklr , help
+businesses automatically create and manage ad campaigns on X.Developers can use
+public posts to identify topics and interests, and provide businesses with tools
+for running advertising campaigns to reach the diverse audiences on X.       
+Publisher tools and SDKs     We provide tools for software developers and
+publishers to embed X timelines, share buttons, and other X content on
+webpages.These tools allow brands to bring live, public conversations from X
+into their web experience and make it easy for their customers to share
+information and articles from their sites.          You can learn more about our
+APIs and the specifics of each endpoint in our  developer documentation.Across
+all of our APIs and data products, we take our responsibility to protect our
+users' data seriously.We maintain strict policies and processes to assess how
+developers are using X data, and  restrict improper use of this data.When we
+learn that a developer violates our policies, we will take  appropriate action ,
+which can include suspension and termination of access to Xâs APIs and data
+products.To learn more about Xâs APIs, please visit  developer.x.com  and
+review our  developer policies and agreements.For more information on X and
+GDPR, please visit  https://gdpr.x.com/.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

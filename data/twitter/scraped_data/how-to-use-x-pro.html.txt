@@ -1,0 +1,154 @@
+How to use X Pro
+Skip to main content                                  Help Center
+How to use X Pro                                X Pro offers a more convenient X
+experience by letting you view multiple timelines in one easy interface.It
+includes a host of advanced features to help get the most of X: Manage multiple
+X accounts, schedule posts for posting in the future, build post collections,
+and more.X Pro is currently available   here.  
+Getting started with X Pro
+Getting started with X Pro
+How to start using X Pro                    Go to  the X Pro website , or open
+the desktop app for Mac.Log in with your X account.We recommend that you use a X
+account that is not shared with other individuals.Once you're logged in, you can
+connect multiple X accounts to your X Pro account.Note:   If you are using an
+old version of our desktop app for Mac (older than Mac: 3.5.0), you will not be
+able to sign in with a X account or create a new account until you upgrade to
+the latest version.If you use X Pro in a corporate or team environment , learn
+how to   set up a team account.How to connect multiple X accounts in your X Pro
+Click  Accounts   in the navigation bar.Click on  Link another account you
+own.Read the message to understand that you'll be creating a team relationship
+account you're adding, then click continue.In the new window, enter the username
+or email and password of the account and click  Authorize.Youâre ready to use
+X Pro!                            How to remove an account from X Pro
+Click  Accounts  in the navigation bar.Expand the account you wish to delete by
+clicking the down arrow.Click  Leave team  and confirm by clicking  Leave.Note:
+ The account you are signed into X Pro with cannot be removed from X
+Pro.Managing multiple accounts on X Pro     Select a default account:   You can
+select which of your accounts to use as your default account.This is the account
+you will compose a post from, like a post from, and reply to posts with.Click
+Accounts  in the navigation bar.Expand the account you wish to set as the
+default by clicking the down arrow.Toggle on the  Default account  option.  
+Posting from multiple accounts:   X Pro allows you to easily post from multiple
+accounts.To select which accounts you would like to post from:   Click on the
+post  button at the top of the navigation bar; the accounts you have authorized
+will be listed at the top (you can hover over an icon to see the username of the
+account).Select which account you would like to post from (if the account is
+selected, it will be highlighted with a green checkmark).Tip:   Schedule posts
+ (with or without an asset) in advance for any account connected to X Pro.  
+Liking from multiple accounts:   X Pro allows you to like a post from multiple
+accounts.Click on the  more  icon          on the post.From the menu that pops
+up, click on  Like from accountsâ¦ Click  Like  next to the account(s) youâd
+like to like from.     Following from multiple accounts:   X Pro allows you to
+follow someone from multiple accounts.You can also follow someone by clicking
+follow on their profile, but only your default account will follow them.Click on
+the account that you wish to follow; a profile will appear.Click on the  more
+icon         and then select  Follow from accounts...Choose which accounts you
+would like to follow from.Note:  The same instructions apply when unfollowing an
+account.     Why is it more secure to log in with a personal X username?     If
+you log in using a personal username that only you have the password for, you
+can safely access your team accounts without any risk to account security.We
+recommend that you use  login verification  for added security.How to create a
+post in X Pro     The post Composer in X Pro makes it easy to join the
+conversation, whether you want to share whatâs happening with words, images,
+or video.Click  post   while logged into your X account.If youâre logged into
+multiple accounts, confirm the X account youâd like to post from is
+selected.Compose your post with text.Include an image or video by selecting  the
+  Add images or video  button.Click  post  to share.     Using X Pro columns
+Instead of a single timeline, X Pro allows you to add columns to display
+specific content that interests you and view them side by side.Add columns that
+show all your mentions, the results of a search query, a list of likes, the
+latest posts from a hashtag or trend, etc.     To add a column:   From the
+navigation bar, click on the  plus  icon  to select  Add column.   Select the
+type of column you would like to add.Under  Your accounts , select the account
+you wish to populate the column.Note:   You can also create columns using
+information based on actions from other accounts.Click on the account username
+and choose from actions such as their mentions, lists, collections, or likes.To
+remove a column:   Click the  filter  icon   in the column header, next to the
+column title.Click the  Remove  button to delete a column.     Column filters:
+You can easily control the type of posts you would like displayed in each of
+your columns.You can select from  Content ,  Location ,   Users ,  Engagements
+or  Alerts ; or a combination of the three.     Content filtering allows you to
+filter the column by a certain type of post, such as Reposts, posts containing a
+specific word or phrase, or posts with photos.   The location filter allows you
+to filter for posts geotagged in specific locations.The user filter allows you
+to filter posts within a specific column written by a certain author and those
+they mention.   The engagement filter allows you to filter posts with a minimum
+number of Reposts, likes or replies.The alert filter allows you to enable pop-
+ups or sounds for a particular column.Note:  If you create a search column, you
+can also filter results by location, date, and engagement.The location filter
+allows you to easily narrow down your search results to find relevant content in
+the area you are interested in.Only unprotected posts geotagged with a location
+will appear in search results when a location filter is applied.     To create a
+filter:   Click the  filter  icon   in the column header, next to the column
+title.Select which types of filter(s) ( Content ,  Users , or  Alerts ) you
+would like applied to the column.Click the  filter  icon            again to
+collapse the column settings.Note:  Columns with custom filtering will display
+Filtered by  along with the icon for the filter you have enabled.     Column
+reordering:   Easily rearrange the order of columns in X Pro with just a few
+quick clicks.Click the  filter  icon   in the column header, next to the column
+title.Click the  left  or  right arrow  depending on which direction youâd
+like to move the column.Note:  You can also drag and drop the columns by their
+corresponding icons from the navigation bar to reorder your columns.     Types
+of X Pro columns and what they display         Home:  Home timeline for any
+specific account.User:  posts from a specific account.Notifications:
+Notifications for a specific account, including when the account's posts.are
+Reposted, liked, or mentioned, and when someone follows the account.Search:  A
+specific search term.Lists:  Create or connect a list you already
+follow.Collection:  A timeline of curated posts, hand-selected by you, to share
+with others.Activity:  Whatâs happening with the accounts you follow.Likes:
+posts marked as likes from a specific account.Messages (one account):  Direct
+Messages for a specific account.Mentions (one account):  When someone mentions a
+specific account.Followers:  Follow activity for a specific account.Scheduled:
+Your scheduled posts.Messages (all accounts):  Direct Messages from all your
+authorized accounts in aggregate.Mentions (all accounts):  Mentions from all
+accounts.Trending:  Specific worldwide trends.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

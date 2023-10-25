@@ -1,0 +1,230 @@
+X's automation development rules | X Help
+Skip to main content                                  Help Center
+Automation rules                                                        Updated
+November 3, 2017   This page is primarily intended for  developers.For X users:
+You are ultimately responsible for the actions taken with your account, or by
+applications associated with your account.Before authorizing a third-party
+application to access or use your account, make sure you've thoroughly
+investigated the application and understand what it will do.If automated
+activity on your account violates the  X Rules  or these automation rules, X may
+take action on your account, including  filtering your posts from search results
+or suspending your account.For more information on third-party applications,
+please see our article on  connecting and revoking third-party applications.If
+you are a developer and have questions about these Automation Rules, please
+reach out  here.I.Ground Rules       Do!         Build solutions that
+automatically broadcast helpful information in posts.Run creative campaigns that
+auto-reply to users who engage with your content.Build solutions that
+automatically respond to users in Direct Messages.Try new things that help
+people (and comply with our rules).Make sure your application provides a good
+user experience and performs well â and confirm that remains the case over
+time.     Donât!         Violate these or other policies.Be extra mindful of
+our rules about abuse and user privacy.Abuse the X API or attempt to circumvent
+rate limits.Use non-API-based forms of automation, such as scripting the X
+website.The use of these techniques may result in the permanent suspension of
+your account.Spam or bother users, or otherwise send them unsolicited messages.
+   A.The X Rules and the Developer Agreement and Policy       As with all
+activity on X, automated activity is subject to the  X Rules  and, if youâre a
+developer using the X API, the  Developer Agreement and Policy.You should
+carefully review these policies to ensure that your automated activity is
+compliant.Automated applications or activities that violate these policies, or
+that facilitate or induce users to violate them, may be subject to enforcement
+action, potentially including suspension of associated X accounts.We may also
+rate limit, suspend, or terminate developersâ access to the X API based on
+violations of these policies.Although all aspects of the X Rules and the
+Developer Agreement and Policy apply to automated activity, you should keep the
+following rules top of mind:        Spamming:  You may not send automated posts
+or Direct Messages that are spam, or otherwise engage in spamming activity.Some
+examples of spammy behavior to avoid with automation include:   Trending topics:
+You may not automatically post about trending topics on X, or use automation to
+attempt to influence or manipulate trending topics.Multiple posts/accounts:  You
+may not post duplicative or substantially similar posts on one account or over
+multiple accounts you operate.     Duplicate accounts:  You may not create
+and/or automate multiple accounts for duplicative  or substantially similar use
+cases.However, automating multiple accounts for related but non-duplicative use
+cases is permitted.For example, you may automate separate accounts to post when
+the Hubble Space Telescope passes over different cities, such as  San Francisco
+or  Hong Kong.     Misleading links:  You may not send automated posts or Direct
+Messages containing links that are misleading, including links that maliciously
+or deceptively redirect through landing pages or ad pages before displaying the
+final content.     Sensitive media:  Automated posts and Direct Messages must
+comply with the  X media policy , and you should mark your account as
+potentially sensitive if you intend to post graphic, pornographic, or
+potentially sensitive media.Abusive behavior:  You may not engage in any
+automated activity that encourages, promotes, or incites abuse, violence,
+hateful conduct, or harassment, on or off X.Private information:  You may not
+post private or confidential information about a person without their prior
+express authorization.     B.Other Ground Rules for Automated Activity      
+In addition to the policies above, the following ground rules apply to all
+automated activity on X:   Donât surprise or mislead users:  Automated
+activity should honor usersâ expectations.  Ask for the userâs permission
+before taking an action if you arenât sure.Mature content or profanity:
+Donât Direct Message, mention, or reply to users with potentially sensitive
+content (including profanity), unless theyâve clearly indicated an intent to
+receive it in advance.   Be thoughtful about the information you request or
+exchange on X     posts: Donât ask users to send you personal or private
+information via a public post.If you need additional personal or private
+information from a user to provide them with customer service (or other similar
+use cases), you should ask the user to share such information by Direct Message
+or another private channel.You might even consider adding a  Direct Message deep
+link  to your post.Direct Messages: You should only ask users for the minimum
+amount of information you need to provide them with service.If you need to
+request or exchange particularly sensitive information (such as credit card
+information), you should consider directing users to your website or other
+appropriate channel to do so.            II.Activity-Specific Rules         The
+activity-specific rules in this section apply to taking specific automated
+actions on X.Please read these rules carefully, as they outline both permitted
+and prohibited use cases of automation.Automated applications or activities that
+violate these rules, or that facilitate or induce users to violate them, may be
+subject to enforcement action, including suspension of associated X accounts.We
+may also rate limit, suspend, or terminate developersâ access the X API based
+on violations of these rules.As a reminder, you should also carefully review the
+spam guidelines in the  X Rules  to avoid having activities performed by you,
+your app, or other users through your app or service flagged as spam.  
+A.Automated Actions Through Another Userâs Account         X users may
+authorize your app or service to  access their X account through OAuth.A user
+authorizing your app or service to access their X account through OAuth does not
+by itself constitute sufficient consent to take automated actions through that
+userâs account.You may only take automated actions through another X userâs
+account if you:   clearly describe to the user the types of automated actions
+that will occur; receive express consent from the user to take those automated
+actions; and immediately honor a userâs request to opt-out of further
+automated actions.If you substantially change the purpose or functionality of
+your app or service, you must re-obtain express consent from the user to take
+automated action through their account before doing so.These requirements apply
+to any automated action taken through another X userâs account, including
+posting posts, sending Direct Messages, deleting posts or Direct Messages, or
+following/unfollowing other accounts.For applications that offer users the
+ability to delete posts in a bulk or automated manner, you must also clearly
+state that posts are not recoverable once deleted.     B.Automated posts     
+1.Posting automated posts   Automated posts that cross-post outside information:
+You may post automated posts based on  sources of outside information â such
+as an RSS feed, weather data, etc.â as long as you are sufficiently authorized
+to publish such information.Other automated posts (excluding mentions or
+replies):  Provided you comply with all other rules, you may post automated
+posts for entertainment, informational, or novelty purposes.As a reminder,
+accounts posting duplicative, spammy, or otherwise prohibited content may be
+subject to suspension.     2.Posting automated mentions and replies   The reply
+and mention functions are intended to make communication between X users
+easier.Automating these actions to reach many users on an unsolicited basis is
+an abuse of the feature, and is not permitted.For example, sending automated
+replies to posts based on keyword searches alone is not permitted.  Spammy or
+duplicative use of mentions and replies may result in enforcement action, such
+as the removal of your posts from Search or the suspension of your app or
+account.However, you may send automated replies or mentions to X users so long
+as:   in advance of sending the automated reply, the recipient or mentioned
+user(s) have requested or have clearly indicated an intent on X   to be
+contacted by you (i.e.opted in), for example by replying to a post from your
+account, or by sending you a Direct Message; you provide a clear and easy way
+for such users to opt-out of receiving automated replies and mentions, and
+promptly honor all such opt-out requests; you only send one automated reply or
+mention per user interaction; and the automated reply or mention is a reply to
+the userâs original post (if your campaign is based on users posting a reply
+to your post).Opt-in techniques and indications of user intent take many
+different forms, depending on the specifics of your use case and
+implementation.Some examples include:   A post from your account that clearly
+indicates that a user taking a specific action on that post (such as Reposting
+it) will opt the user into receiving an automated response.A mention of your
+account by the user in a manner suggesting the user clearly wishes or intends to
+receive a response.If you want to run an auto-reply campaign with a campaign- or
+use-case-specific hashtag, users should also mention you in their posts.  
+Note that a user following your account is not on its own a sufficient
+indication of user intent to receive an automated response.Note:   Advertisers,
+publishers, and brands using auto-response campaigns must request approval from
+X and may be subject to additional rules.  Please reach out to your account or
+partner manager for assistance.If you do not have a partner manager but are
+interested in managed client services, you can learn more   here.Additionally,
+we recommend that any accounts that will communicate with users via automated
+mentions or replies:   Appropriately filter responses based on potentially
+sensitive language in user handles, display names, and post text, as well as
+potentially sensitive media;   Check that the post you are mentioning or
+replying to still exists (for example, using the statuses/lookup endpoint on the
+X API).     C.Automated Direct Messages         Sending automated Direct
+Messages to users   You may not send unsolicited Direct Messages in a bulk or
+automated manner, and should be thoughtful about the frequency with which you
+contact users via Direct Message.You may send automated Direct Messages to users
+so long as:     in advance of sending the Direct Message, the recipient(s) have
+requested or have clearly indicated an intent on X to be contacted by you via
+Direct Message, for example by sending you a Direct Message;  and   you provide
+a clear and easy way for such users to opt-out of receiving automated Direct
+Messages, and promptly honor all such opt-out requests.The fact that a user is
+technically able to receive a Direct Message from you (e.g.because the user
+follows you, has enabled the ability to receive Direct Messages from any
+account, or because the user is in a pre-existing Direct Message conversation
+with you) does not necessarily mean they have requested or expect to receive
+automated Direct Messages from you.     Interacting with users via Direct
+Message     Per the Ground Rules, remember to be thoughtful about the amount and
+type of information you request or exchange with users via Direct Messages.If
+you will be asking a user to provide personal or private information via an
+automated Direct Message, you must clearly explain how you will use the
+information youâre collecting.Consider including a link to your privacy policy
+in your Direct Message to the user, as well as in your X profile bio.Donât
+publicly share information received in a Direct Message conversation with a user
+without first obtaining explicit consent from the user.For example, if a user
+asks you via Direct Message about a purchase they made from you, you may not
+mention the user in a public post that includes information about their purchase
+unless you have the userâs explicit consent to do so.After a user-initiated
+interaction ends, donât send additional follow-up Direct Messages or mention
+users in a post unless you get permission from the user.D.Automated actions you
+take on posts or accounts       Automated likes:  You may not like posts in an
+automated manner.Automated Reposts:  Provided you comply with all other rules,
+you may Repost or Quote post in an automated manner for entertainment,
+informational, or novelty purposes.Automated Reposts often lead to negative user
+experiences, and bulk, aggressive, or spammy Reposting is a violation of the  X
+Rules.Automated following/unfollowing:  You may not follow or unfollow X
+accounts in a bulk,  aggressive, or indiscriminate manner.Aggressive following
+is a violation of the  X Rules.Please also review our  following rules and best
+practices  to ensure you are in compliance.Note that applications that claim to
+get users more followers are also prohibited under the  X Rules.Automated adding
+to lists or collections:  You may not add X users to lists or add posts to
+collections in a bulk or indiscriminate manner.Adding a large number of
+unrelated users to lists is a violation of the  X Rules.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

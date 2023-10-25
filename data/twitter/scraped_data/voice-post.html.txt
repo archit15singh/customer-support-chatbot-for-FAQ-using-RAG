@@ -1,0 +1,97 @@
+X voice Posts â how to Post with your voice or audio
+Skip to main content                                  Help Center
+How to Post with your voice                                Weâre currently
+testing the option to post audio messages on the X for iOS app.This feature
+makes it easier to post on the go with your voice.  Weâve also added automated
+captions to improve accessibility.How to record a voice Post
+Tap the   post compose            icon.Tap the   voice   icon.Tap the red  
+record   button to begin recording your message, then tap   Done   when youâre
+finished.You have the option to add post text and/or start a   thread   with
+multiple posts.You can record up to 2 minutes and 20 seconds for each individual
+voice post.If your message is longer than that, it will be automatically
+threaded up to 25 posts.   When youâre ready, tap   post   to send. 
+How to play a voice Post                    When someone you follow records a
+voice post, playback is available on mobile and X.com with these steps:  
+1.Navigate to the voice post.2.Tap/click the voice post thumbnail to start and
+stop playback.                                How to see captions of voice Posts
+You can enable captions by adjusting your settings for iOS 13 and above as
+follows:     Note: This is not the settings page on your X app.              
+ 1.Open the settings app on your iOS device from the home                   
+ screen.            2.Go to  Accessibility , then  Subtitles & Captioning      
+           3.  Enable or disable the  âClosed Captions + SDHâ  option      
+              Once you have enabled captions on your iOS device:               
+  1.Navigate to the voice post.                2.Tap the voice post thumbnail. 
+             3.  A transcript of the voice post automatically appears          
+         overlayed on the voice post thumbnail.                       You can
+enable captions by adjusting your Android settings as follows:   Note: this is
+not the settings page on your X app.                1.  Open the Settings app on
+your Android device from the                   home screen.                    
+ 2.Go to Accessibility, then Accessibility -> Audio &                   On-
+Screen Text.                3.  Enable or disable the Caption preferences. 
+Once you have enabled captions on your Android device:                 
+ 1.Navigate to the voice post.                2.Tap the voice post thumbnail.  
+            3.  A transcript of the voice post automatically appears           
+        overlayed on the voice post thumbnail.                       To see
+captions on a web browser:                   1.Navigate to the voice post.A  CC
+icon appears at the top                   right corner if that post has captions
+available                          2.Click  CC  on the voice post player.      
+        3.  A transcript of the voice post automatically appears               
+    overlayed on the voice post thumbnail.                       More about
+voice posts           Voice posts will be published as posts with audio
+attachments that people can play.Your current profile photo will be added as a
+static image on your audio attachment and will not refresh if you update your
+profile photo.Tapping on someoneâs voice post will play the audio message and
+automatically advance for threaded voice posts on iOS.   On iOS, when you tap
+play, it will automatically minimize in an audio dock at the bottom of your
+screen so that you can continue listening as you scroll through X and when you
+leave the app.                                    Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

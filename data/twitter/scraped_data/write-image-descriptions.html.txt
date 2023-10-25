@@ -1,0 +1,196 @@
+How to write great image descriptions | X Help
+Skip to main content                                  Help Center
+How to write great image descriptions                                Image
+descriptions, also called  alternative text  or  alt text,  are text
+descriptions of an image.These descriptions support people who are blind, have
+low vision, use assistive technology, live in low-bandwidth areas, or want more
+context.Writing image descriptions on X is different from writing them elsewhere
+on the Web in three ways:     X has a character limit of 1,000.The description
+is the only place that guarantees a description of an image.Everyone can access
+it.The goal of writing image descriptions is to be clear and concise, while
+giving more context to your post.  Like posts, image descriptions must follow
+the   X Rules.Here's a list of recommendations for writing great image
+descriptions with examples:                          Image description
+recommendations                                       The List
+Capture what's important Be succinct, clear, and detailed Be objective Write out
+or summarize text in images Watch out for acronyms and abbreviations Include the
+image type details Use regular sentence structure and letter casing Avoid
+redundant information Take care with complex visuals
+Details and examples                                1.Capture what's important
+It's important to capture action, movement, relationships, noteworthiness,
+visual details, and anything unique.Note people, pets, things, their names (if
+relevant), and their relationship to each other.Depending on topic relevance,
+mention the race, gender, age, etc.of people.                 Capture what's
+important example                                               1.1.The
+description for this image could be:   My puppy, Beatrix, sits on the left.On
+the right is the bag of charcoal she just finished shredding.Hunks of charcoal
+and pieces of the bag are scattered on the floor, along with her red octopus
+toy.This description is 201 characters long.2.Be succinct, clear, and detailed 
+The character limit for image descriptions is 1,000.Previously, some assistive
+technology (such as screen readers) stopped reading at 200-250 characters.While
+this is no longer the case, itâs still important to be succinct in your
+description.Be succinct, clear, and detailed example
+2.2.At 224 characters, a long version of this image description could be:     A
+small white mug with a tiny loop handle, with a shot of deep brown espresso and
+a light brown crema on top.The mug sits on a small white saucer on a medium
+brown wooden table with clear grain running mostly top to bottom.     A shorter
+version, at 137 characters, could be:     A shot of espresso with a light brown
+crema inside a white espresso mug with loop handle.The mug sits on a white
+saucer on a wood table.The shorter version does it in 87 characters less. 
+          3.  Be objective   Unless it's an image of yourself, or you know
+exactly what's happening in the image, don't editorialize, or make assumptions
+about what's happening.Simply provide enough objective context so readers
+understand the relevance of the image to your post.     For example, if the
+image is of a politician you don't like, don't refer to their âsilly little
+face.â Say instead that they're âsmiling, close-lipped into the camera.â
+Be objective example                                               3.3.The
+description for this image could be:   Three smiling men sit on a wicker couch,
+with no cushions, at the top of a hill covered in packed snow.They're wearing
+winter coats, gloves, wet jeans, and snow-encrusted shoes.A factory looms in the
+background, and a group of people with sleds are gathered at the bottom of the
+hill.This description is 298 characters.Instead of saying the men look like
+they're having fun, which is subjective, you can say they're smiling.Happiness
+is implied.Also, it looks like the men in this image are about to couch sled
+down the hill.They aren't actively doing so though.To say that they are is to
+create a story out of the image, instead of just describing the image.4.  Write
+out or summarize text in images   If there's text in the image, include it in
+your description.If it's more than 1,000 characters of text, do your best to
+summarize it, focusing on its relevance to your post.     If it's a legal
+document, for example, summarize the content and provide a link to the source in
+your post, not the image description.Depending on what you write in your post,
+you can exclude certain details from the image description.This also avoids
+redundancy for readers.For example, if you mention the name of the author and
+the title of a book in your post, you don't need to repeat that information in
+the image description.                    Text in images example
+4.4.The description for this image could be:   A hand holds open a book of
+poetry by Mary Oliver called âDog Songs.â The name of the poem displayed is
+âThe Poetry Teacher.â On the opposite page is an illustration of a Beagle
+laying in the grass.The poem is about how the author negotiated with a
+university to allow her dog to go with her while she teaches a poetry class. 
+This description is 326 characters.Notice that context was given to the
+description that does not appear in the image.This is done if that contextual
+information is not provided in the post.5.Watch out for acronyms and
+abbreviations   Acronyms should be capitalized.If they're not, some screen
+readers may read them as words, which might not make sense in context.Non-
+capitalized acronyms may also increase reading difficulty for sighted
+readers.Try to spell out words instead of using abbreviations.Screen readers
+don't always announce them in a meaningful way.     For example, with
+abbreviations like "Dr." for "doctor," some screen readers read each letter
+instead of reading them as words.So "Dr.Calvin" is read as "d r Calvin." Some
+people will catch that, or be able to process what it actually means, but others
+won't.The exception is if youâre writing out abbreviated text that appears in
+an image.Everyone who reads your description may not know what certain
+abbreviations mean.Readers who donât speak or read the same language may
+struggle to understand the meaning.                 Acronyms and abbreviations
+example                                               5.5.The description for
+this image could be:   Black and white photo of two young women walking past
+Doctor Calvin's office, down the brick sidewalk along Lexington Avenue in early
+December.They're bundled up in winter coats.     This description is 179
+characters.Words that could have been abbreviated are "black and white,"
+"Doctor," "Avenue," and "December." The spelled-out words don't detract from the
+description, nor do they significantly impact the character count. 
+          6.Include the image type details   Mention if something is a close-up,
+aerial shot, or black and white photo.     If itâs artwork, describe the type
+of art: painting, portrait, sculpture, illustration, etc.If there's a specific
+genre associated, add that as well.For example, "anime illustration" instead of
+just "illustration."               Image type details example
+6.6.The description for this image could be:   A view from a hilltop looking
+down into a valley.Rows of corn stretch from side to side of the photo.The
+setting sunlight makes the fields look auburn instead of yellow.Beyond the crop
+rows are softly rising hills, with a few buildings and trees on them.Beyond that
+are even steeper hills, some shrouded in shadow by long, flat stratus
+clouds.This description is 347 characters.It's a bit long, but hopefully it
+captures the image contents in an evocative way. 
+          7.Use regular sentence structure and letter casing   Describe the
+image in complete sentences instead of listing its characteristics.Write in a
+way that sounds natural or conversational.Write in sentence case instead of all
+lowercase or ALL CAPS (unless itâs an acronym or abbreviation). 
+Sentence structure example                                               7.7.For
+this image, the description could be:   A view of a slice of the city Sintra,
+Portugal on an overcast, chilly day.A tour bus is coming down the street, a
+couple is getting off their scooter, and a group of people are walking toward
+us.On top of the hill in the distance is Castelo dos Mouros (Castle of the
+Moors).This description is 276 characters. 
+          8.  Avoid redundant information   Don't write "Photo of" or "Image
+of." Assistive technology will know it's an image and communicate that to
+users.Do mention if something is a screenshot.It can be useful for readers to
+have that extra context.Don't repeat information that you write in your post in
+the image description.For example, if you share a photo of a book cover, and
+mention the author's name and book title in your post, don't repeat that
+information in the description; instead describe the book cover.If you  don't
+mention that information in your post, then do include it in your
+description.Avoid redundant information example
+8.8.The description for this image could be:   Screenshot of a post from @X on
+October 4th that says, âhello literally everyone.â There were 118,400
+comments, 784,200 reposts, and 3.3 million likes.     This description is 159
+characters.Short and sweet.                                            
+9.  Take care with complex visuals   Diagrams, charts, tables, maps, and
+infographics contain detailed information.These visuals often need lengthy image
+descriptions.The goal for these descriptions is to describe trends and findings,
+not explain the research behind it.Instead, add a link to the source in your
+post so readers can get more information if they want it.For maps, describe the
+overall information shown.No need to describe the interface controls or the
+pinned landmarks.Complex visuals example
+9.9.The description for this image could be:   Screenshot of 2019 data map from
+the CDC Disability & Health Data System showing the relationship between any
+disability and yearly incomes below $15,000 for adults 18+.The states with the
+highest prevalence of 22.2-50.3% are CA, NM, AR, LA, AL, SC, DC, Guam, and
+Puerto Rico.States in the second-highest tier of 18.7-22.1% are NE, OK, TX, MO,
+WI, IN, KY, TN, MS, WV, GA.States in the middle with 17-18.6% are AZ, MT, KS,
+IL, MI, OH, FL, VA, NY, RI.States in the second-lowest tier of 15.6-16.9% are
+WA, NV, ID, HI, IA, VT, NH, MA, ME, DE.States with the lowest at 10.2-15.5% are
+AK, OR, UT, WY, CO, ND, SD, MN, PA, MD, NC.There is no data available for NJ or
+Virgin Islands.The U.S.median prevalence is 19.7%.The map uses blue and green
+colors to show percentage relationships in each state.This description is 801
+characters, and thorough enough to give readers a comprehensive understanding of
+the data map.  
+Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

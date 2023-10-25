@@ -1,0 +1,297 @@
+Media Studio Library
+Skip to main content                                  Help Center
+Media Studio Library                                The Library is Media
+Studioâs home page, where you can scroll through your media library, search
+your content, filter (by media type), upload new media, edit metadata, review
+analytics, and much more.Here you will be able to see all your videos, GIFs, and
+image assets that youâve shared from your X account.This includes media assets
+that are posted directly from your account and/or that are uploaded via Media
+Studio.Library upload specifications   Video Image GIF   Uploading media   How
+to upload media to your Library FAQs Errors   Metadata and Content settings
+How to modify media metadata FAQs Errors   Posting and scheduling posts   How to
+post media from your Library How to schedule a post from your Library FAQs
+Errors   Media Sharing   How to share media from your Library to another X
+account How to manage media that has been shared via Media Studio FAQs
+Subtitles   How to upload an.srt subtitle file in Media Studio Formatting FAQs
+Errors                     Library upload specifications       These
+instructions are only valid for Media Studio, and should not be followed for
+usage of the X developer API, Pro Media API, desktop upload, or mobile upload. 
+You can upload images, GIFs, and videos into your media library.Additionally,
+all media that has been uploaded or attached to posts created via the desktop or
+mobile X apps will appear in your library.     Video         File size and type
+Maximum file size: 1 GB   Type:.MP4,.MOV        Resolution   Recommended
+resolution (landscape): 1280x720   Recommended resolution (square): 720x720    
+Encoding   Video specification: AVC encoding (H264)   Recommended video bitrate:
+5-8 mbps   Maximum video framerate: 60 FPS   Audio specification: stereo/mono
+AAC (LC)   Subtitles: CEA 608/708 embedded,.SRT sidecar        Duration   Most
+people are limited to 2:20 (140 seconds), though some partners are allowlisted
+to allow for video duration up to 10 minutes.If you would be like to be
+allowlisted for upload > 2:20 minute video uploads (up to 10 mins), reach out to
+your X account manager.     Image         File size and type   Maximum file
+size: 20 MB   File type:.JPG,.PNG        Resolution   Maximum resolution:
+8192x8192        GIF         File size   Maximum file size: 15 MB   File
+type:.GIF        Resolution   Maximum resolution: 2048x2048          
+Uploading media                         How to upload media to your library
+Ensure youâre logged in and viewing  studio.X.com.Click the  Upload  button at
+the top-right of the page.Select one or more media files from your computer.Once
+your media has been selected, upload will start automatically.Tip: You may also
+drag and drop files into Media Studio.Uploading media - FAQs       Can I upload
+multiple files at the same time?     Yes.When selecting media to upload from
+your computer, you can highlight multiple files to upload.Studio also has a
+drag-and-drop functionality, allowing you to upload files just by dragging the
+icons from your desktop or file manager to your Media Studio library.     Why
+canât I select.mov files for upload?     If you are unable to select an.mov
+file via the file selection window, attempt to upload the file by dragging it
+into your Media Studio Library.          Can I delete media from my library?
+Yes, you can delete media from your library at any time.If you have previously
+posted this media, people will see a playback error message.It is recommended
+that you delete these posts to ensure people do not see this message.     Can I
+filter the view of media within my library?     Currently we only support
+filtering the library view by media type.     Uploading media - Common errors
+and warnings         Error: âVideo too longâ     This error usually appears
+when you uploading media.Check to ensure your video is under 2:20 in duration
+(or 10 minutes, if you have been allowlisted for this feature by your X account
+manager).     Error: âUpload failedâ         Video   This error can appear
+for a few different issues: file size, resolution, encoding settings, or a
+connection issue.First ensure that your video file is 1GB or smaller in
+sizeâreducing the video bitrate of the file is the easiest solution for making
+a smaller file size.Next, ensure the resolution and encoding settings of your
+video are within our recommended specifications.Finally, if there is any packet
+loss or connection failure at the time of upload, the entire process will fail
+and need to be restarted.     Image and GIF   Ensure your file size, type, and
+resolution are within the recommended specifications.          Processing: Stuck
+at 5%     It could take up to 30 minutes for your media file to complete
+processing.If the system cannot process the file within that timeframe, the
+upload will fail and the âUpload failedâ error message will appear.This
+happens most often with.mov files.If possible, re-export files as.mp4, which
+should allow for overall faster upload and processing time.Metadata and content
+settings                         How to modify media metadata
+Click on the media you wish to modify within your Media Studio library.Click the
+Settings  tab.You can update the following types of metadata (all optional):
+Title  â updates the title field shown on some X platforms.Description  â
+updates the description field shown on some X platforms.Call to action  â adds
+a clickable/tappable URL to the video player shown on some X platforms.Embedded
+post playback  â determines whether or not the video will play when a post
+with your video is embedded on a third-party website, ensuring that users must
+view the video on X.Video Downloads  â determines whether or not the video can
+be downloaded by other users on the platform.By default, videos uploaded in
+Media Studio are not downloadable on the platform unless the  Allow video to be
+downloaded  has been turned on.Open  Content Restrictions  if you need to enable
+video geo-restrictions:   Include.Exclude.Metadata and content settings - FAQs
+How do I save any updates I make within Studio?     There is no save button
+within Studio â all changes and updates are automatically saved.     Can I
+edit the media Iâve uploaded to Media Studio?       No, Media Studio does not
+currently have editing capabilities for any uploaded media.Clips created via
+LiveCut can be edited within LiveCut, however this will create a copy of the
+media and you would need to set any necessary metadata for the new version. 
+    Does the filename appear anywhere on X?     No, the filename field in Media
+Studio is not shown anywhere publicly.     Where is the title and description of
+my video shown on X?       Once posted, the title and description of your video
+will appear on the post details page under the video player.It will not appear
+when the post is viewed on the timeline.     Can I change thumbnails of my
+uploaded videos?     Yes.Click on a video within your library to see the Select
+thumbnail button.You can either select a frame from the video itself, or upload
+an image file from your local computer.If uploading a custom thumbnail file from
+your computer, please ensure its aspect ratio is the same as your video
+content.Using a custom thumbnail that is a different size can cause issues with
+playback on X.     Can I upload a custom image thumbnail for a video?
+Yes.Click on an uploaded video within your library and then click the âChange
+thumbnailâ button.Here you have the option to either choose a frame from
+within the video or upload a custom image from your computer.This feature is not
+available on Safari.     What is the âHow would you describe your video?â
+field? How is that category used on X?     This field is only required and used
+for videos being monetized in the Amplify Pre-roll program as a way to match
+your content with relevant advertisers.     When the field is used for non-
+monetized, organic videos, the set category is neither used nor shown on X.  
+What are content restrictions? What are geo-restrictions?         Enabling
+content restrictions on a video allows the viewing of the video to be limited to
+viewers in specified countries.Restrictions are set by either Including a list
+of countries allowed to view, or Excluding a list of countries not allowed to
+view the video.Keep in mind that there may be a delay when updating restrictions
+on a video that has already been posted (approximately one to two minutes).  
+Can I add a geo-restricted piece of media to a thread?     Adding to threads
+from within Media Studio is not yet available, but here is a workaround.  
+post out the geo-restricted video from Media Studio in its own post (this post
+could be made to be âPromoted onlyâ so that it will not be publicly viewable
+via your profile).On X, create a reply within the thread and paste the URL of
+the geo-restricted video post and append /video/1 to the end of the URL, that
+would look like this: X.com/handle/postid/video/1          post and media
+analytics will be available via the post Analytics Dashboard and/or the Video
+Analytics Dashboard (both found at  analytics.x.com ).Am I able to modify any
+video metadata after posting?     Modifications to geo-restrictions and
+subtitles settings will be applied to all posts in which the media is shared on
+X, even retroactively.However, title, description, category, call-to-action, and
+embedding settings cannot be changed for an existing post -- any changes made to
+these settings will be reflected in any new posts created with that media.  
+Metadata and content settings - Common errors and warnings         Error: 'valid
+URL must be providedâ     This error message occurs when adding a call-to-
+action URL.Check for any invalid special characters in your URL, like vertical
+bars, spaces, or quotation marks.     Error: 'Error refreshing media'     This
+can happen if too many changes are made to metadata too quickly, causing Media
+Studio to have issues saving all of the changes at once.Refresh your browser
+window and attempt to make the changes again.Posting and scheduling Posts    
+How to Post media from your library                    Click the  post  button
+underneath the media thumbnail.Within the post compose window, enter your post
+text (up to 280 characters).Click the  post  button to immediately post your new
+post.Tip: if you would like to create a post that does not appear on your
+timeline, select the checkbox marked âPromoted-onlyâ.Find more information
+about Promoted-only posts.How to schedule a Post from your library
+Click on the  post  button underneath the media thumbnail.Within the post
+compose window, enter your post text (up to 280 characters).Click the  Schedule
+button at the bottom of the dialog box.Within the date picker that appears,
+select both a  date  and exact  time  (shown with your current timezone).Click
+the  post  button to save the scheduled post.At your selected date and time,
+Media Studio will post your post.Posting and scheduling posts - FAQs       Can I
+create a post with 280 characters?     Yes, Media Studio supports the creation
+of posts with up to 280 characters.This also applies to the post scheduling
+feature in Media Studio.     Can I create posts from multiple usernames?
+Yes, Media Studio supports the creation of multiple posts to various usernames
+at once.First ensure that you have access to post on behalf of other
+usernames.In the post compose window, look for the dropdown next to your
+username listed at the top-left.Within the dropdown will be a list of all
+@usernames with which you can create posts.Select as many usernames as needed,
+and click the post button.     Can I create a thread with multiple posts?
+No, this feature is not supported in Media Studio today.     Can I schedule more
+than one post at a time?     You can only schedule one post at a time per
+account.If you have access to multiple accounts, you can schedule a post to be
+sent from any or all of those accounts at the same time with the same post
+content.          Can I edit a scheduled post?     No, it is not possible to
+edit a scheduled post in Media Studio.If you need to make a change, delete the
+scheduled post and create a new one.   Scheduled posts can be modified on X.com,
+however this will create a new, lower-quality copy of the media and lose
+associated metadata set within Media Studio.If you have access to a X Ads
+account, you can edit scheduled posts from that dashboard under Creatives â>
+posts page.     How do I delete a scheduled post created via Media Studio?
+Click on the Schedule button within the top navigation bar.In this view, all of
+your scheduled posts will appear.Click the delete icon   next to any scheduled
+posts you would like to delete.For posts that have already been posted to X, you
+must delete these via X on desktop or via the X for iOS or Android app.  
+posting and scheduling posts - Common errors and warnings         Error:
+âposting failed for @user.Error - 3: post is a duplicate.â     The post is
+too similar to one already posted.Tweak the post copy slightly and there should
+be no issue sending the new post.If you continue to face issues, please reach
+out to your account manager for assistance.If you do not have an account
+manager, you can file a support ticket here:  https://help.x.com/forms.  
+Error: âposting failed for @user.Error - 0: Internal server error'     Please
+reach out to your account manager for assistance.If you do not have an account
+manager, you can file a support ticket here:  https://help.x.com/forms.  
+Error: âScheduling failed for @user.Error - 2: Rate limit exceededâ     This
+error message can occur when creating a scheduled post, and will appear when an
+account has reached the limit of 1000 draft or scheduled posts.Media sharing
+How to share media from your library to another X account
+Click on a media within your Media Studio library.Click the  Sharing  tab.Start
+typing in the username of the person with which you would like to share the
+media.Click on the correct username that appears in the dropdown.If you need to
+remove shared access, click the  delete  icon next to the associated
+username.How to manage media that has been shared via Media Studio
+Click on the dropdown   next to the Library header under the navigation
+bar.Click on Shared Media.Manage and create posts via shared media within this
+view.Note: All posts created via this method will include attribution to the
+original owner of the video (the username that originally shared the
+video).Media sharing - FAQs       Why isnât an account appearing in the
+Sharing username search field?     Most commonly this occurs when the handle was
+just created; wait 24 hours and try searching for the username again.If after
+24-hours the handle does not appear, please reach out to your account manager
+for assistance.If you do not have a account manager, you can file a support
+ticket here:  https://help.x.com/forms        Is there a way to share a video
+without using the Media Studio share function?     Yes, if you take the URL of a
+post, like the one below, you can append â/video/1â to the end.Pasting this
+URL at the end of a new post will render a video player.In this new post, we
+will surface âattributionâ, or the name of the user that originally uploaded
+the video.x.com/USERNAME/STATUS/postID   x.com/USERNAME/STATUS/postID/VIDEO/1
+    Can I bulk share to multiple handles at once?       The sharing
+functionality happens via a typeahead function, this means that you can only
+enter one username at a time.There is no way to automatically share media across
+multiple usernames or copy/paste a bulk action.          Does the username
+getting access to shared media receive any notification, email, or alert?  
+No, users that have media shared with them will not receive a notification.They
+will see the media in their Shared Library when they next visit or refresh the
+page.After sharing a piece of media, a âShared linkâ will appear at the
+bottom of the âSharingâ tab.You can send this link to the recipient, which
+will prompt them to log into Media Studio with their X account that you shared
+with in order to create a post with the shared media.Subtitles
+How to upload an SRT subtitle file in Media Studio                    Click on a
+media within your Media Studio library.Click the  Subtitles  tab.Select the
+language of the SRT file.Click  Upload.Select a subtitle file from your
+computer.Subtitles - FAQs       How to format an.SRT subtitle file       Follow
+the sample below for generating compatible subtitle files   1   00:00:06,000 -->
+00:00:08,000   Hey, how's it going?   2   00:00:08,001 --> 00:00:10,000   What's
+up, how are you?   3   00:00:10,001 --> 00:00:11,000   Doing well, thanks!    
+Can I upload multiple subtitles per video?     Currently we only support one
+subtitle file uploaded per video.     Where do subtitles show on X?       When a
+video with subtitles is viewed on X, the subtitles will appear as an overlay
+atop the video when the subtitles language matches the language set on the
+viewing userâs device (on desktop, the subtitles language is matched to the
+userâs X language settings).If the subtitles language is not the same as the
+language of the user, subtitles will not appear.     By default, subtitles
+appear when the videoâs sound is not playing, and will be hidden when sound is
+playing.Some users may have subtitles enabled within their deviceâs
+accessibility settingsâif this is the case, then subtitles will always show,
+regardless of whether audio is on or if full-screen view is in use.     I
+uploaded a subtitle, why doesnât appear in the preview player in Media Studio?
+Correct.Subtitle files will only be shown once posted.Subtitles - Common errors
+and warnings       Error: âThere was a problem uploading your subtitle (.srt)
+fileâ     This means that there is likely an issue with the formatting of the
+file.Letâs use this below subtitle with incorrect formatting as an example:
+22   0:00:36.801--> 0:00:42.239   Hey, how's it going?   21   00:00:40,161 -->
+00:00:42,239   What's up, how are you?   Open the.SRT subtitle using your
+preferred text editing application and look for the following:        Chronology
+    Any end time needs to be before the next start time.All subtitle headers
+need to be in chronological order.     Spaces         Remove any unnecessary
+spaces that appear before a time code.Ensure there is one space before and one
+space after the "â>" in each time code.     Timestamp         A colon â:â
+is required between the hours, minutes, and seconds.     A comma â,â is
+required between seconds and milliseconds.     Digits         Time codes must
+have double digits in all values for hours, minutes, and seconds.Milliseconds
+need to have three digits.                                    Share this article
+Post             Related Media Studio help   Overview   Library   Analytics
+Producer   LiveCut   Monetize
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

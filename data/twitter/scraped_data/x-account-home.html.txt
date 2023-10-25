@@ -1,0 +1,115 @@
+Navigating your X home page | X Help
+Skip to main content                                  Help Center
+About your account home
+What is the Post activity dashboard?                          The post activity
+dashboard is a tool you can use to learn more about your posts and how they
+resonate with your audience.                         Use the activity dashboard
+to:          See how people engage with your posts in real time.Compare your
+post activity and followers, and see how they trend over time.Click on any post
+to get a detailed view of the number of Reposts, replies, likes, follows, or
+clicks it receives.Get detailed insights into who your audience is, especially
+those who engage with your posts.Download your post metrics.             To get
+started accessing your post activity, log in to  analytics.twitter.com  with
+your X username and password. 
+How to access the dashboard                    From the X for iOS app:    Make
+sure you have installed the latest version of X for iPhone or iPad.   Tap the
+analytics icon visible in your posts.             The post activity dashboard is
+available to users who primarily post in Arabic, Brazilian Portuguese, Danish,
+Dutch, English, Filipino, Finnish, French, German, Indonesian, Italian,
+Japanese, Korean, Norwegian, Russian, Simplified Chinese, Spanish, Swedish,
+Thai, Traditional Chinese, Turkish, and have had an account for at least 14
+days.Weâre working to roll this out to everyone soon.From the X for Android
+app:   Make sure you have installed the latest version of X for Android.   Tap
+the analytics icon visible in your posts.             The post activity
+dashboard is available to users who primarily post in Arabic, Brazilian
+Portuguese, Danish, Dutch, English, Filipino, Finnish, French, German,
+Indonesian, Italian, Japanese, Korean, Norwegian, Russian, Simplified Chinese,
+Spanish, Swedish, Thai, Traditional Chinese, Turkish, and have had an account
+for at least 14 days.Weâre working to roll this out to everyone soon.On a
+desktop or laptop computer, visit analytics.X.com and click on posts. 
+The post activity dashboard is available to users who primarily post in Arabic,
+Brazilian Portuguese, Danish, Dutch, English, Filipino, Finnish, French, German,
+Indonesian, Italian, Japanese, Korean, Norwegian, Russian, Simplified Chinese,
+Spanish, Swedish, Thai, Traditional Chinese, Turkish, and have had an account
+for at least 14 days.Weâre working to roll this out to everyone soon.How to
+use the dashbaord                          Click into an individual post to see
+specific data for that post:               Desktop
+Mobile                                       Available on X for iPhone and X for
+Android app.  Tap the post to view the post detail page, and then tap  View post
+activity.Account summary metrics:   posts:  Number of times you posted   post
+impressions:  Number of times users are served your post in timeline, search
+results, or from your profile Profile visits:  Number of times users visited
+your profile page Mentions:  Number of times your @username was mentioned in
+posts New followers:  Number of new followers you gained posts linking to you:
+Number of times your X Card(s) was posted by you and/or other people      
+Monthly highlights:     Top post:  post that received the highest number of
+impressions   Top media post:  post with photo, video, or Vine that received the
+highest number of impressions Top Card post:  post with a X Card that received
+the highest number of impressions; this can include other peopleâs posts Top
+mention:  post that mentioned your @handle and received the highest number of
+impressions; this can include other peopleâs posts Top follower:  Account with
+the highest follower count that followed you in a given month         You can
+select the  View post details  button to learn more information about a specific
+post or select  View follower  to find out more about your top follower.FAQs
+How up-to-date is account home?     Summary metrics reported in account home are
+updated once every 24 hours, through the previous day.Information about a
+particular Tweet from the Tweet activity dashboard is updated in real-time.How
+far back does account home report results?     September 2014 or when your
+account first accessed Twitter Analytics, whichever is more recent.How can I use
+account home to improve my content or account strategy?     You can use the
+information in account home to quickly identify your top Tweets to promote to a
+wider audience, engage with your most influential followers, or as a starting
+point to dive deeper into your account or Tweet performance.For example, you may
+want to review your Top Tweets, and share more of the content that your
+followers are already engaging with.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies
