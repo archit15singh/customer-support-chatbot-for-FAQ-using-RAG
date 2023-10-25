@@ -1,8 +1,8 @@
-from utils import generate_rag_response, generate_response
+from utils import generate_rag_response
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-
+import time
 
 app = Flask(__name__)
 CORS(app)
@@ -17,7 +17,10 @@ def chat():
     if user_message is None:
         return jsonify({'error': 'Missing parameter user_message'}), 400
     
+    s = time.time()
     answer, related_questions = generate_rag_response(user_message)
+    e = time.time()
+    print(f"took {e-s} seconds total")
     answer = answer.strip()
     related_questions = related_questions.strip()
 
@@ -26,4 +29,4 @@ def chat():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
