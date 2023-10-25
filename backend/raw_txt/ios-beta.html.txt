@@ -1,0 +1,195 @@
+What is the X iOS Beta program?
+Skip to main content                                  Help Center
+What is the X iOS Beta program?
+Join the conversation on the X iOS Beta!     Repost, chime in on a thread, go
+viral, or just scroll through the X timeline to stay on top of what everyoneâs
+talking about.Get started
+About the program                    The iOS Beta tester program allows you to
+test the stability of new X production builds.Before downloading the Beta app,
+youâll need to accept terms (via Apple's TestFlight app).All testers who
+arrive via the link are anonymous, as far as the Beta program is concerned.Once
+you download the Beta app, you'll log in to the app just like the production
+app.No new data will be collected about participants ââ Beta testers are
+treated no differently than anyone one else on X.Youâll simply have access to
+a release a week early.As part of the Beta program, there are a few ground rules
+to lay out about the program that you've already agreed to.Here are some of the
+things you can expect to see:   By participating in this program, youâll get
+access to early versions of the X iOS Beta application on mobile devices that
+may or may not have bugs or defects.We may show you confidential, yet to be
+released products or features and you must be willing to keep those
+secret.You'll be volunteering to help out X and will not be paid.You can stop
+participating in the program at any time and X may stop operating the program or
+cancel your participation in the program at any time.Get started
+Terms and Conditions   X, Inc.("X") has designed and developed a "X Mobile
+Application Testing Program" ("X Experiments Program" which encompasses the
+programs previously known as the "X for Android Experiment Alpha Program or "X
+for Android Experiment Program") to, among other things, allow a limited number
+of people to download test versions of X applications for mobile devices (the
+âExperimental Softwareâ), such as the âX for Androidâ or "X for iOS"
+application, and to provide feedback and comments to X through an email form
+regarding use of such applications.By joining the X Experiments Program, you
+agree to be bound by the terms and conditions set forth below (the "Agreement").
+    1.   Third-Party Services   In order to participate in the X Experiments
+Program, you may be required to register for third-party services, such as
+Appleâs TestFlight, Google Groups, or Crashlytics, and your Feedback will be
+submitted to X through the email service provider that you have connected to
+your device.You may be required to separately agree to additional terms and
+policies, such as the  Google Terms of Service  and  Privacy Policy  and
+Appleâs  TestFlight Terms and Conditions  and  Privacy Policy , that apply to
+these third-party services.X is not responsible for any loss, injury, claim,
+liability, or damage related to your use of any third-party site linked to
+through the X Experiments Program, whether from errors or omissions in the
+content of those third-party sites, errors in downloading the Experimental
+Software or from the third-party sites being down.The inclusion of any third-
+party link in this Agreement is not intended to state or imply that X sponsors
+or is legally authorized to use any trade name, registered trademark, logo,
+legal or official seal, or copyrighted symbol that may be referenced in the X
+Experiments Program.     2.   Your Feedback   By enrolling in the X Experiments
+Program you will have the ability to: (a) download, test, evaluate, and analyze
+the Experimental Software (b) and provide feedback, analysis, suggestions, and
+comments to X (including, but not limited to, bug reports, and test results)
+(collectively, âFeedbackâ) through an email form.When you submit Feedback, X
+will automatically collect certain information, such as your username, the email
+address you use to submit the Feedback, and information about your device,
+network connectivity, and X app information.You will also be able to include
+other details in the email form, such as a summary and auto-generated
+screenshot.The Feedback you provide will be accessible to, and may be reviewed
+by, the X Experiments Program team and X developers.Please do not include
+personal information in your Feedback submission.By participating in the X
+Experiments Program, you agree that any Feedback you provide will become the
+property of X and you agree that X may use or otherwise exploit all or part of
+your feedback or any derivative thereof in any manner or media now known without
+any further remuneration, compensation or credit to you.You represent and
+warrant that you have right to enter into this Agreement and assign and grant
+the rights set forth herein, and that any Feedback which is provided by you
+hereunder is original work made solely by you and does not infringe any third
+party intellectual property rights.     3.   Confidentiality   Confidential
+Information.The X Experiments Program is designed to assist X in researching,
+analyzing and validating the usability and reliability of certain prospective
+product features (collectively, the âPurposeâ).X may disclose to you certain
+information (tangible or intangible) that you agree to treat as Confidential
+Information as set forth below.Definition.âConfidential Informationâ means
+all information disclosed by X, including, without limitation, documents,
+designs, techniques, specifications, product plans, strategic information,
+existing or prospective business plans, existing or prospective product study or
+pilot test objectives and/or results, and other information related to the
+Purpose.Consistent with the foregoing, X may also disclose Confidential
+Information related to certain unreleased and experimental product features or
+plans.Obligations Regarding Confidential Information.You agree to: (a) use
+Confidential Information only for the Purpose; (b) not disclose Confidential
+Information to any third parties (including the sharing of
+unreleased/experimental product images); and (c) use the same degree of care,
+but no less than a reasonable degree of care (including reasonable security
+measures), to prevent the unauthorized use, dissemination or publication of
+Confidential Information as you would use to protect your own confidential
+information of like nature.Remedies.You agree that any breach of this Agreement
+by you may result in irreparable harm to X, for which damages would be an
+inadequate remedy and therefore, in addition to its rights and remedies
+otherwise available at law, X shall be entitled to seek equitable relief,
+including injunction, in the event of such breach.     4.No Compensation or
+Employment   You acknowledge that you are participating in the X Experiments
+Program on a purely voluntary basis, as a means of assisting, and in
+consideration of the opportunity to assist X to use, implement, and understand
+various facets of the Experimental Software.X makes no guarantee or
+representation as to whether or not your Feedback regarding the Experimental
+Software will be used, and you understand and acknowledge that X will not
+compensate you for your participation in the X Experiments Program.Furthermore,
+you acknowledge and agree that nothing in this Agreement or in your voluntary
+submission of Feedback creates any employment relationship between you and X. 
+5.   Term and Termination   You may, in your sole discretion, discontinue your
+participation in the X Experiments Program at any time.Our ownership of your
+already submitted Feedback continues after termination of this Agreement, as do
+your confidentiality obligations and the various limitations on X's liability.X
+may, in its sole discretion, at any time, terminate or discontinue the X
+Experiments Program, discontinue your participation in the X Experiments
+Program, or remove your Feedback.You acknowledge and agree that all such
+decisions by X are final and X will have no liability with respect to such
+decisions.     6.   Notices   Unless otherwise set forth in this Agreement, X
+may give general notices to you by posting on any X web site (e.g., X.com) and,
+where possible, by electronic mail to your email address.     7.   No Warranty
+from X   YOU EXPRESSLY AGREE THAT YOUR PARTICIPATION IN THE X EXPERIMENTS
+PROGRAM IS AT YOUR OWN RISK.THE X EXPERIMENTS PROGRAM IS AVAILABLE ON AN "AS IS"
+BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.X EXPRESSLY DISCLAIMS ON
+ITS OWN BEHALF AND ON BEHALF OF ITS EMPLOYEES, AGENTS, ATTORNEYS, CONSULTANTS,
+OR CONTRACTORS ANY AND ALL WARRANTIES INCLUDING, WITHOUT LIMITATION (i) ANY
+WARRANTY OR REPRESENTATION WHATSOEVER REGARDING THE OPERATION OF THE X
+EXPERIMENTS PROGRAM, THE AVAILABILITY, ACCURACY OR CONTENT OF ANY INFORMATION,
+SERVICES, OR PRODUCTS PROVIDED OR AVAILABLE THROUGH OR IN CONNECTION WITH THE X
+EXPERIMENTS PROGRAM, THE EXPERIMENTAL SOFTWARE, X, AND/OR THE X WEB SITE OR ANY
+RESULTS OBTAINED THROUGH THE USE THEREOF, AND (ii) THE WARRANTIES OR CONDITIONS
+OF NONINFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR ANY PARTICULAR PURPOSE.SOME
+STATES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION
+MAY NOT APPLY TO YOU.THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND
+YOU MAY ALSO HAVE OTHER RIGHTS, WHICH VARY FROM STATE TO STATE.     8.  
+Limitations of Liability   IN NO EVENT SHALL X, ITS EMPLOYEES, AGENTS,
+ATTORNEYS, CONSULTANTS, OR CONTRACTORS BE LIABLE UNDER THIS AGREEMENT FOR ANY
+CONSEQUENTIAL, SPECIAL, LOST PROFITS, INDIRECT OR OTHER DAMAGES, INCLUDING BUT
+NOT LIMITED TO LOST PROFITS, LOSS OF BUSINESS, COST OF COVER WHETHER BASED IN
+CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF X HAS BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL
+PURPOSE OF ANY LIMITED REMEDY.IN ANY EVENT, XâS, ITS EMPLOYEESâ, AGENTSâ,
+ATTORNEYSâ, CONSULTANTSâ OR CONTRACTORSâ AGGREGATE LIABILITY UNDER THIS
+AGREEMENT FOR ANY CLAIM SHALL BE STRICTLY LIMITED TO $100.00.SOME STATES DO NOT
+ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL
+DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.You
+acknowledge that X has entered into this Agreement in reliance upon the
+limitations of liability set forth herein and that the same is an essential
+basis of the bargain between the parties.     9.   Entire Agreement   These
+Terms, the  X Terms of Service , the  X Rules  and our  Privacy Policy  are the
+entire and exclusive agreement of the parties regarding the subject matter of
+this Agreement and supersedes all previous communications, representations,
+understandings and agreements, either oral or written, between you and X.X may
+modify the terms of this Agreement at any time upon notice published on the X
+Help Center web site.Your continued participation in the X Experiments Program
+after such notice shall be deemed to be continued acceptance of this Agreement
+including its amendments and modifications.     Effective: March 29, 2021
+Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

@@ -1,0 +1,159 @@
+How to use the Teams feature on PostDeck
+Skip to main content                                  Help Center
+How to use the Teams feature on X Pro
+X Pro's teams feature allows multiple people to share a X account without having
+to share the password.When a team member  logs in to X Pro   with their own X
+account, they will see a list of navigation icons on the left.Click the
+Accounts  icon         to expand the  Accounts  column and see their shared
+accounts.Team members can turn on   login verification  on their own accounts,
+which will keep their account secure (as well as any additional accounts in
+their X Pro).With the teams feature, an account owner can grant individuals
+account access, without having to share their password with other people:    
+Owner         Can manage password, phone number, and login verification
+settings.Can invite others to access the account as admins or contributors.Can
+take action on behalf of the team account ( post ,  repost ,  Direct Message ,
+like , etc.), schedule posts, create lists, and build collections.     Admin
+    Can invite others to access the account as admins or contributors.Can take
+action on behalf of the team account (post, repost, Direct Message, like, etc.),
+schedule posts, create lists, and build collections.     Contributor         Can
+take action on behalf of the team account (post, repost, Direct Message, like,
+etc.), schedule posts, create lists, and build collections.Account actions vary
+slightly by client.For instructions on how to get started via X Pro, check out
+the following article:   How to use X Pro           Note:  Account owners are
+responsible for the content posted to their accounts by authorized admins and
+contributors.Sharing access to an account                    To set up your
+team:   Log in to  X Pro with the account you wish to share access to.Click
+Accounts   in the navigation bar.  A  Manage team  column appears.   In the Add
+a team member field, type the @username of the person youâd like to invite.  
+Click  Authorize.Once you have authorized someone, theyâll receive an email,
+an invitation in the Accounts panel of their X Pro, and a push notification.The
+new team member will need to accept the invitation to begin using the shared
+account.Note:  You might want to add your own X account as an admin so that you
+can manage the team from your own X Pro.You can add up to 200 team
+members.Managing a team        Only the owner of the shared account manages the
+password, phone number, and login verification settings.Both owners and admins
+can manage the team.     To change a role or remove a team member via X Pro:
+    While logged in from  X Pro , click Accounts in the navigation bar.Select
+the account youâd like to manage.Click  Manage team  to open the list of team
+members.Find the person whose role youâd like to change and click  Change
+role.Select  Contributor ,  Admin  or  Remove from team.Confirm  your
+selection.Note:  Contributors do not have the ability to manage team
+accounts.Only admins can manage the team.Joining a team
+When youâre invited to join a team, youâll receive an email notification as
+well as a notification in your X Pro account.Step 1                From X Pro,
+click  Accounts  in the navigation bar.Step 2                Select the   Team
+invitations  tab.Here youâll see the X account of the team youâve been
+invited to join.                        Step 3                Select   Accept  
+to    join the team, or   Decline  to dismiss the invitation.Step 4
+If you accept, that account will now be shown in the Accounts tab, and your New
+Post panel.                 As a member of a team, you can post Posts, Direct
+Message, like, and Repost.You cannot change the password or manage account
+settings.When youâre invited to join a team, youâll receive an email
+notification as well as a notification in your X Pro account.Step 1
+In the top menu, you will either see a  navigation menu  icon   or your  profile
+icon.Tap whichever icon you have.Step 2                Tap on  Team
+requests.Step 3                Under  Team requests , tap the  check  icon 
+to accept, or tap the  delete  icon            to decline the invitation.As a
+member of a team, you can post Posts, Direct Message, like, and Repost.You
+cannot change the password or manage account settings.When youâre invited to
+join a team, youâll receive an email notification as well as a notification in
+your X Pro account.Step 1                From X Pro: Click  Accounts  in the
+navigation bar.Youâll see the X account of the team youâve been invited to
+join.Step 2                Click  Accept  or  Decline.Step 3                If
+you accept, that account will now be shown in the  Accounts  tab, and your  New
+Post  panel.As a member of a team, you can post Posts, Direct Message, like, and
+Repost.You cannot change the password or manage account settings.Removing
+yourself from a team          If you no longer wish to be on a team you can
+remove yourself from that team.     To remove yourself from a team via X Pro:
+Click  Accounts  in the navigation bar.Select the account for which you wish to
+remove yourself from the team.Click  Leave team.Confirm your selection by
+clicking  Leave.I donât want to be invited to join teams.How can I change my
+settings?     You can change your settings to adjust who can invite you to a
+team on   X for teams   section of your   Privacy and safety   settings on
+x.com.Iâve previously given out the password for an account.How do I manage
+who now has access?     Your list of team members shows everyone who currently
+has access to this account in X Pro, including those who have historically been
+given the password, as well as those who have been added as Contributors or
+Admins.If there is a person showing in the list who should not have access,
+click   Change role   next to the person and select   Remove from team.This will
+revoke access for that person in X Pro.For extra security, change your password
+and review which apps are authorized to access your account at
+x.com/settings/applications.I also own the other accounts I use in X Pro.How do
+I manage the team?     If you also own a sub-account and would like to view and
+manage its list of team members, you will need to log out of the account you are
+currently logged in to, then log back in to the desired account.What will happen
+to my team members if I revoke X Pro access to my X account?     Your team
+members wonât lose access to your Xaccount unless you remove them from the
+team list in X Pro.Revoking App access to  X Pro will not affect the list of
+team members.What will happen to my team members if I change the password for my
+X account?     Your team members wonât lose access to the account if you
+change the password.We encourage you to update the password so that only you (as
+the owner, or person who manages the account) knows it.Can I use Teams outside
+of X Pro?     Team features are only available in X Pro.Can I manage a team
+without using X Pro?     The team management features are only available in X
+Pro.To add new members or change the role of existing members, you must log in
+to X Pro.How do I ensure my team members keep their account safe?     Using the
+teams feature means that your team members log in to  X Pro with their X
+account.They can enable   login verification   for the account they use to log
+into X Pro to help keep all shared accounts secure.How can I unsubscribe from
+email notifications on team accounts?     X sends an email notification when you
+are invited to join a team account and when someone is invited to be on the team
+for one of your accounts.We think that this is an important notification about
+your team, so there is no unsubscribe option for them.If you wish to stop
+receiving âyouâve been invitedâ email notifications, you can change your
+settings to adjust who can invite you to a team by visiting the   Your account
+ settings on x.com.Iâm not able to add a particular person to my team.What
+should I do?     The person may have privacy settings enabled that prevents them
+from being added to a team.Talk to the team member to check whether this is the
+case.They can temporarily disable the setting in the   X for teams   section
+through the   Your account   settings page on x.com to accept a new
+invitation.Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

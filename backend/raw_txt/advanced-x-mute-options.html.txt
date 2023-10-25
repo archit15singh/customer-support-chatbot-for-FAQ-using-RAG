@@ -1,0 +1,150 @@
+How to use advanced muting options
+Skip to main content                                  Help Center
+How to use advanced muting options                                Muting options
+for words and hashtags        You might see content in posts youâd like to
+avoid.We give you the option to mute posts that contain particular words,
+phrases, usernames, emojis, or hashtags.Muting will remove these posts from your
+Notifications tab, push notifications, SMS, email notifications, Home timeline,
+and from replies to posts.Your browser does not support the <code>video</code>
+element.Note:   Muting words and hashtags only applies to your notifications and
+Home timeline.You will still see these posts via search.Notifications for muted
+words and hashtags are applied to replies and mentions, including all
+interactions on those replies and mentions: likes, Reposts, additional replies,
+and Quote post.     You may have opted-in to receive  mobile notifications  when
+an account you follow posts.If so, muting words and hashtags will not apply to
+these notifications.You will still receive such mobile notifications from these
+accounts even if their post(s) include a word or hashtag you have muted.Muting
+words, phrases, usernames, emojis, and hashtags overview:        Muting is case-
+insensitive.For example: If you add âCATSâ to your mute list, any mention of
+âcatsâ will be muted from your notifications.You can include punctuation
+within a word or phrase when muting.Punctuation at the end of a word or phrase
+is not necessary.Muting a word will mute both the word itself and its
+hashtag.For example: If you mute âunicornâ, both âunicornâ and
+â#unicornâ will be muted from your notifications.To mute post notifications,
+posts in the Home timeline, or from replies to posts that mention a particular
+account, you must include the @ sign before the name.Doing this will mute posts
+notifications that mention that account, but wonât  mute the account  itself.
+ Words, phrases, usernames, emojis, and hashtags up to the max character count
+can be muted.Muting is possible across all X-supported languages.Muting is set
+to a default time period of  Forever.Instructions on how to adjust the mute time
+period is listed below for supported devices.You can view a list of your muted
+words (and unmute them) in your settings.Recommendations delivered to you via
+email or through X will not suggest content that includes your muted words and
+hashtags.Note:   If you previously added words to your mute list when the
+feature applied to notifications only, the following default mute settings will
+be enabled:  Notifications only ;  From anyone ;  Forever.You can edit existing
+mute settings at any time, instructions are listed below.How to mute words and
+hashtags                                       Step 1                Go to your
+Notifications  tab                              Step 2                Tap the
+gear  icon                                Step 3                Tap  Muted ,
+then tap  Muted words.Step 4                Tap  Add.Step 5                Type
+in the word or hashtag youâd like to mute.Entries can only be added one a
+time.Step 6                Select whether to enable this in  Home timeline  or
+Notifications , or both.Step 7                Select whether this is  From
+anyone  or  From people you donât follow  (for enabled notifications
+only).Step 8                Tap For how long? and choose between  Forever ,  24
+hours ,  7 days , or  30 days.Step 9                Tap  Save.Step 10
+You will see the mute time period indicated next to each entered word or
+hashtag.Step 11                Tap  Done  to exit.Step 1                Go to
+your  Notifications  tab                              Step 2                Tap
+the  gear  icon                                   Step 3                Tap
+Muted   words.Step 4                Tap the  plus  icon 
+Step 5                Type in the word or hashtag youâd like to mute.Entries
+can only be added one a time.Step 6                Select whether to enable this
+in  Home timeline  or  Notifications , or both.Step 7                Select
+whether this is  Anyone  or  From people you donât follow  (for enabled
+notifications only, tap  Notifications  to adjust).Step 8                Tap
+For how long?  and choose between  Forever ,  24 hours from now ,  7 days from
+now , or  30 days from now.)                      Step 9                Tap
+Save.Step 10                You will see the  muted  icon          and the mute
+time period next to each entered word or hashtag.Step 1                Click
+More  from the side navigation menu, then click   Settings and privacy.Step 2
+Click the  Privacy and safety  tab, then click  Mute and block.Step 3
+Click  Muted words.Step 4                Click the  plus  icon. 
+Step 5                Enter the word or hashtag youâd like to mute.Entries can
+only be added one a time.Step 6                Select  Home timeline  if you
+wish to mute the word or phrase from your Home timeline.Step 7
+Select  Notifications  if you wish to mute the word or phrase from your
+Notifications.Step 8                Specify  From anyone  or  From people you
+donât follow.Step 9                Under  Mute timing   choose between
+Forever ,  24 hours from now ,  7 days from now , or  30 days from now.Step 10
+Click  Save.How to edit or unmute words and hashtags
+Step 1                Go to your  Notifications  tab 
+Step 2                Tap the  gear  icon                                Step 3
+Tap  Muted , then tap  Muted words.Step 4                Tap the word or hashtag
+youâd like to edit or unmute.Step 5                Change the  Mute from  or
+ Mute timing   selections and tap  Save.Step 6                To unmute the
+word, tap  Delete   word , then tap  Delete word  to confirm.Step 7
+Tap  Done  to exit.Step 1                Go to your  Notifications  tab 
+Step 2                Tap the  gear  icon                                Step 3
+Tap  Muted words.Step 4                Tap the word or hashtag youâd like to
+edit or unmute.Step 5                Change the  Mute from  or  Extend mute time
+selections and tap  Save.Step 6                To unmute the word or hashtag,
+tap  Delete word , then tap  Yes, Iâm sure  to confirm.Step 1
+Click   More   from the side navigation menu, then click   Settings and
+privacy.Step 2                Click the   Privacy and safety   tab, then click 
+Mute and block.Step 3                Click  Muted words.Step 4
+Click the  word or hashtag youâd like to edit or unmute.Step 5
+Change the  Mute from  or  Extend mute time  selections, and click  Save.Step 6
+To unmute the word or hashtag, click the  muted  button 
+    Muting notifications for a conversation         
+Your browser does not support the <code>video</code> element.If you would like
+to stop receiving notifications for a particular conversation, you can choose to
+mute it.When you mute a conversation, you wonât get any new notifications
+about that conversation.You will, however, still see posts from the conversation
+in your timeline and when you click into the original post.         To mute a
+conversation via X.com, or from your X for iOS or Android app:        Go to the
+post detail of any post or a reply in the conversation you wish to mute.Click or
+tap the  more          icon.   Click or tap  Mute this conversation.   Click or
+tap to confirm.Note:   Learn about  muting accounts  and  muting Direct Message
+conversation notifications.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

@@ -1,0 +1,114 @@
+How to block accounts on X
+Skip to main content                                  Help Center
+How to block accounts on X                                Block is a feature
+that helps you control how you interact with other accounts on X.This feature
+helps people in restricting specific accounts from contacting them, seeing their
+posts, and following them.Your browser does not support the <code>video</code>
+element.Note:  Learn about our  advanced block options  for more detailed
+information on this feature.Some important things to know about block:
+Accounts you have blocked cannot follow you, and you cannot follow an account
+you have blocked.Blocking an account you are currently following will cause you
+to unfollow that account (and them to unfollow you).If you decide to unblock
+that account, you will have to follow that account again.Blocked accounts do not
+receive a notification alerting them that their account has been
+blocked.However, if a blocked account visits the profile of an account that has
+blocked them, they will see they have been blocked (unlike  mute , which is
+invisible to muted accounts).If you block an account and they choose to report
+your account, any of your posts that directly mention them will be available for
+them to view and attach during the reporting process.You will not receive
+notifications from accounts you block, or accounts that you do not follow who
+mention you in conversations started by accounts that you block.You will,
+however, see notifications from accounts you follow when they mention you in a
+conversation started by an account you block.If youâd like to view all of your
+mentions, you can do so by  searching  your username.  
+Blocked accounts cannot:   Follow you View your posts when logged in on X
+(unless they report you, and your posts mention them) Find your posts in search
+when logged in on X Send Direct Messages to you View your following or followers
+lists, likes or lists when logged in on X View a Moment youâve created when
+logged in on X Add your X account to their lists Tag you in a photo        posts
+from blocked accounts will not appear in your timeline.However, please note that
+you may see posts or notifications in your timeline for the following:   posts
+from others you follow that mention accounts you have blocked.posts that mention
+you, along with an account you have blocked.How to block a X account
+To block from a post                         Step 1                Tap the 
+icon located at the top of a post from the account you wish to block.Step 2
+Tap  Block , and then select  Block  to confirm.To block from a profile
+Step 1                Visit the profile page of the account you wish to
+block.Step 2                Tap the  more  icon  
+Step 3                Tap  Block , and then select  Block  to confirm.To block
+from a post                         Step 1                Tap the          icon
+located at the top of a post from the account you wish to block.Step 2
+Tap  Block , and then select  Block  to confirm.To block from a profile
+Step 1                Visit the profile page of the account you wish to
+block.Step 2                Tap the overflow icon  
+Step 3                Tap  Block , and then select  Block  to confirm.To block
+from a post                         Step 1                Click the  
+icon located at the top of a post from the account you wish to block.Step 2
+Click  Block , and then select  Block  to confirm.To block from a profile
+Step 1                Go to the profile page of the account you wish to
+block.Step 2                Click the more         icon on their profile
+page.Step 3                Select  Block  from the menu.Step 4
+Click  Block  to confirm.How do I know if I have blocked someone?         When
+you visit the profile of an account you have blocked, the  Follow  button will
+be replaced by a  Blocked  button.The posts of an account you have blocked are
+hidden when you visit their profile.However, you can see the posts from that
+account by clicking the  Yes, view profile  button. 
+To unblock a X account:         Visit the blocked account's profile on X.Click
+or tap the  Blocked  button.   Confirm you wish to unblock the account by
+selecting  Unblock  on X for iOS, and  Yes  on X for Android.     More resources
+    Sometimes you may find that blocking other accounts isnât the right
+solutionâit either goes too far or doesnât go far enough toward changing
+your X experience.Find a complete list of other actions you can take to  improve
+your X experience.Additionally, explore our articles about  staying safe and in
+control of your X experience , as well as our  trusted resources  article for a
+list of partners we work with to keep people safe across the world.Share this
+article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

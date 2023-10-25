@@ -1,0 +1,119 @@
+X Direct Message FAQ â DMs | X Help
+Skip to main content                                  Help Center
+Direct Message FAQs                                Looking for an overview? Read
+about  Direct Messages , including how to send and manage your messages.My
+account is protected.What happens when I enable the "Receive Direct Messages
+from anyone" option?     Regardless of your post privacy settings (i.e.whether
+your posts are protected or not protected), your account will be able to receive
+Direct Messages from anyone if you enable the option to   Receive Direct
+Messages   from anyone.                 Why am I not seeing group messages?
+You can start and participate in group conversations when using x.com, the X for
+iOS or Android apps, and X Pro.Learn more about   group conversation
+settings.How can I stop someone from sending me Direct Messages?     To stop
+receiving Direct Messages from someone:   Locate the conversation from the
+account, and click or tap to open it.Click or tap the  information  icon
+Select   Report.Confirm your choice.The account will not be able to send you a
+message until you send them a message first.Alternatively, to stop receiving
+messages, you can   block   the account.Blocked accounts cannot send you
+messages, unless you unblock them.Why am I having trouble sending Direct
+Messages?     There is an account limit of 500 Direct Messages sent per day.Once
+you reach this limit, you canât send any more Direct Messages for the day.If
+you are sending Direct Messages to accounts that do not follow you, you may need
+to verify your phone number.If you are sending duplicate Direct Messages to
+multiple accounts (including sending the same link to multiple accounts), this
+may be reported as spam activity and can result in you not being able to send a
+Direct Message for a short time.You may need to wait at least 30 minutes without
+any attempt at sending a Direct Message before youâll be able to do so
+again.My account is sending messages without my knowledge.What is going on?
+If your account is sending a Direct Message without your knowledge, it may be
+compromised.Follow the steps outlined for   compromised accounts   to help
+secure it.Why am I receiving messages from myself?     Please take the following
+actions:   While signed in, visit the   Apps tab   in your settings.Revoke
+access for any third party application that you don't recognize.If you're still
+experiencing this problem after you've revoked unwanted applications, or if you
+weren't expecting this behavior when you approved this connection, please  
+contact us.How is someone I donât follow able to send me a Direct Message?
+When you enable the   Receive Direct Messages  from anyone  setting, anyone can
+message you, even if you do not follow them.If you previously had a conversation
+with a person through Direct Message, that person is able to message you
+regardless of if you follow them or not.Disabling the   Receive Direct Messages
+from anyone  setting does not stop accounts from messaging you whom you have
+previously had conversations with and do not follow.To stop receiving Direct
+Messages from someone:   Locate the conversation from the account, and click or
+tap to open it.Click or tap the   information   icon             Select  
+Report.Confirm your choice.The account will not be able to send you a message
+until you send them a message first.     Alternatively, to stop receiving
+messages, you can   block   the account.Blocked accounts cannot send you
+messages, unless you unblock them.Why do some Direct Messages look different?
+Businesses and developers have the option to show you a welcome message when you
+enter a new Direct Message conversation, which may include quick reply prompts
+with specific instructions to help streamline your communication.The welcome
+message you see may be tailored for you, including based on how you entered the
+conversation.For example, if you click or tap on a link or button in a post to
+go to Direct Messages, you may see a customized welcome message to continue the
+topic or conversation.You might also see messages from businesses or developers
+that appear different than most Direct Messages.This can include, but is not
+limited to, messages with a list of predefined options for you to choose from. 
+Note:  Businesses and developers will not know you saw their welcome message
+unless you respond, and the fact that you saw the welcome message does not mean
+the account can message you.Unless you have enabled the option to  Receive
+Direct Messages from anyone, you must send them a message or follow them before
+they can message you back.What happens when I am asked to mark media in Direct
+Messages as âsharedâ?     Third-party apps may ask you for your consent to
+configure media sent in Direct Messages as shareable.If media is configured as
+shareable, it can be sent by the third-party app as part of multiple Direct
+Message conversations between you and other people and will be viewable by
+anyone with the mediaâs URL.How do I accept or delete incoming messages from
+someone I donât follow?     Learn how to   accept or delete incoming Direct
+Messages   from someone you donât follow.Need more help?   If you have more
+questions about Direct Messages, you can contact our Support team.Get help
+Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

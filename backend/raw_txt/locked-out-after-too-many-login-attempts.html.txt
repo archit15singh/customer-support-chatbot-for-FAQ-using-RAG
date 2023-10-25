@@ -1,0 +1,82 @@
+X temporary account lock | X Help
+Skip to main content                                  Help Center
+Help with temporary account lock out
+What does it mean to be locked out?         After a limited number of failed
+attempts to sign in to X, you will be temporarily locked out from trying to sign
+in.When your account is locked, you will not be able to sign in â even with
+the correct password.This lock lasts about an hour and will then clear on its
+own.     If the lock does not clear after an hour         Disable your third-
+party applications, like postdeck, Hootsuite, widgets, etc.(Only re-enable the
+applications you've disabled after you've confirmed you can sign in at  x.com.)
+Wait an hour.After an hour has passed, check to confirm that you can sign in
+successfully at  https://x.com/login.If you can't remember your password, you
+can  request a new password here.If you don't receive a password reset email and
+still cannot remember your password, read  login troubleshooting tips.     Why
+does X lock accounts?         X limits the number of times that someone can try
+signing in to an account for security reasons.We don't want to give hackers
+unlimited attempts at guessing your password.So, we block them from trying after
+a while.     I didn't trigger the lock.Was my account compromised?         If
+your account appears to be hacked or phished, we may proactively reset the
+passwords for the affected accounts to revoke access to the hacker.In these
+cases, we send an email to the account's real owner (you) with additional
+information on how to reset the password.If you got one of these emails, please
+follow the instructions in the email.If you think your account has been hacked
+or phished, find additional  information on compromised accounts.     What if I
+keep getting locked out and I use postDeck?         If you're using postDeck and
+are locked out of your account, please  sign out of and close postDeck
+entirely.You will not be able to verify or change your new password in postDeck
+while you are locked out, and keeping postDeck open may be causing your ongoing
+locks.Wait an hour and then confirm that you can sign in on  x.com.Once you've
+logged in successfully at  x.com , open postDeck and go immediately to
+Preferences  and then  Accounts.Select your account, then verify and save your
+correct password.Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

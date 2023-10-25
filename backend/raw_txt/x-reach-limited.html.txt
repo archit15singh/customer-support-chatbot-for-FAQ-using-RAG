@@ -1,0 +1,101 @@
+Specific instances when a post's reach may be limited
+Skip to main content                                  Help Center
+About specific instances when a postâs reach may be limited
+People may express themselves on X as long as they do not violate our  X Rules.
+ We do not block, limit, or remove content based on an individualâs views or
+opinions.In some situations, your post may not be seen by everyone, as outlined
+below:             1.Violation of the X Rules   Where appropriate, we will
+restrict the reach of posts that violate our policies and create a negative
+experience for other users by making the post less discoverable on X.   Learn
+more here about our  range of enforcement options.     2.Tools and controls
+Weâve developed a set of tools that enable people to control what they see on
+X.Block  â Block enables people to prevent someone from seeing their content
+or contacting them when logged in to X.Mute  â Mute enables people to avoid
+content they donât want to see without letting other people know theyâve
+been muted.People can mute other accounts, specific keywords from appearing in
+Notifications, their Home timeline, and entire conversations.   Notification
+filters  â We enable people to filter their notifications so they do not need
+to see posts from certain types of accounts, like those without a profile photo,
+unverified email address or phone numbers, and from accounts they do not follow.
+         3.  Quality and safety ranking     We are constantly working on
+improving core parts of the X experience, including the timeline, conversations,
+and  search   so that people see content that they are most interested in and
+contributes to the conversation in a meaningful way, such as content that is
+relevant, credible, and safe.       We have also developed "safe search"
+functionality which removes posts that contain potentially sensitive content and
+posts from blocked and muted accounts from search results.  As part of this, our
+team has been working on identifying and collapsing potentially abusive and low-
+quality replies so the most relevant conversations are brought forward.These
+post replies are still accessible to those who seek them out.     We use a
+variety of behavior-based signals to inform how we rank content, such as who you
+follow, what conversations you join, and if someone is muted or blocked and by
+whom.For example, if you post to a number of accounts and they block or mute
+you, we have a strong signal that those accounts do not want to see your
+posts.Or, if everyone responds when you mention them in a post that demonstrates
+to us that they want to join the conversation.No one signal is used in isolation
+â the system uses many signals to continually determine how each account
+should be ranked.     4.Experiments   We are constantly running experiments on X
+which may limit the reach of certain posts.If we decide to make a feature or
+experience generally available, we will update the community and this Help
+Center page.     5.Legal, quality, and technical issues   We may limit a
+postâs reach if it violates our  X Rules   or applicable laws, or is
+determined to be low quality.For more information on instances where we may
+withhold a post in a specific country, please see this Help Center  article.Some
+people report issues related to their posts not appearing on X or their replies
+detaching from an original post that happen outside of enforcement actions and
+safety features.These cases may be the result of a post being identified as spam
+by our systems or may be due to some current technical issues and limitations of
+the service.We use @XSupport to update the community about technical issues like
+these.If you notice other instances where posts are not appearing, we encourage
+you to let us know by  reporting the issue.Share this article
+Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                           ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸                                   CatalÃ 
+Hrvatski                                   Ð¡ÑÐ¿ÑÐºÐ¸
+SlovenÄina                                           à²ªà²¾à²·à³à²à³
+Dari                                           Oromo
+Tigrinya
+Kurdish
+Did someone say â¦ cookies?     X and its partners use cookies to provide you
+with a better, safer and   faster service and to support our business.Some
+cookies are necessary to use   our services, improve our services, and make sure
+they work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies

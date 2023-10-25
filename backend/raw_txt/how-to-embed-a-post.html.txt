@@ -1,0 +1,77 @@
+How to embed a post on your website or blog
+Skip to main content                                  Help Center
+How to embed a post on your website or blog
+How to embed a Post on your website or blog                    Click the 
+icon located within the post.From the menu, select  Embed post.This will open
+publish.x.com  where you can customize the look of the embedded post by clicking
+set customization options.If the post is a reply to another post, you can check
+Hide Conversation  to hide the original post.Once you like the look of the
+embedded post, copy the code provided by clicking the  Copy Code  button.Paste
+the code into your blog or website.Note:   Embedding posts is only available via
+X.com.             Examples of embedded Posts     Single Post:
+Reply including original Post:                         Post including media:
+Frequently asked questions                        Can I embed a Post that
+contains a photo, video, or other media?     Yes! An embedded Post can display
+photos and videos uploaded to X as well as content described by a link.What if
+the Post I want to embed is part of a conversation (a reply)?     When the
+embedded Post is a reply, the parent Post will be displayed above the reply.A
+permalink will be available on both Posts to the reply, and a link to the
+replierâs profile will be available on the reply.Check the  Hide Conversation
+ checkbox when setting customization options on   publish.x.com   to  hide the
+parent Post.Can I embed a Post from someone who chooses to protect their Posts?
+Embed code is not available for Posts from people who choose to protect their
+Posts.               What if someone deletes a Post, changes their Posts from
+public to protected, or the account becomes suspended after the Post has been
+embedded on another website?     Text content of the Post will still be visible,
+but media will not be loaded by X's JavaScript.     Visit our developer site for
+  more information about embedded Posts.  
+Share this article                                    Post
+X platform                                                       X.com
+Status                                           Accessibility
+Embed a post                                           Privacy Center
+Transparency Center                                           Download the X app
+X Corp.About the company                                           Company news
+Brand toolkit                                           Jobs and internships
+Investors                                               Help
+Help Center                                           Using X
+X for creators                                           Ads Help Center
+Managing your account                                           Email Preference
+Center                                           Rules and policies
+Contact us                                               Developer resources
+Developer home                                           Documentation
+Forums                                           Communities
+Developer blog                                           Engineering blog
+Developer terms                                               Business resources
+Advertise                                           X for business
+Resources and guides                                           X for marketers
+Marketing insights                                           Brand inspiration
+X Flight School                                                   © 2023 X
+Corp.Cookies                                       MStV Transparenzangaben
+Impressum                                       Privacy
+Terms and conditions                             English
+Help Center                            English
+EspaÃ±ol                                   æ¥æ¬èª
+íêµ­ì´                                   PortuguÃªs
+Deutsch                                   TÃ¼rkÃ§e
+FranÃ§ais                                   Italiano
+Ø§ÙØ¹Ø±Ø¨ÙØ©                                   Nederlands
+Bahasa Indonesia                                   Ð ÑÑÑÐºÐ¸Ð¹
+à¤¹à¤¿à¤à¤¦à¥                                   ×¢××¨××ª
+ç®ä½ä¸­æ                                   ç¹é«ä¸­æ
+à¸ à¸²à¸©à¸²à¹à¸à¸¢                                   Tiáº¿ng Viá»t
+Melayu                                   Filipino
+ÙØ§Ø±Ø³Ûâ                                   Dansk
+Suomi                                   Svenska
+Norsk                                   Polski
+Magyar                                   RomÃ¢nÄ
+Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°                                   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+CatalÃ                                    Hrvatski
+Ð¡ÑÐ¿ÑÐºÐ¸                                   SlovenÄina
+à²ªà²¾à²·à³à²à³                                   Dari
+Oromo                                   Tigrinya
+Kurdish                                                                    Did
+someone say â¦ cookies?     X and its partners use cookies to provide you with
+a better, safer and   faster service and to support our business.Some cookies
+are necessary to use   our services, improve our services, and make sure they
+work properly.Show more about your choices.Accept all cookies
+Refuse non-essential cookies
