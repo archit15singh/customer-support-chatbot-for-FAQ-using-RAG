@@ -37,10 +37,20 @@ def main():
         print(query)
         print(answer)
         print(end-start)
-
+        print('*'*100)
+        related_context = ""
         for document in docs:
+            related_context += "\n> " + document.metadata["source"] + ":\n"
+            related_context += document.page_content + '\n'
             print("\n> " + document.metadata["source"] + ":")
             print(document.page_content)
+        print('*'*100)
+        print(len(related_context))
+        print('*'*100)
+
+        res = llm(f"what are some related questions that can be asked for the parent question '{query}' based on the following related context: {related_context}")
+        print(res)
+
 
 
 if __name__ == "__main__":
