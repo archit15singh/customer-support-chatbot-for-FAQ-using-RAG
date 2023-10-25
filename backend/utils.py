@@ -23,7 +23,7 @@ def initialize_qa_system():
 
 
 def generate_related_questions(qa, parent_question, related_context):
-    query = f"what are some related questions that can be asked for the parent question '{parent_question}' based on the following related context:\n{related_context}"
+    query = f"""what are some related questions that can be asked for the parent question '{parent_question}' based on the following related context:\n{related_context}. Only include the related questions in a numbered format"""
     res = qa(query)
     return res['result']
 
