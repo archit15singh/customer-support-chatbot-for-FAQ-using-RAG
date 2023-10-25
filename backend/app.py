@@ -21,7 +21,7 @@ def chat():
     answer = answer.strip()
     related_questions = related_questions.strip()
 
-    response = f"{answer}\n Related questions:\n{related_questions}"
+    response = f"{answer}\n\nRelated questions:\n{related_questions}"
     return jsonify({'response': response})
 
 
