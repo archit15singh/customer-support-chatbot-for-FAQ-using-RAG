@@ -53,11 +53,11 @@ const Chat = () => {
 
         setMessages((prevMessages) => [...prevMessages, newBotMessage]);
         setInputValue('');
-        setIsDisabled(false);
       })
       .catch((error) => {
         console.error('Error:', error);
-        setIsDisabled(false);
+        alert('An error occurred. Please try again.'); // Show an alert on error
+        setInputValue('');
       })
       .finally(() => {
         setIsDisabled(false);
