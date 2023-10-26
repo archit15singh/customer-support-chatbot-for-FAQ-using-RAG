@@ -28,6 +28,7 @@
 ### Demo:
 
 - [Watch the Demo](https://www.loom.com/share/491ce88daed946ac9e9badf66438121a?sid=8eddd247-604b-45b3-abf6-bbbc7e975662)
+- ![Demo screenshot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## The current version can answer questions in the areas of:
 
