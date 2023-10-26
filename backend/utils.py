@@ -10,7 +10,7 @@ import time
 model = os.environ.get("MODEL", "mistral-openorca")
 embeddings_model_name = os.environ.get("EMBEDDINGS_MODEL_NAME", "all-MiniLM-L6-v2")
 persist_directory = os.environ.get("PERSIST_DIRECTORY", "db")
-target_source_chunks = int(os.environ.get('TARGET_SOURCE_CHUNKS', 2))
+target_source_chunks = int(os.environ.get('TARGET_SOURCE_CHUNKS', 1))
 
 embeddings = HuggingFaceEmbeddings(model_name=embeddings_model_name)
 db = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
