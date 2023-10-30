@@ -427,5 +427,3 @@ Articles that describe how X supports applicable local laws.
 - Grievance Officer - India
 - Basic Online Safety Expectations - Australia
 
-
-for hackathon: https://lablab.ai/event/mistral-7b-24-hours-hackathon
